@@ -1,0 +1,55 @@
+<!-- $Id: page.dtd 123 2006-01-03 15:51:03Z dtischer $ -->
+
+<!ENTITY % xhtml.dtd SYSTEM "xhtml1-strict.dtd">
+%xhtml.dtd;
+
+<!ENTITY % dublin.dtd SYSTEM "dcmes-xml-dtd.dtd">
+%dublin.dtd;
+
+<!ENTITY % xinclude SYSTEM "xinclude.mod">
+%xinclude;
+
+
+<!--
+    Because of gettext, language code must be ISO 639:
+    http://www.w3.org/WAI/ER/IG/ert/iso639.htm
+-->
+
+<!ELEMENT nox:page (rdf:RDF?, nox:javascript*, nox:stylesheet*, nox:menublock*, xi:include*, nox:section+)>
+<!ATTLIST nox:page
+    id CDATA #IMPLIED
+	lang (da|de|el|en|es|fi|fr|it|nl|pt|sv) #IMPLIED
+	title CDATA #REQUIRED
+    type (static|dynamic) "static"
+    xmlns:nox CDATA #FIXED "http://dtischer.free.fr/nox"
+>
+
+<!-- Make sure we don't accept scripting content in the page ! -->
+<!ELEMENT nox:javascript EMPTY>
+<!ATTLIST nox:javascript
+	src CDATA #REQUIRED
+	type CDATA #FIXED "text/javascript"
+	agent (ie5|ie6|ie7|notie|all) "all"
+>
+
+<!-- Make sure we don't accept styling content in the page ! -->
+<!ELEMENT nox:stylesheet EMPTY>
+<!ATTLIST nox:stylesheet
+    src CDATA #REQUIRED
+    media (all|aural|braille|embossed|handheld|print|projection|screen|tty|tv) #IMPLIED
+    type CDATA #FIXED "text/css"
+    title CDATA #IMPLIED
+    rel CDATA #FIXED "stylesheet"
+>
+
+<!-- Stuff to put in the sidebar -->
+<!ELEMENT nox:menublock %Flow; >
+<!ATTLIST nox:menublock
+	title CDATA #IMPLIED
+>
+
+<!-- A basic content block (editing unit) -->
+<!ELEMENT nox:section (#PCDATA | %block; | form | %inline; | %misc; | xi:include)*>
+<!ATTLIST nox:section
+	id CDATA #IMPLIED
+>

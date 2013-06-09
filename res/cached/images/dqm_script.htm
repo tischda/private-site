@@ -1,0 +1,200 @@
+q18=0;q19=new Array();
+
+dh=DQM_divider_height;
+q61 =false;
+if (navigator.userAgent.indexOf("Opera") != -1)
+	var opera=true;
+ns=navigator.appName==("Netscape");
+ns4=(ns &&(navigator.appVersion.indexOf("4.")!=-1));
+mac=(navigator.appVersion.indexOf("Mac")!=-1);
+ie=(navigator.appName.toLowerCase().indexOf("microsoft")>-1);
+ie5=(navigator.appVersion.toLowerCase().indexOf("msie 5.")!=-1);
+ie6=(navigator.appVersion.toLowerCase().indexOf("msie 6.")!=-1);
+ie4=((ie)&&(!ie5)&&(!ie6));
+ns5=(navigator.vendor==("Netscape6")|| navigator.product==("Gecko"));
+if((ns5)||(ie6)||(ie4))
+	ie5=true;
+	ie5only=((ie5)&&(!ns5)&&(!mac));
+	(ie5only)? brn="ie":brn="ns";
+	if((ns5)||((ie5)&&(mac)))
+		brn="ns6";
+	if(opera)
+		brn="opera";
+	document.write("<script language=\"JavaScript1.2\" src=\""+DQM_codebase+"dqm_"+brn+".js\"></script>");
+	document.close();;
+
+function DQM_handleOnload(){
+	if(q61)
+		return;
+	q31();
+	if(!ie5only){
+		i=0;
+		while(eval("window.DQM_rollover_image"+i)){
+			q20=q20.concat(new Array(new Image()));
+			q20[i].src=eval("DQM_rollover_image"+i);
+			q21=q21.concat(new Array(q16("menu"+i).src));
+			i++;
+		}
+	}
+	q61=true;
+	eval(DQM_onload_statement);
+};
+
+function q27(nid){
+	if(eval("window.DQM_rollover_image"+nid)){
+		if(ie5only)
+			eval("q16(qmim"+nid+")."+q59);
+		else q16("menu"+nid).src=q21[nid];}
+};
+
+function q30(menu){if((menu.lasthl!=null)&&(menu.q60==null))q4(menu);};
+
+function q31(){for(i=0;i<q18;i++){if(eval("window.DQM_subdesc"+i+"_0"))q1(i,true);}for(i=0;i<q19.length;i++)q1(q19[i],false);};
+
+function q32(index){
+
+	if(!eval("window.DQM_url"+index))
+		return;
+
+	if(eval("window.DQM_urltarget"+index))
+		where=eval("DQM_urltarget"+index);
+	else where=DQM_urltarget;
+
+	var currUrl = eval("DQM_url" + index);
+
+	if((where.length<1)||(where.toLowerCase()=="_self")){
+		window.location.href=eval("DQM_url"+index);
+	} else {
+		if(where.toLowerCase().indexOf("_parent")>-1) {
+			eval("parent.window.location=DQM_url"+index);
+		} else  if(where.toLowerCase().indexOf("_new")<0) {
+			eval("parent."+where+".location=DQM_url"+index);
+		} else {
+			window.open(eval("DQM_url"+index));
+		}
+	}
+	logCTT(currUrl);
+};
+
+function q33(coords){
+	var q72=new Array(0,0);
+	var txy=coords.indexOf(",");
+	if(txy!=-1){
+		q72[0]=parseInt(coords.substring(0,txy));
+		q72[1]=parseInt(coords.substring(txy+1));
+	}
+	return q72;
+};
+
+function getLevelVal(id,endv,rt){
+	level=0;k=0;
+	while((k=id.indexOf("_",k+1))>-1)
+		level++;
+		if(eval("window.DQM_border"+endv+level))
+			return eval("DQM_border"+endv+level);
+		else return rt;
+}
+
+
+var LN_IMG_LOC = '/content/images/';
+
+function LN_drawMenu() {
+		
+	menu = new LN_menuItem(LN_MENU_ITEMS, -1);
+
+	menu.LN_findItems();
+	
+	document.write('<table width="150" border="0" cellspacing="0" cellpadding="0" bgcolor="#d9d8d8">');
+	document.write('<tr>');
+	document.write('<td><img src="' + LN_IMG_LOC + 'spacer.gif" width="10" height="1"></td>');
+	document.write('<td><img src="' + LN_IMG_LOC + 'spacer.gif" width="10" height="1"></td>');
+	document.write('<td><img src="' + LN_IMG_LOC + 'spacer.gif" width="120" height="1"></td>');
+	document.write('<td><img src="' + LN_IMG_LOC + 'spacer.gif" width="10" height="1"></td>');
+	document.write('</tr>');   
+	menu.LN_drawItems(true, false);
+	document.write('</table>');
+}
+
+function LN_findItems(){
+	
+	for(var i = 0; i < this.subMenus.length; i++)
+		if(this.subMenus[i].level < LN_MENU_ACTIV.length)
+			if(this.subMenus[i].name == LN_MENU_ACTIV[this.subMenus[i].level])
+			{
+				LN_MENU_ACTIV[this.subMenus[i].level] = i;
+				this.subMenus[i].LN_findItems();				
+				break;
+			}
+}
+
+function LN_drawItems(open, activ) {
+	
+	if(this.level >= 0)
+	{
+		var i = activ ? 1 : 0;
+		indic = ['<img src="' + LN_IMG_LOC + 'spacer.gif" alt="bea" width="10" height="10">',
+		         '<img src="' + LN_IMG_LOC + 'common/nav_indicator.gif" alt="navigation arrow" width="10" height="10">'];
+		
+		switch(this.level) {
+		
+			case 0 :			
+			document.write('<tr><td colspan="4"><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="8"></td></tr>');
+			document.write('<tr valign="top">');
+			document.write('<td>' + indic[i] + '</td>');
+			document.write('<td colspan="2"><a href="' + this.link + '" class="nav1">' + this.name + '</a></td>');
+			document.write('<td><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="1"></td>');
+			document.write('</tr>');
+			document.write('<tr><td colspan="4"><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="8"></td></tr>');
+			document.write('<tr bgcolor="#ffffff"><td colspan="4"><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="1"></td></tr>');
+			if(open && this.subMenus.length > 0)
+			document.write('<tr bgcolor="#f7f7f7"><td colspan="4"><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="7"></td></tr>');
+			break;
+			 
+			case 1 :
+			document.write('<tr bgcolor="#f7f7f7" valign="top">');
+			document.write('<td>' + indic[i] + '</td>');
+			document.write('<td colspan="2"><a href="' + this.link + '" class="nav2">' + this.name + '</a></td>');
+			document.write('<td><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="1"></td>');
+			document.write('</tr>');
+			document.write('<tr bgcolor="#f7f7f7"><td colspan="4"><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="7"></td></tr>');
+			break;
+			
+			case 2 :
+			document.write('<tr bgcolor="#f7f7f7" valign="top">');
+			document.write('<td colspan="2">' + indic[i] + '</td>');
+			document.write('<td ><a href="' + this.link + '" class="nav3">' + this.name + '</a></td>');
+			document.write('<td><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="1"></td>');
+			document.write('</tr>');
+			break;
+		}
+	}
+	
+	if(!open) return;
+	
+	for(var i = 0; i < this.subMenus.length; i++)
+	{
+		if(i > 0 && this.level == 1)
+			document.write('<tr bgcolor="#f7f7f7"><td colspan="4"><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="3"></td></tr>');
+		
+		this.open = (i == LN_MENU_ACTIV[this.subMenus[i].level]) ? true : false;
+		this.activ = (this.open && LN_MENU_ACTIV.length == this.subMenus[i].level + 1) ? true : false;
+		this.subMenus[i].LN_drawItems(this.open, this.activ);
+	}
+
+	if(this.subMenus.length > 0 && this.level == 1)
+		document.write('<tr bgcolor="#f7f7f7"><td colspan="4"><img src="' + LN_IMG_LOC + 'spacer.gif" width="1" height="7"></td></tr>');
+}
+
+function LN_menuItem(input, level) {
+
+	this.name = input[0];
+	this.link = input[1];
+	this.level = level;
+	this.subMenus = new Array();
+		
+	for(var i = 2; i < input.length; i++)
+		this.subMenus[i - 2] = new LN_menuItem(input[i], level + 1);
+	
+	this.LN_drawItems = LN_drawItems;
+	this.LN_findItems = LN_findItems;
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Career : French Army" type="static">
+  <nox:section>
+    <h1>1994 - 1995 : French Army (F.F.S.A.)</h1>
+    <p>
+      <a href="http://www.defense.gouv.fr/terre" rel="external" shape="rect">French Army</a>
+    </p>
+    <p>After the defeat in 1945, Germany was divided in four zones. The <strong>Forces Françaises en
+        Allemagne</strong> (FFA) were created to militarise their occupation zone. Heavy armored
+      units were deployed to face the soviet threat. At the peak of the Cold War, the French Army
+      counted up to 80.000 soldiers.</p>
+    <p>In 1990 after the fall of the Berlin wall, rumours started about its dissolution. Between
+      1991 and 1994, the FFA was reorganised, renamed to <strong>Forces Françaises Stationnées en
+        Allemagne</strong> (FFSA) and eventually reduced to 25.000 men.</p>
+    <p>During my military service, I was first trained in a transmission regiment in Achern and then
+      transferred to the headquarters in Baden-Baden. There, between rare field assignments, I was
+      responsible for the conception and realization of a computerized management system for heating
+      energies (budget analysis).</p>
+    <p>
+      <a class="image" href="../images/site/experience/exp_ffsa.png" rel="external" shape="rect">
+        <img alt="FFSA Certificate" src="../images/site/experience/thumbs/exp_ffsa.png"
+          style="border: 1px solid black;" />
+      </a> &#160; <a class="image" href="../images/site/experience/ffsa_photo_groupe.jpg"
+        rel="external" shape="rect">
+        <img alt="FFSA Group Photo" src="../images/site/experience/thumbs/ffsa_photo_groupe.jpg" />
+      </a>
+    </p>
+    <p>During this period, I became an expert in Microsoft Access and realised my first complete
+      development project, from requirements gathering to user training.</p>
+    <p>
+      <a class="image" href="ceefm_analyse.pdf" rel="external" shape="rect">
+        <img alt="CEEFM Analysis" src="../images/site/experience/thumbs/exp_ffsa_analyse.png" />
+      </a>  <a class="image" href="ceefm_diag_flux.pdf" rel="external" shape="rect">
+        <img alt="CEEFM Data Flow Diagram" src="../images/site/experience/thumbs/exp_ffsa_flux.png"
+         />
+      </a>  <a class="image" href="ceefm_documents.pdf" rel="external" shape="rect">
+        <img alt="CEEFM Documents" src="../images/site/experience/thumbs/exp_ffsa_documents.png" />
+      </a>  <a class="image" href="ceefm_dict_donnees.pdf" rel="external" shape="rect">
+        <img alt="CEEFM Data Dictionary" src="../images/site/experience/thumbs/exp_ffsa_donnees.png"
+         />
+      </a>  <a class="image" href="ceefm_mcd.pdf" rel="external" shape="rect">
+        <img alt="CEEFM Entity Resationship Diagram"
+          src="../images/site/experience/thumbs/exp_ffsa_mcd.png" />
+      </a>  <a class="image" href="ceefm_etude_cas.pdf" rel="external" shape="rect">
+        <img alt="CEEFM Cast Study" src="../images/site/experience/thumbs/exp_ffsa_cas.png" />
+      </a>
+    </p>
+    <p>In 2006, following the reorganisation of the French army and the removal of the conscription,
+      there remains only 5000 soldiers in the FFSA.</p>
+  </nox:section>
+</nox:page>

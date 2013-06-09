@@ -1,0 +1,122 @@
+/* $Id: basic.css 14 2004-12-27 11:37:08Z dtischer $ */
+
+/* --- ---------------------------------------------------------------
+    Content Area Styles
+------------------------------------------------------------------- */
+body {
+    background-color: #4B4B4B;
+    color: white;    
+}
+
+div.source {
+    color: black;
+}
+
+#topnav {
+    margin: 0;
+}
+
+#content {
+    background-color: #333333;
+    border: 1px solid #333333;
+}
+
+#sidebar a, #sidebar a:visited {
+    color: white;
+}
+
+#sidebar a:hover {
+    background-color: #F8F1E7;
+    color: #000000;
+    border-left: 3px solid #96DBF6;
+}
+
+/* --- ---------------------------------------------------------------
+    Headings
+------------------------------------------------------------------- */
+h1 {
+    border: none;
+    color: #EDEEEB;
+}
+
+h1:first-child, div[class = right] + h1  {
+    margin-top: 0px;
+}
+
+h2 {
+    color: #FFFFCC;   /*  #96DBF6   */
+}
+
+
+/* --- ---------------------------------------------------------------
+    Paragraphs
+------------------------------------------------------------------- */
+#content p {
+    color: #96F6C0;
+}
+
+#content p.descr {
+    color: #999;
+}
+
+#content p.url {
+    color: #8AE18D;
+}
+
+textarea {
+    padding: 5px;
+    background-color: #FCFAF5;    
+}
+
+em {
+    color: #DF246A;
+}
+
+/* --- ---------------------------------------------------------------
+    Lists
+------------------------------------------------------------------- */
+ul, ol {
+    color: #96F6C0;
+}
+
+/* --- ---------------------------------------------------------------
+    Links
+------------------------------------------------------------------- */
+a {
+    background: transparent;
+    border-bottom: 1px dotted #AAC1DE;
+    color: #6699CC;
+    text-decoration: none;
+}
+
+  
+a:visited {
+    color: #6699CC;
+}
+
+a:active {
+    color: #6699CC;
+}
+
+a:hover {
+    color: #2A639C;
+}
+
+/* --- ---------------------------------------------------------------
+    Tables
+------------------------------------------------------------------- */
+table {
+    margin: 0;
+}
+
+table.preformat td {
+    background-color:  #333;
+}
+
+table.preformat td.tablefirstcol {
+    background-color: white;
+}
+
+table.preformat td.tablesubheader2 {
+    background-color: #666;
+}

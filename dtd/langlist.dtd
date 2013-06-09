@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- $Id: linklist.dtd 39 2005-05-14 18:24:14Z dtischer $ -->
+
+<!ELEMENT language (#PCDATA)>
+<!ATTLIST language
+	code (da|de|el|en|es|fi|fr|it|nl|pt|sv) #REQUIRED>
+
+<!ELEMENT langlist (language)+>
+

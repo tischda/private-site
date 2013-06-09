@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- $Id: linklist.dtd 39 2005-05-14 18:24:14Z dtischer $ -->
+
+<!ELEMENT a (#PCDATA)>
+<!ATTLIST a 
+	href CDATA #REQUIRED
+	rel CDATA "">
+
+<!ELEMENT page (a)+>
+<!ATTLIST page 
+	xmlns:xhtml CDATA #IMPLIED
+	title CDATA #REQUIRED>
+
+<!ELEMENT linklist (page)+>
+

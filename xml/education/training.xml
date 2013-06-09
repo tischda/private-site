@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Education : Training">
+  <nox:section>
+    <h1>Training</h1>
+    <p>Here the list of professional trainings I attended:</p>
+    <table class="preformat" summary="Training">
+      <tr>
+        <th>Date</th>
+        <th>Duration</th>
+        <th>Description</th>
+        <th>View</th>
+      </tr>
+      <tr>
+        <td colspan="5" class="tablesubheader1"> </td>
+      </tr>
+        <tr>
+            <td>2008<br /><br />Learning Tree<br /><br />
+                <i>London</i></td>
+            <td>3 days</td>
+            <td>
+                <b>Service Oriented Architecture (SOA)</b>
+                <p>This course defines "service" and "architecture" and establishes a strong
+                    understanding of the concepts needed to have an effective working knowledge
+                    of SOA methodologies, modeling, design, SOA technologies, orchestration
+                    and architectural frameworks.</p>
+                <p><a href="../cached/lt_soa_424.pdf">Course details</a></p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/edu_soa.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/edu_soa.jpg" alt="Service Oriented Architecture" />
+                </a>
+            </td>
+        </tr>        
+        <tr>
+            <td>2008<br /><br />Cruz Roja<br /><br />
+                <i>Alicante</i></td>
+            <td>3 days</td>
+            <td>
+                <b>First Aid Training</b>
+                <p>This training was given at OHIM to personel responsible for evacuation
+                    in case of emergency (I took on this responsibility in 2007).</p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/edu_first_aid.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/edu_first_aid.jpg" alt="First Aid" />
+                </a>
+            </td>
+        </tr>        
+        <tr>
+        <td>2007<br /><br />Bogdan Bereza-Jarociński<br /><br />
+          <i>Alicante</i></td>
+        <td>2 days</td>
+        <td>
+          <b>ISTQB® Certified Tester - Foundation</b>
+          <p>The <a href="http://www.istqb.org/" rel="external">ISTQB</a> was founded as an
+            International Software Testing Qualifications Board in Edinburgh in November 2002. The
+            qualifications are based on a <a href="../cached/SyllabusFoundation.pdf">syllabus</a>, and
+            there is a hierarchy of qualifications and guidelines for accreditation and examination.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/edu_istqb_tester.jpg" rel="external">
+            <img src="../images/site/education/thumbs/edu_istqb_tester.jpg" alt="ISTQB Certified Tester" />
+          </a>
+        </td>
+      </tr>      
+      <tr>
+        <td>2007<br /><br />OHIM <br/>(QRP)<br /><br />
+          <i>Alicante</i></td>
+        <td>5 days</td>
+        <td>
+          <b>PRINCE2 Foundation &amp; Practitioner</b>
+          <p> PRINCE®, which stands for <b>Pr</b>ojects <b>in</b>
+            <b>C</b>ontrolled <b>E</b>nvironments, is a project management method covering the
+            organisation, management and control of projects. PRINCE® was first developed by the
+            Central Computer and Telecommunications Agency (CCTA), now part of the Office of
+            Government Commerce (OGC), in 1989 as a UK Government standard for IT project
+            management.</p>
+        </td>
+        <td>
+          Internal Training
+        </td>
+      </tr>      
+      <tr>
+        <td>2006<br /><br />OHIM<br /> (EPO-team)<br /><br />
+          <i>Alicante</i></td>
+        <td>2 days</td>
+        <td>
+          <b>Business Process Modelling (BPMN)</b>
+          <p>A standard <a href="http://www.bpmn.org/" rel="external">Business Process Modeling
+              Notation</a> (BPMN) will provide businesses with the capability of understanding their
+            internal business procedures in a graphical notation and will give organizations the
+            ability to communicate these procedures in a standard manner.</p>
+        </td>
+        <td>Internal Training</td>
+      </tr>
+      <tr>
+        <td>2006<br /><br />OHIM<br /> (Exagon)<br /><br />
+          <i>Alicante</i></td>
+        <td>2 days</td>
+        <td>
+          <b>ITIL Foundation</b>
+          <p>The Information Technology Infrastructure Library (ITIL) is an integrated set of
+            best-practice recommendations.</p>
+          <p>This framework essentially defines how to organize the system and network management
+            departments within individual organizations.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/edu_itil.jpg" rel="external">
+            <img style="border: 1px solid #eee;" src="../images/site/education/thumbs/edu_itil.jpg" alt="ITIL Training" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2006<br /><br />Adecco<br /><br />
+          <i>Alicante</i></td>
+        <td>2 days</td>
+        <td>
+          <b>Health And Safety Training</b>
+          <p>Through effective occupational health and safety (OHS) management, a business can
+            safeguard and enhance its greatest assets, its people.</p>
+          <p>This training meets legislative, regulatory and other workplace health and safety
+            requirements (in Spain). </p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/edu_riesgos.jpg" rel="external">
+            <img src="../images/site/education/thumbs/edu_riesgos.jpg" alt="Riesgos Laborales" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2005<br /><br />infeurope S.A.<br /> (Jürgen Höller)<br /><br />
+          <i>Luxembourg</i></td>
+        <td>1 week</td>
+        <td>
+          <b>Spring &amp; Hibernate</b>
+          <p>As the leading full-stack Java/J2EE application framework, the <a
+              href="http://www.springframework.org/" rel="external">Spring Framework</a> delivers
+            significant benefits for many projects, reducing development effort and costs while
+            improving test coverage and quality.</p>
+          <p><a href="http://www.hibernate.org/" rel="external">Hibernate</a> is a powerful,
+            ultra-high performance object/relational persistence and query service for Java.
+            Hibernate lets you develop persistent classes following common Java idiom including
+            association, inheritance, polymorphism, composition, and the Java collections framework.</p>
+          <p>Contents: J2EE Review, Spring Framework, Hibernate, EJB3, Servlet/JSP Review, Struts,
+            Spring WebMVC</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/edu_spring.jpg" rel="external">
+            <img style="border: 1px solid #eee;" src="../images/site/education/thumbs/edu_spring.jpg" alt="Spring Training" />
+          </a>
+        </td>        
+      </tr>
+      <tr>
+        <td>2005<br /><br />OHIM<br />(IIL Training)<br /><br />
+          <i>Alicante</i></td>
+        <td>1+ weeks</td>
+        <td>
+          <b>PMI Project Management</b>
+          <p>Nine knowledge areas with the following objectives:</p>
+          <ul>
+            <li>Project Integration Management</li>
+            <li>Project Scope Management</li>
+            <li>Project Time Management</li>
+            <li>Project Cost Management</li>
+            <li>Project Quality Management</li>
+            <li>Project Human Resource Management</li>
+            <li>Project Communication Management</li>
+            <li>Project Risk Management</li>
+            <li>Project Procurement Management</li>
+          </ul>
+          <p>Processes have been divided into five groups:</p>
+          <ul>
+            <li>Initiating processes</li>
+            <li>Planning processes</li>
+            <li>Executing processes</li>
+            <li>Monitoring and Controlling processes</li>
+            <li>Closing processes</li>
+          </ul>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/edu_pmi.jpg" rel="external">
+            <img src="../images/site/education/thumbs/edu_pmi.jpg" alt="PMI Training" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2003<br /><br />infeurope S.A.<br /> (BEA Training)<br /><br />
+          <i>Luxembourg</i></td>
+        <td>3 weeks</td>
+        <td>
+          <b>BEA Weblogic 7 and 8.1</b>
+          <p>Customized training session:</p>
+          <p><a href="../cached/bea_wls_d11_70.html" rel="external">WLS-D11-70</a> Fundamentals of J2EE
+            Web Application Dev.</p>
+          <p><a href="../cached/bea_wls_d21_70.html" rel="external">WLS-D21-70</a> Dev. Business Logic
+            Components with EJBs</p>
+          <p><a href="../cached/bea_wls_d29_70.html" rel="external">WLS-D29-70</a> Developing
+            Enterprise Web Services</p>
+          <p><a href="../cached/bea_wls_plat81.html" rel="external">PLAT-01-81</a> Introduction to the
+            BEA WebLogic Platform 8.1</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_bea.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_bea.jpg" alt="BEA Training" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2002<br /><br />Infopark Academy<br /><br />
+          <i>Luxembourg</i></td>
+        <td>3 days</td>
+        <td>
+          <b>NPS Training</b>
+          <p>Infopark NPS combines targeted information editing with the perfect integration
+            of portal- and CMS functions.</p>
+          <p><i>Editor's Training</i> - Insert and maintain contents in Infopark NPS. Accomplish an
+            editor's daily tasks.</p>
+          <p><i>Administrator's Training</i> Advanced Infopark NPS usage to provide the knowledge
+            required for handling NPS administrative issues.</p>
+          <p><i>Webmaster training</i> - Individual design and unification of design elements with
+            templates. Usage of Infopark NPS tools for automation.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/edu_nps.jpg" rel="external">
+            <img src="../images/site/education/thumbs/edu_nps.jpg" alt="NPS Training" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2000<br /><br />Sun Microsystems<br /><br />
+          <i>Luxembourg</i></td>
+        <td>1 week</td>
+        <td>
+          <b>Oracle 8 - Database Administration</b>
+          <p>This course provides the necessary knowledge and skills to become a successful Oracle
+            Database Administrator. Participants learn the basic administrative tasks and tools
+            needed to set up, maintain, and troubleshoot an Oracle database.</p>
+          <p>Topics include installation and configuration, creation and management of a database,
+            importing and exporting data, and security.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/edu_oracle.jpg" rel="external">
+            <img src="../images/site/education/thumbs/edu_oracle.jpg" alt="Oracle         Training" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>1998<br /><br />Sun Belgium<br /><br />
+          <i>Brussels</i></td>
+        <td>1 week</td>
+        <td>
+          <b>Sun Java-Programming (SL-275)</b>
+          <p> The Java<sup>TM</sup> Programming Language course provides students with information
+            about the syntax of the Java programming language, object-oriented programming with the
+            Java programming language, creating graphical user interfaces (GUIs), exceptions, file
+            input/output (I/O), and threads and networking.</p>
+          <p>Programmers familiar with object-oriented concepts can learn how to develop Java
+            technology applications. The course uses the Java 2 Software Development Kit. </p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/edu_java.jpg" rel="external">
+            <img src="../images/site/education/thumbs/edu_java.jpg" alt="Java Training" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>1995<br /><br />Navision Software<br /><br />
+          <i>Vedbaek</i></td>
+        <td>1 week</td>
+        <td>
+          <b>Navision Financials 1.0</b>
+          <p> Technical training about Navision Financial's internals, the proprietary 4GL
+            development tools and best practices to use them efficiently. </p>
+        </td>
+        <td>Internal Training</td>
+      </tr>
+    </table>
+  </nox:section>
+</nox:page>

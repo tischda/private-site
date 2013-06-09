@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Career : OHIM - CPS">
+	<nox:section>
+
+<h1>OHIM - CPS</h1>
+<p>10/2001 - 05/2003, infeurope S.A. Luxembourg, OHIM Alicante<br/>
+<a href="http://oami.europa.eu/" rel="external" shape="rect">http://oami.europa.eu/</a>
+</p>
+<p>Analysis and development of a common payment system (CPS) for OHMI in Luxembourg. This involved access to critical data between SAP, Informix and Oracle databases. Responsible for the communication interfaces with SAP (import/export) and accounting reports.</p>
+<p>Testing and setting in production of the system in Alicante (stay of 5 months in Spain).</p>
+<h2>General architecture</h2>
+<p class="right">
+<a class="image" href="../images/site/experience/exp_cps.png" rel="external" shape="rect">
+<img alt="CPS       Modules" class="right" height="122" src="../images/site/experience/thumbs/exp_cps.png" width="231"/>
+</a>
+</p>
+<p>EURODESIGN consists of a completely new development of 18 modules based on J2EE standards in a multi-tier-architecture. To simplify and organize the registration workflow, each module can be deployed on a different server, the system is highly distributed and used exclusively in the browser.</p>
+<p>As EURODESIGN is meant to replace EUROMARC, some modules are defined in a common sense, such as Common Mail Room and Common Payment System (CPS). Both systems are using the same database instance (400 tables) which makes documentation more important than in other projects.</p>
+<h2>Functionalities of CPS</h2>
+<p>The module CPS manages the payments during the registration process. Due to the complicated registration procedures for marks and designs which are in general carried out by specialized advocates, the module contains an account management. All data are first imported in an Informix database and then exported to SAP for the final bookkeeping of the payments.</p>
+<p>The CPS module has a wide range of function: Within this module one can manage payments and payers and keep all transactions in a paybook to allow one advocate to manage different registrations in parallel. The closing of the accounts at the end of the year is implemented in this paybook management. The rules for fees for the registration of marks or designs are highly configurable to be flexible in the future. In detail these fees depend on the status and progress of the registration process and also on its result. For this reason the CPS module also contains a refunding function, necessary whenever the initial amount paid by the client has been too high.</p>
+<h2>Software used for the project</h2>
+<table class="preformat">
+	<thead>
+		<tr>
+			<th colspan="1" id="th087DB2280000" rowspan="1">Task</th>
+			<th colspan="1" id="th087DB2280001" rowspan="1">Software</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="tablesubheader1" colspan="4" headers="th087DB2280000" rowspan="1"> </td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087DB2280000" rowspan="1">Analysis</td>
+			<td colspan="1" headers="th087DB2280001" rowspan="1">Rational Unified Process (RUP), UML</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087DB2280000" rowspan="1">Database design</td>
+			<td colspan="1" headers="th087DB2280001" rowspan="1">Power Designer</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087DB2280000" rowspan="1">Teamwork</td>
+			<td colspan="1" headers="th087DB2280001" rowspan="1">Common CVS server in Luxemburg with access from Spain through SSH tunnel</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087DB2280000" rowspan="1">Bug tracking and test results</td>
+			<td colspan="1" headers="th087DB2280001" rowspan="1">Rational Team Test</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087DB2280000" rowspan="1">Programming languages / tools</td>
+			<td colspan="1" headers="th087DB2280001" rowspan="1">Java JDK 1.3 and 1.4, Turbine framework / Eclipse, JBuilder</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087DB2280000" rowspan="1">Application servers and database</td>
+			<td colspan="1" headers="th087DB2280001" rowspan="1">Tomcat 3.3 and 4.0, JBOSS 3, Weblogic 6.1, Oracle 8, Informix 7.1.3</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087DB2280000" rowspan="1">Development platform</td>
+			<td colspan="1" headers="th087DB2280001" rowspan="1">Debian Linux and Windows NT 4</td>
+		</tr>
+	</tbody>
+</table>
+<h2>Screenshots</h2>
+<table>
+	<tr>
+		<td colspan="1" rowspan="1">
+<a class="image" href="../images/site/experience/exp_cpsindex.png" rel="external" shape="rect">
+<img alt="CPS          Welcome Page" class="right" height="106" src="../images/site/experience/thumbs/exp_cpsindex.png" width="150"/>
+</a>
+</td>
+		<td colspan="1" rowspan="1">  </td>
+		<td colspan="1" rowspan="1">
+<a class="image" href="../images/site/experience/exp_cpspayments.png" rel="external" shape="rect">
+<img alt="CPS          Payment List" class="right" height="103" src="../images/site/experience/thumbs/exp_cpspayments.png" width="150"/>
+</a>
+</td>
+		<td colspan="1" rowspan="1">  </td>
+		<td colspan="1" rowspan="1">
+<a class="image" href="../images/site/experience/exp_cpspcard.png" rel="external" shape="rect">
+<img alt="CPS          Payment Card" class="right" height="106" src="../images/site/experience/thumbs/exp_cpspcard.png" width="150"/>
+</a>
+</td>
+	</tr>
+</table>
+ </nox:section>
+</nox:page>

@@ -1,0 +1,397 @@
+/* $Id: preferred.css 14 2004-12-27 11:37:08Z dtischer $ */
+
+/* --- ---------------------------------------------------------------
+
+	Body
+
+------------------------------------------------------------------- */
+
+body {
+    background: url(../images/background.png) ;
+    background-color: white ;
+    }
+
+
+/* --- ---------------------------------------------------------------
+
+	Header
+
+------------------------------------------------------------------- */
+
+#header {
+    color: black ;
+    height: 76px ;
+    background: url("../images/header.gif") 0px 0px repeat-x ;
+    background-color: #7071A2 ;
+    }
+
+#logo {
+    position: absolute ;
+    top: 15px ;
+    left: 15px ;
+    height: 70px ;
+    width: 120px ;
+    background: url("../images/logo.gif") top left no-repeat ;
+    }
+
+#title {
+    position: absolute ;
+    top: -27px ;
+    left: 160px ;
+    width: 300px ;
+    font-family: "Century Gothic", verdana, monospace ;
+    font-style: italic ;
+    font-weight: normal ;
+    font-size: 32px ;
+    color: #181C4A ;
+    }
+
+#breadcrumb {
+    position: absolute ;
+    top: 42px ;
+    left: 165px ;
+    font-family: "Century Gothic", verdana, monospace ;
+    font-style: normal ;
+    font-weight: normal ;
+    color: white ;
+    font-size: 16px ;
+    background: transparent ;
+    }
+
+#date {
+    position: absolute ;
+    top: 20px ;
+    right: 20px ;
+    color: #E1E1E1 ;
+    text-align: center ;
+    }
+
+#languages {
+    position: absolute ;
+    top: 10px ;
+    right: 210px ;
+    margin: 0 ;
+    background: transparent ;
+	}
+
+
+#message {
+    margin: 0 auto 0 auto;
+    width: 500px ;
+    background: transparent ;
+    }
+
+
+.white {
+    color: White ;
+    }
+
+
+/* --- ---------------------------------------------------------------
+
+	Main Navigation
+
+------------------------------------------------------------------- */
+
+#topnav {
+    margin: 0 0 10px 0 ;
+    padding: 1px ;
+    height: 28px ;
+    background-color: #42596B ;
+    }
+
+#topnav p {
+    margin: 0 ;
+    padding: 0 ;
+    line-height: 22px ;
+    background-color: white ;
+    }
+
+#topnav a.nav, #topnav a.nav:visited {
+    float: left ;
+    width: 19% ;
+    display: block ;
+    text-align: center ;
+    border-right: 1px solid #aaa ;
+    border-bottom: none ;
+    background: white ;
+    text-decoration: none ;
+    color: black ;
+    }
+
+#topnav a.current, #topnav a.current:visited {
+    font-weight: bold ;
+    height: 28px ;
+    z-index: 99 ;
+    background-color: #FEF3C2 ;
+    }
+
+#topnav a.nav:hover {
+    text-decoration: none ;
+    border-bottom: none ;
+    font-weight: bold ;
+    color: black ;
+    background-color: #FEF3C2 ;
+    }
+
+#topnav a.css {
+    float: left ;
+    width: 4% ;
+    height: 18px ;
+    text-align: right ;
+    background-color: white ;
+    text-decoration: none ;
+    border-bottom: none ;
+    }
+
+#topnav span.separator {
+    display: none ;
+    }
+
+
+/* --- ---------------------------------------------------------------
+
+	Content
+
+------------------------------------------------------------------- */
+
+#content {
+    background-color : white ;
+    border: 1px solid #ddd ;
+    min-height: 450px ;
+    height: 450px ;
+}
+
+/* IE6 will ignore all rules assigned using this selector.
+   More info at http://glish.com/css/hacks.asp */
+
+body>div#content {
+    height: auto ;
+}
+
+#content div.section {
+    margin: 20px 0px 40px 185px ;
+    padding: 0px 20px 1px 20px ;
+    background-color: transparent ;
+    border: none ;
+    border-left: 2px solid #dcdcdc ;
+    overflow: hidden ;
+    }
+
+
+/* --- ---------------------------------------------------------------
+
+	Sidebar Pod
+
+------------------------------------------------------------------- */
+
+#sidebar {
+    position: absolute ;
+    top: 110px ;
+    width: 160px ;
+    margin: 20px 0px 0px 5px ;
+    padding: 10px 0px 0px 5px ;
+    color: black ;
+    background-color: transparent ;
+    overflow: hidden ;
+    }
+
+#sidebar p {
+	font-size: 9px ;
+    margin: 0 ;
+    padding: 0 ;
+    line-height: 1.5em ;
+    background: transparent ;
+    }
+
+#sidebar ul {
+	width: 150px ;
+	border-bottom : 1px solid #eee ;
+	margin-bottom: 1em ;
+	padding-bottom: 1em ;
+	}
+
+#sidebar ul.last {
+	border-bottom : none ;
+	}
+
+#sidebar td {
+    font-size: 9px ;
+    }
+
+#sidebar a, #sidebar a:visited {
+    padding: 3px 0 3px 8px ;
+    text-decoration: none ;
+    color: black ;
+    background: transparent ;
+    display: block ;
+    }
+
+#sidebar a.current, #sidebar a.current:visited {
+    color: Black;
+    font-weight: bold ;
+    background-color: #FEF3C2 ;
+    }
+
+#sidebar a:hover {
+    padding: 3px 0 3px 5px ;
+    text-decoration: none ;
+    font-weight: bold ;
+    color: black ;
+    border-left: 3px solid #42596B ;
+    background-color: #FEF3C2 ;
+    }
+
+#sidebar div.menublock {
+    margin: 0 ;
+    padding-left: 8px ;
+    color: #42596B ;
+    background: transparent ;
+    }
+
+ul.nav {
+    margin: 0 ;
+    padding: 0 ;
+    line-height: 18px ;
+    }
+
+ul.nav li {
+    margin: 0 ;
+    list-style: none outside ;
+    list-style-image: none ;  /* IE browser bug */
+    padding: 1px;
+    }
+
+ul.nav li a {
+    text-decoration: none ;
+    border-bottom: none ;
+    }
+
+
+/* --- ---------------------------------------------------------------
+
+	Footer
+
+------------------------------------------------------------------- */
+
+#footer {
+    margin: 10px 80px 10px 0px ;
+    padding: 1px 0px 1px 15px ;
+    background-color: #EAEAF1 ;
+    }
+
+/* IE6 will ignore all rules assigned using this selector.
+   More info at http://glish.com/css/hacks.asp */
+
+body>div#footer {
+    padding-left: 5px ;
+}
+
+#footer p {
+    margin: 0 ;
+    padding: 0 ;
+    color: black ;
+    }
+
+#toplink {
+    margin-top: 10px ;
+    padding: 2px ;
+    float: right ;
+    width: 60px ;
+    background: #42596B ;
+    text-align: center ;
+    border-top: 1px solid white ;
+    border-left: 1px solid white ;
+    border-right: 1px solid black ;
+    border-bottom: 1px solid black ;
+    }
+
+#toplink a {
+    color:white ;
+    background: #42596B ;
+    margin: 0 ;
+    padding: 0 ;
+    display: block ;
+    border: none ;
+    }
+    
+#toplink a:hover {
+  background: #61829C ;
+  }
+
+
+/* --- ---------------------------------------------------------------
+
+	Tables
+
+------------------------------------------------------------------- */
+
+div.tablecontainer {
+    width: 85% ;    
+    }
+
+table.preformat {
+    width: 100% ;
+    margin: 2em 0 2em 1px ;
+    border: 1px solid #AAABB4 ;
+    border-bottom: 2px solid #00748c ;
+    border-collapse: collapse ;
+    }
+
+table.preformat th {
+    color: black ;
+    text-align: left ;
+    vertical-align: top ;
+    padding: 0px ;
+    font-weight: normal ;
+    }
+
+table.preformat div.tableheader {
+    padding: 0.5em 1em 0.5em 1em ;
+    background-color: #EFEBE7 ;
+    border-left: 1px solid white ;
+    border-top: 1px solid white ;
+    border-right: 1px solid #AAABB4 ;
+    border-bottom: 1px solid #AAABB4 ;
+    }
+
+table.preformat td {
+    color: black ;
+    background-color: white ;
+    border-top: 1px solid #E5E5E7 ;
+    border-left: 1px solid #E5E5E7 ;
+    text-align: left ;
+    vertical-align: top ;
+    padding: 0.7em 1em 0.7em 1em ;
+    }
+
+table.preformat td.tablefirstcol {
+    border-left: none ;
+    }
+
+table.preformat td.tablesubheader1 {
+    background-color: #F0F1F4 ;
+    border-left: none ;
+    padding: 0 ;
+    }
+
+table.preformat td.tablesubheader2 {
+    background-color: #FCFBFD ;
+    border-left: none ;
+    padding: 0.7em 1em 0.7em 1em ;
+    }
+
+table.preformat td.tablesubheader3 {
+	font-size: 80% ;
+    background-color: #FEFDFF ;
+    border-left: none ;
+    padding: 2px 0 2px 1em ;
+    }
+
+table.preformat td.success {
+    background-color: #C6FFC6 ;
+	}
+
+table.preformat td.failed {
+	background-color: #FACFEE ;
+	}

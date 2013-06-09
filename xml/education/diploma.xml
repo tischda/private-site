@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Education : Diploma">
+  <nox:section>
+    <h1>Diploma</h1>
+
+    <p>Here the list of diploma I have:</p>
+    <table class="preformat" summary="Diploma">
+      <tr>
+        <th>Date</th>
+        <th>Description</th>
+        <th>Institute</th>
+        <th>Location</th>
+        <th>View</th>
+      </tr>
+      <tr>
+        <td colspan="5" class="tablesubheader1"> </td>
+      </tr>
+      <tr>
+        <td>1994</td>
+        <td>Diploma of Marketing Techniques</td>
+        <td>Technical University (I.U.T.)</td>
+        <td>Strasbourg</td>
+        <td>
+          <a class="image" href="../images/site/education/dipl_dut_teco.jpg" rel="external">
+            <img src="../images/site/education/thumbs/dipl_dut_teco.jpg"
+              alt="Marketing Diploma" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>1993</td>
+        <td>Diploma of Computer Science &amp; Management</td>
+        <td>Technical University (I.U.T.)</td>
+        <td>Strasbourg</td>
+        <td>
+          <a class="image" href="../images/site/education/dipl_dut_info.jpg" rel="external">
+            <img src="../images/site/education/thumbs/dipl_dut_info.jpg" alt="Computer Science Diploma"
+             />
+          </a>
+        </td>
+      </tr>
+    </table>
+
+  </nox:section>
+</nox:page>

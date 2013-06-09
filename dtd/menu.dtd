@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- $Id: menu.dtd 95 2005-11-20 00:02:44Z dtischer $ -->
+
+<!ENTITY % xhtml.dtd SYSTEM "xhtml1-strict.dtd">
+%xhtml.dtd;
+
+<!ELEMENT menu (menugroup+)>
+<!ATTLIST menu
+    type (main|local) "local"
+>
+
+<!ELEMENT menugroup (menuitem+)>
+<!ATTLIST menugroup
+	name CDATA #REQUIRED
+>
+
+<!ELEMENT menuitem EMPTY>
+<!ATTLIST menuitem
+	name CDATA #REQUIRED
+	image CDATA #IMPLIED
+	dir CDATA #IMPLIED
+	ref CDATA #REQUIRED
+	match CDATA #IMPLIED
+	rel CDATA #IMPLIED
+>

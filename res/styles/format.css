@@ -1,0 +1,204 @@
+/* $Id: basic.css 14 2004-12-27 11:37:08Z dtischer $ */
+/* --- ---------------------------------------------------------------
+    Content Area Styles
+------------------------------------------------------------------- */
+body {
+    background-color: #FFFFFF;
+    color: #333333;
+    font-family: Verdana, Geneva, Lucida, sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    min-width: 600px;
+    padding: 10px;
+}
+
+/* --- ---------------------------------------------------------------
+    Headings
+------------------------------------------------------------------- */
+h1 {
+    font-weight: normal;
+    margin: 0px 15% 10px 0;
+    font-size: 22px;
+    color: #888;
+    border-bottom: 1px dotted #ccc;
+    }
+
+h1:first-child, div[class = right] + h1 {
+    margin-top: 0px;
+}
+
+h2 {
+    color: #000000;
+    font-size: 13px;
+    margin: 20px 15% 0 0;
+}
+
+h1 + h2 {
+    margin-top: 10px;
+}
+
+/* --- ---------------------------------------------------------------
+    Paragraphs
+------------------------------------------------------------------- */
+p {
+    line-height: 1.5em;
+    margin-bottom: 0;
+    margin-top: 1em;
+    padding: 0;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+/* --- ---------------------------------------------------------------
+    Search Results
+------------------------------------------------------------------- */
+p.hit a, p.hit a:hover {
+    color: #0000CC;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+
+p.descr {
+    color: #00748C;
+    margin: 0;
+    padding: 0;
+}
+
+p.url {
+    color: #008000;
+    margin: 0;
+    padding: 0;
+}
+
+/* --- ---------------------------------------------------------------
+    Links
+------------------------------------------------------------------- */
+a {
+    background: transparent;
+    border-bottom: 1px dotted #AAC1DE;
+    color: #6699CC;
+    text-decoration: none;
+}
+
+  
+a:visited {
+    color: #6699CC;
+}
+
+a:active {
+    color: #6699CC;
+}
+
+a:hover {
+    color: #2A639C;
+}
+
+/*
+** keep the whitespace in front of the ^=, hides rule from konqueror
+** this is css3, the validator doesn't like it when validating as css2
+*/
+a[href ^="http://"],
+a[href ^="gopher://"] {
+    background: url(../images/icons/external.png) center right no-repeat;
+    padding-right: 13px;
+    border-bottom: 1px solid #6699CC;
+}
+
+a[href ^="https://"],
+.link-https {
+    background: url("../images/icons/lock.gif") center right no-repeat;
+    padding-right: 16px;
+}
+
+a[href ^="mailto:"],
+.link-mailto {
+    background: url("../images/icons/mail.gif") center right no-repeat;
+    padding-right: 18px;
+}
+
+a[href ^="news://"] {
+    background: url("../images/icons/news.png") center right no-repeat;
+    padding-right: 18px;
+}
+
+a[href ^="ftp://"],
+.link-ftp {
+    background: url("../images/icons/file16x16.gif") center right no-repeat;
+    padding-right: 18px;
+}
+
+a[href ^="irc://"],
+.link-irc {
+    background: url("../images/icons/discussion.gif")  center right no-repeat;
+    padding-right: 18px;
+}
+
+a.image, a.css {
+    background: transparent;
+    border-bottom: none;
+}
+
+a.image:hover {
+    background: transparent;
+}
+
+a.lang {
+    background: #000090;
+    border-bottom: none;
+    color: #FFFFFF;
+    padding: 2px;
+    text-decoration: none;
+}
+
+a.lang:hover {
+    background: #C4C4FF;
+    color: #000000;
+}
+
+/* --- ---------------------------------------------------------------
+    Other elements
+------------------------------------------------------------------- */
+em {
+    color: #BD1452;
+    font-style: normal;
+}
+
+code {
+    background-color: #FFF8E0;
+    border-color: #F8F0E0 #F8E4D5 #F8E4D5 #F8F0E0;
+    border-style: solid;
+    border-width: 1px;
+    color: #000000;
+    font-family: "Courier New", monospace;
+    font-size: 12px;
+    line-height: 1.5em;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+acronym {
+    cursor: help;
+}
+
+dt {
+    color: #7071A2;
+    font-weight: bold;
+}
+
+textarea, input, select {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+}
+
+span.activelang {
+    background: #FFFFFF;
+    border-bottom: none;
+    color: #000000;
+    padding: 2px;
+    text-decoration: none;
+}
+

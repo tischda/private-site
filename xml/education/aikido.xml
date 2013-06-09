@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Activities : What is Aikido">
+  <nox:section>
+    <h1>Aikido</h1>
+    <p><img class="right" src="../images/site/private/bokkento.jpg" alt="Aikido" width="144"
+        height="198" /> Aikido is a Japanese martial art developed by Morihei Ueshiba (often
+      referred to by his title 'O Sensei' or 'Great Teacher'). On a purely physical level it is an
+      art involving some throws and joint locks that are derived from Jujitsu and some throws and
+      other techniques derived from Kenjutsu. Aikido focuses not on punching or kicking opponents,
+      but rather on using their own energy to gain control of them or to throw them away from you.
+      It is not a static art, but places great emphasis on motion and the dynamics of movement.</p>
+    <p>I started Aikido in 1991 and since then trained with many masters in many different
+      countries. It is a martial art that you can enjoy at any level, there is no competition.
+      Actually, the philosophy of Aikido goes far beyond learning fighting techniques.</p>
+  </nox:section>
+  <nox:section>
+    <p>The following table lists the belts I have.</p>
+    <table class="preformat" summary="Certification">
+      <tr>
+        <th>Date</th>
+        <th>Description</th>
+        <th width="300px">Diploma</th>
+      </tr>
+      <tr>
+        <td colspan="5" class="tablesubheader1"> </td>
+      </tr>
+      <tr>
+        <td>2006<br /><br />A.E.T. AIKI<br /><br />
+          <i>Zaragoza</i></td>
+        <td>
+          <b>Shodan</b> (1st dan)
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/dipl_shodan.jpg" rel="external">
+            <img src="../images/site/education/thumbs/dipl_shodan.jpg" alt="Shodan" />
+          </a>
+          &nbsp;
+          <a class="image" href="../images/site/education/dipl_shodan_aikikai.jpg" rel="external">
+            <img src="../images/site/education/thumbs/dipl_shodan_aikikai.jpg" alt="Shodan Aikikai" />
+          </a>          
+        </td>
+      </tr>
+      <tr>
+        <td>2009<br /><br />A.E.T. AIKI<br /><br />
+          <i>Alicante</i></td>
+        <td>
+          <b>Nidan</b> (2nd dan)
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/dipl_nidan.jpg" rel="external">
+            <img src="../images/site/education/thumbs/dipl_nidan.jpg" alt="Nidan" />
+          </a>
+          &nbsp;
+          <a class="image" href="../images/site/education/dipl_nidan_aikikai.jpg" rel="external">
+            <img src="../images/site/education/thumbs/dipl_nidan_aikikai.jpg" alt="Nidan Aikikai" />
+          </a>          
+        </td>
+      </tr>      
+    </table>      
+  </nox:section>
+</nox:page>

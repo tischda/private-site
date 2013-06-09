@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../dtd/page.dtd">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="About : This Site" type="static">
+
+    <!--
+    <nox:menublock>
+        <p>
+            <br />
+        </p>
+        <form action="https://www.paypal.com/cgi-bin/webscr"
+            enctype="application/x-www-form-urlencoded" method="post">
+            <p>
+                <input name="cmd" type="hidden" value="_xclick" />
+                <input name="business" type="hidden" value="dtischer@free.fr" />
+                <input name="currency_code" type="hidden" value="EUR" />
+                <input name="return" type="hidden" value="http://dtischer.free.fr/thankyou.html" />
+                <input name="cancel_return" type="hidden" value="http://dtischer.free.fr/" />
+                <input name="no_shipping" type="hidden" value="1" />
+                <input alt="Donate with PayPal" name="submit"
+                    src="http://www.paypal.com/en_US/i/btn/x-click-butcc-donate.gif" type="image" />
+            </p>
+        </form>
+    </nox:menublock>
+    -->
+    <nox:section>
+
+        <h1>About this site</h1>
+        <p>
+            <img alt="Daniel TISCHER" class="right" height="208"
+                src="../images/site/private/daniel.jpg" width="309" />This site was launched in
+            January 2002. From a private web page, this became a playground for the NOX framework
+            and a project home for other personal initiatives.</p>
+        <p> </p>
+
+    </nox:section>
+</nox:page>

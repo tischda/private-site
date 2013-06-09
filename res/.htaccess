@@ -1,0 +1,19 @@
+<IfDefine Free>
+  php 1
+
+  SetEnv PHP_VER 5
+
+  PerlSetVar AuthFile secret/passlist
+
+  AuthName "Restricted Access"
+  AuthType Basic
+</IfDefine>
+
+<Limit PUT DELETE>
+  require user dtischer
+</Limit>
+
+IndexIgnore .htaccess */.??* *~ *#
+Options -Indexes
+
+AddDefaultCharset utf-8

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Career : OHIM - RECordals">
+	<nox:section>
+
+<h1>OHIM - RECordals</h1>
+<p>10/2004 - 06/2006, infeurope S.A. Luxembourg, OHIM Alicante<br/>
+<a href="http://oami.europa.eu/" rel="external" shape="rect">http://oami.europa.eu/</a>
+</p>
+<p>Requirements gathering for the RECordals module at the OHIM. Analysis and design of a software solutions, based on standard frameworks such as Spring and Tapestry, which will integrate with all of the existing modules at OHIM in order to register modifications to the Registered Community Designs.</p>
+<p>I was part of the full development lifecycle of this REC-module for the Offices core business. Emphasis was put on using the RUP methodology, and especially gathering clear and complete functional requirements directly from the users and writing high quality use cases. Subsequently a detailed object oriented analysis and design (OOAD) using Rational Rose was performed.</p>
+<h2>Functionalities of RECordals</h2>
+<p>The RCD RECordals module aims to manage any modification of the information contained in the RCD Register, which is the database containing the particulars of all designs registered and published by the OHIM. Potential modifications (Recordals) that can be made to the RCD Register consist of:</p>
+<ul>
+	<li>Transfers of RCD ownership</li>
+	<li>Rectification of errors</li>
+	<li>Licenses and Rights in Rem</li>
+	<li>Surrenders</li>
+	<li>Change to the name or address of the owner</li>
+	<li>Change to the name or address of the representative</li>
+	<li>Appointment, replacement and deletion of a representative</li>
+	<li>Other publications</li>
+</ul>
+<h2>Technical Overview</h2>
+<p>The RCD Recordals module was developed in Java technologies and runs on a Web Logic 8.1 server, according to the architecture implemented at the OHIM. Given the constraints of a fixed price contract, RECordals was a quite challenging project:</p>
+<ul>
+	<li>New module with new functionalities</li>
+	<li>Integration with existing modules (EXA, CMD, AGD, ADM, PER, CPS, COR, PUB, TRA, CTM)</li>
+	<li>Installation and configuration of all depending modules and databases on infeurope's premises test environment</li>
+	<li>Requirements on-site (OHIM - Alicante) and development distributed between Luxembourg and Alicante with central source repository in Luxembourg</li>
+	<li>Web based Project Management Information System (http://recordals.infeurope.lu/)</li>
+	<li>Development using latest java technologies and frameworks such as Spring, JSF (myfaces), and Hibernate</li>
+</ul>
+<h2>Software used for the project</h2>
+<table class="preformat">
+	<thead>
+		<tr>
+			<th colspan="1" id="th087E4C200000" rowspan="1">Task</th>
+			<th colspan="1" id="th087E4C200001" rowspan="1">Software</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td class="tablesubheader1" colspan="4" headers="th087E4C200000" rowspan="1"> </td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087E4C200000" rowspan="1">Analysis</td>
+			<td colspan="1" headers="th087E4C200001" rowspan="1">Rational Unified Process (RUP), UML</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087E4C200000" rowspan="1">Database design</td>
+			<td colspan="1" headers="th087E4C200001" rowspan="1">Power Designer</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087E4C200000" rowspan="1">Teamwork</td>
+			<td colspan="1" headers="th087E4C200001" rowspan="1">Common Subversion server in Luxembourg, access through SSH tunnel (Putty, TortoiseSVN), WEB PMIS, Wiki and developer forum.</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087E4C200000" rowspan="1">Bug tracking and test results</td>
+			<td colspan="1" headers="th087E4C200001" rowspan="1">JIRA, JUnit, JTestCase, Canoo WebTest, Clover</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087E4C200000" rowspan="1">Programming languages / tools</td>
+			<td colspan="1" headers="th087E4C200001" rowspan="1">Java JDK 1.4, J2EE, Spring 1.2.5, Hibernate 3, JSF, Maven and many libraries, Eclipse 3.1</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087E4C200000" rowspan="1">Application servers and database</td>
+			<td colspan="1" headers="th087E4C200001" rowspan="1">WebLogic 8.1 SP4, Jetty 5, Informix 7.1.3</td>
+		</tr>
+		<tr>
+			<td colspan="1" headers="th087E4C200000" rowspan="1">Development platform</td>
+			<td colspan="1" headers="th087E4C200001" rowspan="1">Sun Solaris 8 (server) and Windows XP (client)</td>
+		</tr>
+	</tbody>
+</table>
+<h2>Screenshots</h2>
+<table summary="Recorals Screenshots">
+	<tr>
+		<td colspan="1" rowspan="1">
+<a class="image" href="../images/site/experience/exp_recagd.png" rel="external" shape="rect">
+<img alt="Examiner's Inbox" class="right" height="115" src="../images/site/experience/thumbs/exp_recagd.png" width="150"/>
+</a>
+</td>
+		<td colspan="1" rowspan="1">  </td>
+		<td colspan="1" rowspan="1">
+<a class="image" href="../images/site/experience/exp_recsearch.png" rel="external" shape="rect">
+<img alt="Recordal Search" class="right" height="150" src="../images/site/experience/thumbs/exp_recsearch.png" width="114"/>
+</a>
+</td>
+		<td colspan="1" rowspan="1">  </td>
+		<td colspan="1" rowspan="1">
+<a class="image" href="../images/site/experience/exp_reccorr.png" rel="external" shape="rect">
+<img alt="Correction of Error" class="right" height="150" src="../images/site/experience/thumbs/exp_reccorr.png" width="114"/>
+</a>
+</td>
+		<td colspan="1" rowspan="1">  </td>
+		<td colspan="1" rowspan="1">
+<a class="image" href="../images/site/experience/exp_rectransf.png" rel="external" shape="rect">
+<img alt="Transfer of Ownership" class="right" height="150" src="../images/site/experience/thumbs/exp_rectransf.png" width="114"/>
+</a>
+</td>
+	</tr>
+</table>
+ </nox:section>
+</nox:page>

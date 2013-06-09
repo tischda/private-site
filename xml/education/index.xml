@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Education : Certification">
+  <nox:section>
+    <h1>Certification</h1>
+    <p>Here the list of my certifications:</p>
+    <table class="preformat" summary="Certification">
+      <tr>
+        <th>Date</th>
+        <th>Description</th>
+        <th>Diploma</th>
+      </tr>
+      <tr>
+        <td colspan="5" class="tablesubheader1"> </td>
+      </tr>
+      <tr>
+        <td>2009<br /><br />Linguarama<br /><br />
+            <i>Alicante</i></td>
+        <td>
+            <b>English C2 Language Competence Certificate</b>
+            <p>The C2 level (mastery or proficiency) is the highest level in the Common European Framework
+                <a href="http://www.coe.int/t/DG4/Portfolio/?M=/main_pages/levels.html">classification</a>.</p>
+        </td>
+        <td>
+            <a class="image" href="../images/site/education/cert_english_c2.jpg" rel="external">
+                <img src="../images/site/education/thumbs/cert_english_c2.jpg" alt="English C2" />
+            </a>
+        </td>
+      </tr>        
+        <tr>
+            <td>2008<br /><br />Learning Tree<br /><br />
+                <i>London</i></td>
+            <td>
+                <b>Service Oriented Architecture (SOA)</b>
+                <p>This course defines "service" and "architecture" and establishes a strong
+                    understanding of the concepts needed to have an effective working knowledge
+                    of SOA methodologies, modeling, design, SOA technologies, orchestration
+                    and architectural frameworks.</p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/cert_soa.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/cert_soa.jpg" alt="Service Oriented Architecture" />
+                </a>
+            </td>
+        </tr>        
+        <tr>
+        <td>2007<br /><br />Bogdan Bereza-Jarociński<br /><br />
+          <i>Alicante</i></td>
+        <td>
+          <b>ISTQB® Certified Tester - Foundation</b>
+          <p>The <a href="http://www.istqb.org/" rel="external">ISTQB</a> was founded as an
+            International Software Testing Qualifications Board in Edinburgh in November 2002. The
+            qualifications are based on a <a href="../cached/SyllabusFoundation.pdf">syllabus</a>, and
+            there is a hierarchy of qualifications and guidelines for accreditation and examination.</p>
+          <p>The exam for the Foundation Level has more theoretical nature and requests for
+            knowledge about the software development area - especially in the field of testing.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_istqb_tester.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_istqb_tester.jpg" alt="ISTQB Certified Tester" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2007<br /><br />QRP<br /><br />
+          <i>Alicante</i></td>
+        <td>
+          <b>PRINCE2 - Foundation &amp; Practitioner</b>
+          <p> PRINCE®, which stands for <b>Pr</b>ojects <b>in</b>
+            <b>C</b>ontrolled <b>E</b>nvironments, is a project management method covering the
+            organisation, management and control of projects. <a href="http://www.ogc.gov.uk/methods_prince_2.asp" rel="external">PRINCE</a> was first developed by the
+            Central Computer and Telecommunications Agency (CCTA), now part of the Office of
+            Government Commerce (OGC), in 1989 as a UK Government standard for IT project management.</p>
+          <p>Candidate # P2/NLPB048795 and P2/NLPB049603 - <a href="http://www.prince2.org.uk/examquery.asp" rel="external">Check</a></p>
+        </td>
+        <td>
+            <a class="image" href="../images/site/education/cert_prince2_foundation.jpg" rel="external">
+                <img src="../images/site/education/thumbs/cert_prince2_foundation.jpg" alt="PRINCE2 Certification" />
+            </a>            
+            <a class="image" href="../images/site/education/cert_prince2_practitioner.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_prince2_practitioner.jpg" alt="PRINCE2 Certification" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2006<br /><br />EXIN<br /><br />
+          <i>Alicante</i></td>
+        <td>
+          <b>ITIL - Foundation</b>
+          <p>The Information Technology Infrastructure Library (<a
+              href="http://www.ogc.gov.uk/guidance_itil.asp" rel="external">ITIL</a>) is an
+            integrated set of best-practice recommendations.</p>
+          <p>This framework essentially defines how to organize the system and network management
+            departments within individual organizations. The concepts support IT service providers
+            in the planning of consistent, documented, and repeatable processes that improve service
+            delivery to the business. </p>
+          <p>ITIL addresses the organizational structure and skill requirements for an IT
+            organization by presenting a comprehensive set of management procedures with which an
+            organization can manage its IT operations.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_itil.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_itil.jpg" alt="ITIL Certification" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2005<br /><br />Institute of<br />North American<br />Studies<br /><br />
+          <i>Barcelona</i></td>
+        <td>
+          <b>Project Management Professional (PMP)</b>
+          <p>Established in 1969, the <a href="http://www.pmi.org/" rel="external">Project
+              Management Institute (PMI)</a> represents the world's largest professional community
+            engaged in the promotion, maintenance, and advancement of project management practices
+            worldwide. PMI is actively involved in the pursuit of Education and Knowledge
+            Acquisition, Professional Development and Networking, Career Advancement and
+            Professional Standards, Products and Services in the field of project management.</p>
+          <p>PMI's Project Management Professional (PMP ®) Certification is the topmost professional
+            credential for project management professionals. PMI became the world's first
+            organization to achieve International Organization for Standardization (ISO) 9001
+            recognition for its Certification Program in 1999.</p>
+          <p>With over 75,000 PMPs operating in nearly 120 countries, more and more organizations
+            are recognizing the PMP certification as the industry standard for excellence in project
+            management.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_pmi.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_pmi.jpg" alt="PMI Certification" />
+          </a>
+          <br />
+          <br />
+          <a class="image" href="../images/site/education/cert_pmi_memb.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_pmi_memb.jpg" alt="PMI Membership"
+             />
+          </a>
+          <!--
+			<br/><br/>
+			<a class="image" href="../images/site/education/cert_pmi_exa1.jpg" rel="external">
+				<img src="../images/site/education/thumbs/cert_pmi_exa1.jpg" alt="PMI Certification"/>
+			</a>
+			<br/><br/>
+			<a class="image" href="../images/site/education/cert_pmi_exa2.jpg" rel="external">
+				<img src="../images/site/education/thumbs/cert_pmi_exa2.jpg" alt="PMI Certification"/>
+			</a>
+			-->
+        </td>
+      </tr>
+      <tr>
+        <td>2005<br /><br />INTE S.L.<br /><br />
+          <i>Alicante</i></td>
+        <td>
+          <b>Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition 1.4</b>
+          <p>Launched in August 2001 by <a href="http://www.sun.com/" rel="external">Sun
+              Microsystems</a>, the Sun Certified Web Component Developer (SCWCD) Certification Exam
+            has become one of the most popular certification in the J2EE domain.</p>
+          <p>This certification tests the knowledge of web components used to develop J2EE
+            applications. This certification is not specific to any J2EE application server vendor.</p>
+          <p>The content of SCWCD 1.4 exam covers new technologies such as Expression Language,
+            JSTL, the new tag methodologies (Tag files and SimpleTag). Besides this it also revamps
+            the existing objectives according to the JSP 2.0 and Servlets 2.4 specifications.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_scwcd.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_scwcd.jpg" alt="SCWCD Certification"
+             />
+          </a>
+          <!--
+			<br/><br/>
+			<a class="image" href="../images/site/education/cert_scwcd_exa.jpg"
+				rel="external">
+				<img src="../images/site/education/thumbs/cert_scwcd_exa.jpg" alt="SCWCD Certification"/>
+			</a>
+			-->
+        </td>
+      </tr>
+      <tr>
+        <td>2004<br /><br />Computacenter<br /><br />
+          <i>Luxembourg</i></td>
+        <td>
+          <b>Sun Java Certified Programmer (SCJP 1.4)</b>
+          <p>Since its inception in 1995, Java technology has grown in popularity and usage because
+            of its true portability, and so has the esteemed Sun Java Certification.</p>
+          <p><a href="http://www.sun.com/" rel="external">Sun Microsystems</a> has a range of
+            certifications starting from the entry-level Sun Certified Java Programmer (SCJP) to
+            high-level certifications such as Sun Certified Enterprise Architect (SCEA).</p>
+          <p>The Sun Certified Developer for Java 2 Platform is for developers experienced in Java
+            programming language. This certification validates a developer's understanding and
+            familiarity with the basic syntax and structure of the Java programming language. It
+            also proves a developer's ability to create Java technology applications that run on
+            server and desktop systems using Java 2 Platform Standard Edition.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_java.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_java.jpg" alt="Java Certification"
+             />
+          </a>
+          <!-- 
+				<br/><br/>
+				<a class="image" href="../images/site/education/cert_java_exa.jpg"
+					rel="external">
+					<img src="../images/site/education/thumbs/cert_java_exa.jpg" alt="Java Certification"/>
+				</a>
+				-->
+        </td>
+      </tr>
+      <tr>
+        <td>2004<br /><br />Computacenter<br /><br />
+          <i>Luxembourg</i></td>
+        <td>
+          <b>OMG UML 2.0 Professional (OCUP)</b>
+          <p>The <a href="http://www.omg.org/" rel="external">Object Management Group</a> is an open
+            membership, not-for-profit consortium that produces and maintains computer industry
+            specifications for interoperable enterprise applications. OMG membership includes
+            virtually every large company in the computer industry, and hundreds of smaller ones.
+            Most of the companies that shape enterprise and Internet computing today are represented
+            on the Board of Directors.</p>
+          <p>OMG created OCUP to provide a certification, an objective indication, of your knowledge
+            of UML ®, OMG's Unified Modeling Language<sup>TM</sup>.</p>
+          <p>This will benefit you by giving you an important credential to present to employers and
+            clients. It also benefits companies looking for skilled UML practitioners, by giving
+            them a basis for making hiring and promotion decisions.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_uml.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_uml.jpg" alt="UML Certification" />
+          </a>
+          <!--
+							<br/><br/>
+							<a class="image" href="../images/site/education/cert_uml_exa.jpg" rel="external">
+								<img src="../images/site/education/thumbs/cert_uml_exa.jpg" alt="UML Certification"/>
+							</a>
+							-->
+        </td>
+      </tr>
+      <tr>
+        <td>2004<br /><br />On Site<br /><br />
+          <i>Luxembourg</i></td>
+        <td>
+          <b>BEA Weblogic 7 Product Specialist</b>
+          <p><a href="http://www.bea.com/education/" rel="external">BEA Education Services</a>
+            offers a number of certification paths focused on BEA product technology, as well as
+            BEA's approach to Service-Oriented Architecture (SOA). The BEA Certification Program
+            provides valuable, measurable rewards to IT professionals, their managers, and the BEA
+            technology-based organizations that employ them.</p>
+          <p>This certification is for developers who can build custom solutions using the BEA
+            WebLogic Platform to implement scalable Web applications that interact with databases,
+            legacy systems and packaged applications.</p>
+          <p>Solution developers are expected to have sophisticated knowledge of application servers
+            with J2EE programming, object-relational concepts, application infrastructure clustering
+            and deployment, Web design theories including MVC, creating and consuming reusable
+            logic, and designing and implementing complex Web interfaces.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_bea.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_bea.jpg" alt="BEA Certification" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>1996<br /><br />Expertease<br /><br />
+          <i>Strasbourg</i></td>
+        <td>
+          <b>Microsoft Certified Professional (MCP)</b>
+          <p><a href="http://www.microsoft.com/" rel="external">Microsoft</a> certifications
+            represent a rich and varied spectrum of job roles and responsibilities. Embraced by
+            industry professionals worldwide, Microsoft certification provides objective validation
+            of the ability to successfully perform critical IT functions.</p>
+          <p>This certification exam measures the ability to implement, administer, and troubleshoot
+            information systems with Microsoft Windows NT Server 3.51.</p>
+          <p>The exam goes beyond testing knowledge, it requires a comprehensive understanding of
+            Microsoft Windows NT Server concepts and procedures.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/site/education/cert_mcp.jpg" rel="external">
+            <img src="../images/site/education/thumbs/cert_mcp.jpg" alt="Microsoft
+              Certification" />
+          </a>
+          <!--
+			<br/><br/>
+			<a class="image" href="../images/site/education/cert_mcp_exa.jpg" rel="external">
+				<img src="../images/site/education/thumbs/cert_mcp_exa.jpg" alt="Microsoft Certification"/>
+			</a>
+			-->
+        </td>
+      </tr>
+    </table>
+  </nox:section>
+</nox:page>
