@@ -14,6 +14,24 @@
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
       <tr>
+        <td>2013<br /><br />CompTIA<br /><br />
+            <i>Valencia</i></td>
+        <td>
+            <b>CompTIA Security+</b>
+            <p>The CompTIA Security+ exam will certify that the successful candidate has the 
+            knowledge and skills required to identify risk and participate in risk mitigation 
+            activities, provide infrastructure, application, operational and information security, 
+            apply security controls to maintain confidentiality, integrity and availability, 
+            identify appropriate technologies and products, and operate with an awareness 
+            of applicable policies, laws and regulations.</p>
+        </td>
+        <td>
+            <a class="image" href="../images/site/education/cert_security.jpg" rel="external">
+                <img src="../images/site/education/thumbs/cert_security.jpg" alt="Security" />
+            </a>
+        </td>
+      </tr>
+      <tr>
         <td>2009<br /><br />Linguarama<br /><br />
             <i>Alicante</i></td>
         <td>
@@ -26,24 +44,8 @@
                 <img src="../images/site/education/thumbs/cert_english_c2.jpg" alt="English C2" />
             </a>
         </td>
-      </tr>        
-        <tr>
-            <td>2008<br /><br />Learning Tree<br /><br />
-                <i>London</i></td>
-            <td>
-                <b>Service Oriented Architecture (SOA)</b>
-                <p>This course defines "service" and "architecture" and establishes a strong
-                    understanding of the concepts needed to have an effective working knowledge
-                    of SOA methodologies, modeling, design, SOA technologies, orchestration
-                    and architectural frameworks.</p>
-            </td>
-            <td>
-                <a class="image" href="../images/site/education/cert_soa.jpg" rel="external">
-                    <img src="../images/site/education/thumbs/cert_soa.jpg" alt="Service Oriented Architecture" />
-                </a>
-            </td>
-        </tr>        
-        <tr>
+      </tr>
+      <tr>
         <td>2007<br /><br />Bogdan Bereza-Jarociński<br /><br />
           <i>Alicante</i></td>
         <td>
@@ -76,7 +78,7 @@
         <td>
             <a class="image" href="../images/site/education/cert_prince2_foundation.jpg" rel="external">
                 <img src="../images/site/education/thumbs/cert_prince2_foundation.jpg" alt="PRINCE2 Certification" />
-            </a>            
+            </a>
             <a class="image" href="../images/site/education/cert_prince2_practitioner.jpg" rel="external">
             <img src="../images/site/education/thumbs/cert_prince2_practitioner.jpg" alt="PRINCE2 Certification" />
           </a>
@@ -134,15 +136,15 @@
              />
           </a>
           <!--
-			<br/><br/>
-			<a class="image" href="../images/site/education/cert_pmi_exa1.jpg" rel="external">
-				<img src="../images/site/education/thumbs/cert_pmi_exa1.jpg" alt="PMI Certification"/>
-			</a>
-			<br/><br/>
-			<a class="image" href="../images/site/education/cert_pmi_exa2.jpg" rel="external">
-				<img src="../images/site/education/thumbs/cert_pmi_exa2.jpg" alt="PMI Certification"/>
-			</a>
-			-->
+            <br/><br/>
+            <a class="image" href="../images/site/education/cert_pmi_exa1.jpg" rel="external">
+                <img src="../images/site/education/thumbs/cert_pmi_exa1.jpg" alt="PMI Certification"/>
+            </a>
+            <br/><br/>
+            <a class="image" href="../images/site/education/cert_pmi_exa2.jpg" rel="external">
+                <img src="../images/site/education/thumbs/cert_pmi_exa2.jpg" alt="PMI Certification"/>
+            </a>
+            -->
         </td>
       </tr>
       <tr>
@@ -165,12 +167,12 @@
              />
           </a>
           <!--
-			<br/><br/>
-			<a class="image" href="../images/site/education/cert_scwcd_exa.jpg"
-				rel="external">
-				<img src="../images/site/education/thumbs/cert_scwcd_exa.jpg" alt="SCWCD Certification"/>
-			</a>
-			-->
+            <br/><br/>
+            <a class="image" href="../images/site/education/cert_scwcd_exa.jpg"
+                rel="external">
+                <img src="../images/site/education/thumbs/cert_scwcd_exa.jpg" alt="SCWCD Certification"/>
+            </a>
+            -->
         </td>
       </tr>
       <tr>
@@ -194,13 +196,13 @@
             <img src="../images/site/education/thumbs/cert_java.jpg" alt="Java Certification"
              />
           </a>
-          <!-- 
-				<br/><br/>
-				<a class="image" href="../images/site/education/cert_java_exa.jpg"
-					rel="external">
-					<img src="../images/site/education/thumbs/cert_java_exa.jpg" alt="Java Certification"/>
-				</a>
-				-->
+          <!--
+                <br/><br/>
+                <a class="image" href="../images/site/education/cert_java_exa.jpg"
+                    rel="external">
+                    <img src="../images/site/education/thumbs/cert_java_exa.jpg" alt="Java Certification"/>
+                </a>
+                -->
         </td>
       </tr>
       <tr>
@@ -225,11 +227,11 @@
             <img src="../images/site/education/thumbs/cert_uml.jpg" alt="UML Certification" />
           </a>
           <!--
-							<br/><br/>
-							<a class="image" href="../images/site/education/cert_uml_exa.jpg" rel="external">
-								<img src="../images/site/education/thumbs/cert_uml_exa.jpg" alt="UML Certification"/>
-							</a>
-							-->
+                            <br/><br/>
+                            <a class="image" href="../images/site/education/cert_uml_exa.jpg" rel="external">
+                                <img src="../images/site/education/thumbs/cert_uml_exa.jpg" alt="UML Certification"/>
+                            </a>
+                            -->
         </td>
       </tr>
       <tr>
@@ -276,11 +278,11 @@
               Certification" />
           </a>
           <!--
-			<br/><br/>
-			<a class="image" href="../images/site/education/cert_mcp_exa.jpg" rel="external">
-				<img src="../images/site/education/thumbs/cert_mcp_exa.jpg" alt="Microsoft Certification"/>
-			</a>
-			-->
+            <br/><br/>
+            <a class="image" href="../images/site/education/cert_mcp_exa.jpg" rel="external">
+                <img src="../images/site/education/thumbs/cert_mcp_exa.jpg" alt="Microsoft Certification"/>
+            </a>
+            -->
         </td>
       </tr>
     </table>

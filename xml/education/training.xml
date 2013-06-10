@@ -15,11 +15,101 @@
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
         <tr>
+            <td>2012<br /><br />Learning Tree<br /><br />
+                <i>London</i></td>
+            <td>4 days</td>
+            <td>
+                <b>516 - Best Practices in Java Programming: Hands-On</b>
+                <p>.</p>
+                <p><a href="../cached/course.pdf">Course details</a></p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/edu_best_java.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/edu_best_java.jpg" alt="Best Practices in Java" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>2012<br /><br />Learning Tree<br /><br />
+                <i>London</i></td>
+            <td>5 days</td>
+            <td>
+                <b>446 - Preparing for the CompTIA Security+ Exam</b>
+                <p>.</p>
+                <p><a href="../cached/course.pdf">Course details</a></p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/edu_security.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/edu_security.jpg" alt="First Aid Advanced" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>2012<br /><br />Cruz Roja<br /><br />
+                <i>Alicante</i></td>
+            <td>5 days</td>
+            <td>
+                <b>First Aid Advanced</b>
+                <p>.</p>
+                <p><a href="../cached/course.pdf">Course details</a></p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/edu_first_aid2.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/edu_first_aid2.jpg" alt="CompTIA Security+" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>2010<br /><br />Oracle University<br /><br />
+                <i>Alicante</i></td>
+            <td>5 days</td>
+            <td>
+                <b>Oracle Service Bus 10g R3: Administration and Development</b>
+                <p>.</p>
+                <p><a href="../cached/course.pdf">Course details</a></p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/edu_osb.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/edu_osb.jpg" alt="Oracle Service Bus" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>2010<br /><br />Learning Tree<br /><br />
+                <i>London</i></td>
+            <td>4 days</td>
+            <td>
+                <b>294 - Influence Skills: Getting Results Without Direct Authority</b>
+                <p>.</p>
+                <p><a href="../cached/course.pdf">Course details</a></p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/edu_influencing.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/edu_influencing.jpg" alt="Influence Skills" />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>2009<br /><br />Skillsmatter<br /><br />
+                <i>London</i></td>
+            <td>2 days</td>
+            <td>
+                <b>Terracotta’s JVM-level clustering technology</b>
+                <p>.</p>
+                <p><a href="../cached/course.pdf">Course details</a></p>
+            </td>
+            <td>
+                <a class="image" href="../images/site/education/edu_terracotta.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/edu_terracotta.jpg" alt="Terracotta" />
+                </a>
+            </td>
+        </tr>
+        <tr>
             <td>2008<br /><br />Learning Tree<br /><br />
                 <i>London</i></td>
             <td>3 days</td>
             <td>
-                <b>Service Oriented Architecture (SOA)</b>
+                <b>424 - Service Oriented Architecture (SOA)</b>
                 <p>This course defines "service" and "architecture" and establishes a strong
                     understanding of the concepts needed to have an effective working knowledge
                     of SOA methodologies, modeling, design, SOA technologies, orchestration
@@ -30,8 +120,11 @@
                 <a class="image" href="../images/site/education/edu_soa.jpg" rel="external">
                     <img src="../images/site/education/thumbs/edu_soa.jpg" alt="Service Oriented Architecture" />
                 </a>
+                <a class="image" href="../images/site/education/cert_soa.jpg" rel="external">
+                    <img src="../images/site/education/thumbs/cert_soa.jpg" alt="Service Oriented Architecture" />
+                </a>
             </td>
-        </tr>        
+        </tr>
         <tr>
             <td>2008<br /><br />Cruz Roja<br /><br />
                 <i>Alicante</i></td>
@@ -46,7 +139,7 @@
                     <img src="../images/site/education/thumbs/edu_first_aid.jpg" alt="First Aid" />
                 </a>
             </td>
-        </tr>        
+        </tr>
         <tr>
         <td>2007<br /><br />Bogdan Bereza-Jarociński<br /><br />
           <i>Alicante</i></td>
@@ -63,7 +156,7 @@
             <img src="../images/site/education/thumbs/edu_istqb_tester.jpg" alt="ISTQB Certified Tester" />
           </a>
         </td>
-      </tr>      
+      </tr>
       <tr>
         <td>2007<br /><br />OHIM <br/>(QRP)<br /><br />
           <i>Alicante</i></td>
@@ -80,7 +173,7 @@
         <td>
           Internal Training
         </td>
-      </tr>      
+      </tr>
       <tr>
         <td>2006<br /><br />OHIM<br /> (EPO-team)<br /><br />
           <i>Alicante</i></td>
@@ -149,7 +242,7 @@
           <a class="image" href="../images/site/education/edu_spring.jpg" rel="external">
             <img style="border: 1px solid #eee;" src="../images/site/education/thumbs/edu_spring.jpg" alt="Spring Training" />
           </a>
-        </td>        
+        </td>
       </tr>
       <tr>
         <td>2005<br /><br />OHIM<br />(IIL Training)<br /><br />
