@@ -3,7 +3,7 @@
 <nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Activities : What is Aikido">
   <nox:section>
     <h1>Aikido</h1>
-    <p><img class="right" src="../images/private/bokkento.jpg" alt="Aikido" width="144"
+    <p><img class="right" src="../img/private/bokkento.jpg" alt="Aikido" width="144"
         height="198" /> Aikido is a Japanese martial art developed by Morihei Ueshiba (often
       referred to by his title 'O Sensei' or 'Great Teacher'). On a purely physical level it is an
       art involving some throws and joint locks that are derived from Jujitsu and some throws and
@@ -31,11 +31,11 @@
         <td>
           <b>Nidan</b> (2nd dan) </td>
         <td>
-          <a class="image" href="../images/education/dipl/dipl_nidan.jpg" rel="external">
-            <img src="../images/education/dipl/thumbs/dipl_nidan.jpg" alt="Nidan" />
-          </a> &nbsp; <a class="image" href="../images/education/dipl/dipl_nidan_aikikai.jpg"
+          <a class="image" href="../img/education/dipl/dipl_nidan.jpg" rel="external">
+            <img src="../img/education/dipl/thumbs/dipl_nidan.jpg" alt="Nidan" />
+          </a> &nbsp; <a class="image" href="../img/education/dipl/dipl_nidan_aikikai.jpg"
             rel="external">
-            <img src="../images/education/dipl/thumbs/dipl_nidan_aikikai.jpg" alt="Nidan Aikikai" />
+            <img src="../img/education/dipl/thumbs/dipl_nidan_aikikai.jpg" alt="Nidan Aikikai" />
           </a>
         </td>
       </tr>
@@ -45,11 +45,11 @@
         <td>
           <b>Shodan</b> (1st dan) </td>
         <td>
-          <a class="image" href="../images/education/dipl/dipl_shodan.jpg" rel="external">
-            <img src="../images/education/dipl/thumbs/dipl_shodan.jpg" alt="Shodan" />
-          </a> &nbsp; <a class="image" href="../images/education/dipl/dipl_shodan_aikikai.jpg"
+          <a class="image" href="../img/education/dipl/dipl_shodan.jpg" rel="external">
+            <img src="../img/education/dipl/thumbs/dipl_shodan.jpg" alt="Shodan" />
+          </a> &nbsp; <a class="image" href="../img/education/dipl/dipl_shodan_aikikai.jpg"
             rel="external">
-            <img src="../images/education/dipl/thumbs/dipl_shodan_aikikai.jpg" alt="Shodan Aikikai"
+            <img src="../img/education/dipl/thumbs/dipl_shodan_aikikai.jpg" alt="Shodan Aikikai"
             />
           </a>
         </td>

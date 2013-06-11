@@ -98,34 +98,34 @@
     <table summary="Recorals Screenshots">
       <tr>
         <td colspan="1" rowspan="1">
-          <a class="image" href="../images/experience/exp_recagd.png" rel="external"
+          <a class="image" href="../img/experience/exp_recagd.png" rel="external"
             shape="rect">
             <img alt="Examiner's Inbox" class="right" height="115"
-              src="../images/experience/thumbs/exp_recagd.png" width="150" />
+              src="../img/experience/thumbs/exp_recagd.png" width="150" />
           </a>
         </td>
         <td colspan="1" rowspan="1">  </td>
         <td colspan="1" rowspan="1">
-          <a class="image" href="../images/experience/exp_recsearch.png" rel="external"
+          <a class="image" href="../img/experience/exp_recsearch.png" rel="external"
             shape="rect">
             <img alt="Recordal Search" class="right" height="150"
-              src="../images/experience/thumbs/exp_recsearch.png" width="114" />
+              src="../img/experience/thumbs/exp_recsearch.png" width="114" />
           </a>
         </td>
         <td colspan="1" rowspan="1">  </td>
         <td colspan="1" rowspan="1">
-          <a class="image" href="../images/experience/exp_reccorr.png" rel="external"
+          <a class="image" href="../img/experience/exp_reccorr.png" rel="external"
             shape="rect">
             <img alt="Correction of Error" class="right" height="150"
-              src="../images/experience/thumbs/exp_reccorr.png" width="114" />
+              src="../img/experience/thumbs/exp_reccorr.png" width="114" />
           </a>
         </td>
         <td colspan="1" rowspan="1">  </td>
         <td colspan="1" rowspan="1">
-          <a class="image" href="../images/experience/exp_rectransf.png" rel="external"
+          <a class="image" href="../img/experience/exp_rectransf.png" rel="external"
             shape="rect">
             <img alt="Transfer of Ownership" class="right" height="150"
-              src="../images/experience/thumbs/exp_rectransf.png" width="114" />
+              src="../img/experience/thumbs/exp_rectransf.png" width="114" />
           </a>
         </td>
       </tr>

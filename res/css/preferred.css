@@ -7,7 +7,7 @@
 ------------------------------------------------------------------- */
 
 body {
-    background: url(../images/background.png) ;
+    background: url(../img/background.png) ;
     background-color: white ;
     }
 
@@ -21,7 +21,7 @@ body {
 #header {
     color: black ;
     height: 76px ;
-    background: url("../images/header.gif") 0px 0px repeat-x ;
+    background: url("../img/header.gif") 0px 0px repeat-x ;
     background-color: #7071A2 ;
     }
 
@@ -31,7 +31,7 @@ body {
     left: 15px ;
     height: 70px ;
     width: 120px ;
-    background: url("../images/logo.gif") top left no-repeat ;
+    background: url("../img/logo.gif") top left no-repeat ;
     }
 
 #title {
@@ -326,72 +326,73 @@ body>div#footer {
 
 ------------------------------------------------------------------- */
 
-div.tablecontainer {
-    width: 85% ;
-    }
+table {
+    margin: 15px 0 10px 0;
+    font-size: 11px;
+}
+
+td {
+    vertical-align: top;
+}
+
+th {
+    text-align: left;
+}
 
 table.preformat {
-    width: 100% ;
-    margin: 2em 0 2em 1px ;
-    border: 1px solid #AAABB4 ;
-    border-bottom: 2px solid #00748c ;
-    border-collapse: collapse ;
-    }
+    border: 1px solid #AAABB4;
+    border-bottom: 2px solid #00748C;
+    border-collapse: collapse;
+    margin: 2em 0 2em 1px;
+    width: 100%;
+}
 
 table.preformat th {
-    color: black ;
-    text-align: left ;
-    vertical-align: top ;
-    padding: 0px ;
-    font-weight: normal ;
-    }
+    color: #000000;
+    padding: 0px;
+    text-align: left;
+    vertical-align: top;
+    font-weight: normal;
+}
 
 table.preformat div.tableheader {
-    padding: 0.5em 1em 0.5em 1em ;
-    background-color: #EFEBE7 ;
-    border-left: 1px solid white ;
-    border-top: 1px solid white ;
-    border-right: 1px solid #AAABB4 ;
-    border-bottom: 1px solid #AAABB4 ;
-    }
+    background-color: #EFEBE7;
+    border-bottom: 1px solid #AAABB4;
+    border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #AAABB4;
+    border-top: 1px solid #FFFFFF;
+    padding: 0.5em 1em 0.5em 1em;
+}
 
 table.preformat td {
-    color: black ;
-    background-color: white ;
-    border-top: 1px solid #E5E5E7 ;
-    border-left: 1px solid #E5E5E7 ;
-    text-align: left ;
-    vertical-align: top ;
-    padding: 0.7em 1em 0.7em 1em ;
-    }
+    background-color: #FFFFFF;
+    border-left: 1px solid #E5E5E7;
+    border-top: 1px solid #E5E5E7;
+    color: #000000;
+    padding: 0.7em 1em 0.7em 1em;
+    text-align: left;
+    vertical-align: top;
+}
 
 table.preformat td.tablefirstcol {
-    border-left: none ;
-    }
+    border-left: none;
+}
 
 table.preformat td.tablesubheader1 {
-    background-color: #F0F1F4 ;
-    border-left: none ;
-    padding: 0 ;
-    }
+    background-color: #F0F1F4;
+    border-left: none;
+    padding: 0;
+}
 
 table.preformat td.tablesubheader2 {
-    background-color: #FCFBFD ;
-    border-left: none ;
-    padding: 0.7em 1em 0.7em 1em ;
-    }
+    background-color: #FCFBFD;
+    border-left: none;
+    padding: 0.7em 1em 0.7em 1em;
+}
 
 table.preformat td.tablesubheader3 {
-    font-size: 80% ;
-    background-color: #FEFDFF ;
-    border-left: none ;
-    padding: 2px 0 2px 1em ;
-    }
-
-table.preformat td.success {
-    background-color: #C6FFC6 ;
-    }
-
-table.preformat td.failed {
-    background-color: #FACFEE ;
-    }
+    background-color: #FEFDFF;
+    border-left: none;
+    font-size: 80%;
+    padding: 2px 0 2px 1em;
+}

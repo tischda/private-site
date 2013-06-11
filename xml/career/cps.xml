@@ -12,9 +12,9 @@
     <p>Testing and setting in production of the system in Alicante (stay of 5 months in Spain).</p>
     <h2>General architecture</h2>
     <p class="right">
-      <a class="image" href="../images/experience/exp_cps.png" rel="external" shape="rect">
+      <a class="image" href="../img/experience/exp_cps.png" rel="external" shape="rect">
         <img alt="CPS       Modules" class="right" height="122"
-          src="../images/experience/thumbs/exp_cps.png" width="231" />
+          src="../img/experience/thumbs/exp_cps.png" width="231" />
       </a>
     </p>
     <p>EURODESIGN consists of a completely new development of 18 modules based on J2EE standards in
@@ -87,26 +87,26 @@
     <table>
       <tr>
         <td colspan="1" rowspan="1">
-          <a class="image" href="../images/experience/exp_cpsindex.png" rel="external"
+          <a class="image" href="../img/experience/exp_cpsindex.png" rel="external"
             shape="rect">
             <img alt="CPS Welcome Page" class="right" height="106"
-              src="../images/experience/thumbs/exp_cpsindex.png" width="150" />
+              src="../img/experience/thumbs/exp_cpsindex.png" width="150" />
           </a>
         </td>
         <td colspan="1" rowspan="1">  </td>
         <td colspan="1" rowspan="1">
-          <a class="image" href="../images/experience/exp_cpspayments.png" rel="external"
+          <a class="image" href="../img/experience/exp_cpspayments.png" rel="external"
             shape="rect">
             <img alt="CPS Payment List" class="right" height="103"
-              src="../images/experience/thumbs/exp_cpspayments.png" width="150" />
+              src="../img/experience/thumbs/exp_cpspayments.png" width="150" />
           </a>
         </td>
         <td colspan="1" rowspan="1">  </td>
         <td colspan="1" rowspan="1">
-          <a class="image" href="../images/experience/exp_cpspcard.png" rel="external"
+          <a class="image" href="../img/experience/exp_cpspcard.png" rel="external"
             shape="rect">
             <img alt="CPS Payment Card" class="right" height="106"
-              src="../images/experience/thumbs/exp_cpspcard.png" width="150" />
+              src="../img/experience/thumbs/exp_cpspcard.png" width="150" />
           </a>
         </td>
       </tr>
