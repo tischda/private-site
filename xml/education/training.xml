@@ -21,7 +21,7 @@
         <td>
           <b>516 - Best Practices in Java Programming: Hands-On</b>
           <p>.</p>
-          <p><a href="../cached/course.pdf">Course details</a></p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu_best_java.jpg" rel="external">
@@ -37,7 +37,7 @@
         <td>
           <b>446 - Preparing for the CompTIA Security+ Exam</b>
           <p>.</p>
-          <p><a href="../cached/course.pdf">Course details</a></p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu_security.jpg" rel="external">
@@ -52,7 +52,7 @@
         <td>
           <b>First Aid Advanced</b>
           <p>.</p>
-          <p><a href="../cached/course.pdf">Course details</a></p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu_first_aid2.jpg" rel="external">
@@ -67,7 +67,7 @@
         <td>
           <b>Oracle Service Bus 10g R3: Administration and Development</b>
           <p>.</p>
-          <p><a href="../cached/course.pdf">Course details</a></p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu_osb.jpg" rel="external">
@@ -82,7 +82,7 @@
         <td>
           <b>294 - Influence Skills: Getting Results Without Direct Authority</b>
           <p>.</p>
-          <p><a href="../cached/course.pdf">Course details</a></p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu_influencing.jpg" rel="external">
@@ -97,7 +97,7 @@
         <td>
           <b>Terracotta’s JVM-level clustering technology</b>
           <p>.</p>
-          <p><a href="../cached/course.pdf">Course details</a></p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu_terracotta.jpg" rel="external">
@@ -114,7 +114,7 @@
           <p>This course defines "service" and "architecture" and establishes a strong understanding
             of the concepts needed to have an effective working knowledge of SOA methodologies,
             modeling, design, SOA technologies, orchestration and architectural frameworks.</p>
-          <p><a href="../cached/lt_soa_424.pdf">Course details</a></p>
+          <p><a href="../doc/cached/lt_soa_424.pdf">Course details</a></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu_soa.jpg" rel="external">
@@ -150,7 +150,7 @@
           <b>ISTQB® Certified Tester - Foundation</b>
           <p>The <a href="http://www.istqb.org/" rel="external">ISTQB</a> was founded as an
             International Software Testing Qualifications Board in Edinburgh in November 2002. The
-            qualifications are based on a <a href="../cached/SyllabusFoundation.pdf">syllabus</a>,
+            qualifications are based on a <a href="../doc/cached/SyllabusFoundation.pdf">syllabus</a>,
             and there is a hierarchy of qualifications and guidelines for accreditation and
             examination.</p>
         </td>
@@ -289,13 +289,13 @@
         <td>
           <b>BEA Weblogic 7 and 8.1</b>
           <p>Customized training session:</p>
-          <p><a href="../cached/bea_wls_d11_70.html" rel="external">WLS-D11-70</a> Fundamentals of
+          <p><a href="../doc/cached/bea_wls_d11_70.html" rel="external">WLS-D11-70</a> Fundamentals of
             J2EE Web Application Dev.</p>
-          <p><a href="../cached/bea_wls_d21_70.html" rel="external">WLS-D21-70</a> Dev. Business
+          <p><a href="../doc/cached/bea_wls_d21_70.html" rel="external">WLS-D21-70</a> Dev. Business
             Logic Components with EJBs</p>
-          <p><a href="../cached/bea_wls_d29_70.html" rel="external">WLS-D29-70</a> Developing
+          <p><a href="../doc/cached/bea_wls_d29_70.html" rel="external">WLS-D29-70</a> Developing
             Enterprise Web Services</p>
-          <p><a href="../cached/bea_wls_plat81.html" rel="external">PLAT-01-81</a> Introduction to
+          <p><a href="../doc/cached/bea_wls_plat81.html" rel="external">PLAT-01-81</a> Introduction to
             the BEA WebLogic Platform 8.1</p>
         </td>
         <td>

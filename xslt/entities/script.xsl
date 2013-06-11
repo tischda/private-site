@@ -21,19 +21,3 @@
   </xsl:if>
 
 </xsl:template>
-
-
-<!-- Cocoon eats up comments, we need a specific rule -->
-<xsl:template match="script" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-  <xsl:copy>
-    <xsl:apply-templates select="@*"/>
-    <xsl:choose>
-      <xsl:when test="$mode='edit'">
-        <xsl:apply-templates select="node()"/>
-      </xsl:when>
-      <xsl:otherwise>
-        <xsl:comment>&#160;<xsl:apply-templates select="node()"/> //</xsl:comment>
-      </xsl:otherwise>
-    </xsl:choose>
-  </xsl:copy>
-</xsl:template>

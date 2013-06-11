@@ -59,14 +59,14 @@
         </title>
         <link rel="icon" href="{$prefix}/favicon.ico" type="image/x-icon"/>
         <link rel="shortcut icon" href="{$prefix}/favicon.ico" type="image/x-icon"/>
-        <script src="{$prefix}/scripts/date.js" type="text/javascript"> </script>
+        <script src="{$prefix}/js/date.js" type="text/javascript"> </script>
         <xsl:for-each select="/nox:page/nox:javascript">
             <xsl:call-template name="head_javascript"/>
         </xsl:for-each>
-        <link rel="stylesheet" type="text/css" media="all" href="{$prefix}/styles/format.css"/>
-        <link rel="stylesheet" type="text/css" media="all" href="{$prefix}/styles/layout.css"/>
-        <link rel="stylesheet" type="text/css" media="print" href="{$prefix}/styles/print.css"/>
-        <link rel="stylesheet" title="preferred" type="text/css" media="screen" href="{$prefix}/styles/preferred.css"/>
+        <link rel="stylesheet" type="text/css" media="all" href="{$prefix}/css/format.css"/>
+        <link rel="stylesheet" type="text/css" media="all" href="{$prefix}/css/layout.css"/>
+        <link rel="stylesheet" type="text/css" media="print" href="{$prefix}/css/print.css"/>
+        <link rel="stylesheet" title="preferred" type="text/css" media="screen" href="{$prefix}/css/preferred.css"/>
         <xsl:for-each select="/nox:page/nox:stylesheet">
             <xsl:call-template name="stylesheet"/>
         </xsl:for-each>

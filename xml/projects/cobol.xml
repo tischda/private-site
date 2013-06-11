@@ -10,10 +10,10 @@
     <p>This was a student project to create a reference manual for the COBOL language.</p>
     <p>Download here (in French):</p>
     <ul>
-      <li><a href="COBOL-Reference-1994.pdf">COBOL Reference (1994)</a>
+      <li><a href="../doc/projects/COBOL-Reference-1994.pdf">COBOL Reference (1994)</a>
         <img class="icon" alt="COBOL Manual 1994" src="../icons/acrobat.gif" />
       </li>
-      <li><a href="COBOL-Reference-1994.pdf">COBOL Reference (1993)</a>
+      <li><a href="../doc/projects/COBOL-Reference-1994.pdf">COBOL Reference (1993)</a>
         <img class="icon" alt="COBOL Manual 1993" src="../icons/acrobat.gif" />
       </li>
     </ul>

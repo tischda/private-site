@@ -2,9 +2,8 @@
 User-agent: *
 Disallow: /admin/
 Disallow: /download/
+Disallow: /icons/
 Disallow: /images/
-Disallow: /include/
-Disallow: /mysql/
 Disallow: /scripts/
 Disallow: /secret/
 Disallow: /styles/

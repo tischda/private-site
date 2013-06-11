@@ -33,15 +33,15 @@
       </tr>
       <tr>
         <td>
-          <a href="download/cv-daniel-tischer-en-v2.2.1.doc" shape="rect"
+          <a href="doc/cv-daniel-tischer-en-v2.2.1.doc" shape="rect"
             >cv-daniel-tischer-en-v2.2.1.doc</a>
         </td>
         <td> English CV</td>
         <td>
-          <a class="image" href="download/cv-daniel-tischer-en-v2.2.1.doc" shape="rect">
+          <a class="image" href="doc/cv-daniel-tischer-en-v2.2.1.doc" shape="rect">
             <img alt="English CV" src="icons/word.gif" />
           </a>
-          <a class="image" href="download/cv-daniel-tischer-en-v2.2.1.pdf" shape="rect">
+          <a class="image" href="doc/cv-daniel-tischer-en-v2.2.1.pdf" shape="rect">
             <img alt="English CV" src="icons/acrobat.gif" />
           </a>
         </td>
@@ -49,15 +49,15 @@
       </tr>
       <tr>
         <td>
-          <a href="download/cv-daniel-tischer-fr-v2.4.4.doc" shape="rect"
+          <a href="doc/cv-daniel-tischer-fr-v2.4.4.doc" shape="rect"
             >cv-daniel-tischer-fr-v2.4.4.doc</a>
         </td>
         <td> French CV </td>
         <td>
-          <a class="image" href="download/cv-daniel-tischer-fr-v2.4.4.doc" shape="rect">
+          <a class="image" href="doc/cv-daniel-tischer-fr-v2.4.4.doc" shape="rect">
             <img alt="French CV" src="icons/word.gif" />
           </a>
-          <a class="image" href="download/cv-daniel-tischer-fr-v2.4.4.pdf" shape="rect">
+          <a class="image" href="doc/cv-daniel-tischer-fr-v2.4.4.pdf" shape="rect">
             <img alt="French CV" src="icons/acrobat.gif" />
           </a>
         </td>
@@ -65,11 +65,11 @@
       </tr>
       <tr>
         <td>
-          <a href="download/daniel-tischer.vcf" shape="rect">daniel-tischer.vcf</a>
+          <a href="doc/daniel-tischer.vcf" shape="rect">daniel-tischer.vcf</a>
         </td>
         <td> vCard </td>
         <td>
-          <a class="image" href="download/daniel-tischer.vcf" shape="rect">
+          <a class="image" href="doc/daniel-tischer.vcf" shape="rect">
             <img alt="vCard" height="24" src="icons/vcard.png" width="24" />
           </a>
         </td>
@@ -77,11 +77,11 @@
       </tr>
       <tr>
         <td>
-          <a href="download/daniel-public-key.asc" shape="rect">daniel-public-key.asc</a>
+          <a href="doc/daniel-public-key.asc" shape="rect">daniel-public-key.asc</a>
         </td>
         <td> PGP Key </td>
         <td>
-          <a class="image" href="download/daniel-public-key.asc" shape="rect">
+          <a class="image" href="doc/daniel-public-key.asc" shape="rect">
             <img alt="PGP key" height="24" src="icons/keys.gif" width="24" />
           </a>
         </td>
