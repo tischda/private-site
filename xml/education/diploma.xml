@@ -21,8 +21,8 @@
         <td>Technical University (I.U.T.)</td>
         <td>Strasbourg</td>
         <td>
-          <a class="image" href="../images/education/dipl_dut_teco.jpg" rel="external">
-            <img src="../images/education/thumbs/dipl_dut_teco.jpg" alt="Marketing Diploma" />
+          <a class="image" href="../images/education/dipl/dipl_dut_teco.jpg" rel="external">
+            <img src="../images/education/dipl/thumbs/dipl_dut_teco.jpg" alt="Marketing Diploma" />
           </a>
         </td>
       </tr>
@@ -32,8 +32,8 @@
         <td>Technical University (I.U.T.)</td>
         <td>Strasbourg</td>
         <td>
-          <a class="image" href="../images/education/dipl_dut_info.jpg" rel="external">
-            <img src="../images/education/thumbs/dipl_dut_info.jpg"
+          <a class="image" href="../images/education/dipl/dipl_dut_info.jpg" rel="external">
+            <img src="../images/education/dipl/thumbs/dipl_dut_info.jpg"
               alt="Computer Science Diploma" />
           </a>
         </td>
