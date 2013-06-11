@@ -8,7 +8,7 @@
       <tr>
         <th>Date</th>
         <th>Description</th>
-        <th>Diploma</th>
+        <th  style="width: 210px">Diploma</th>
       </tr>
       <tr>
         <td colspan="5" class="tablesubheader1"> </td>
