@@ -39,10 +39,10 @@
         <td> English CV</td>
         <td>
           <a class="image" href="doc/cv-daniel-tischer-en-v2.2.1.doc" shape="rect">
-            <img alt="English CV" src="/icons/word.gif" />
+            <img alt="English CV" src="ico/word.gif" />
           </a>
           <a class="image" href="doc/cv-daniel-tischer-en-v2.2.1.pdf" shape="rect">
-            <img alt="English CV" src="/icons/acrobat.gif" />
+            <img alt="English CV" src="ico/acrobat.gif" />
           </a>
         </td>
         <td> 26/02/2013 </td>
@@ -55,10 +55,10 @@
         <td> French CV </td>
         <td>
           <a class="image" href="doc/cv-daniel-tischer-fr-v2.4.4.doc" shape="rect">
-            <img alt="French CV" src="icons/word.gif" />
+            <img alt="French CV" src="ico/word.gif" />
           </a>
           <a class="image" href="doc/cv-daniel-tischer-fr-v2.4.4.pdf" shape="rect">
-            <img alt="French CV" src="icons/acrobat.gif" />
+            <img alt="French CV" src="ico/acrobat.gif" />
           </a>
         </td>
         <td> 05/04/2013 </td>
@@ -70,7 +70,7 @@
         <td> vCard </td>
         <td>
           <a class="image" href="doc/daniel-tischer.vcf" shape="rect">
-            <img alt="vCard" height="24" src="icons/vcard.png" width="24" />
+            <img alt="vCard" height="24" src="ico/vcard.png" width="24" />
           </a>
         </td>
         <td> 08/06/2013 </td>
@@ -82,7 +82,7 @@
         <td> PGP Key </td>
         <td>
           <a class="image" href="doc/daniel-public-key.asc" shape="rect">
-            <img alt="PGP key" height="24" src="icons/keys.gif" width="24" />
+            <img alt="PGP key" height="24" src="ico/keys.gif" width="24" />
           </a>
         </td>
         <td> 30/03/2009 </td>

@@ -26,7 +26,7 @@
             quality code using design patterns, write maintainable code using Test Driven
             Development, and secure and improve the performance of your applications.</p>
           <p><a href="../doc/education/516-en.pdf">Course 516 overview</a>
-            <img class="icon" alt="Course 516 overview" src="../icons/acrobat.gif" /></p>
+            <img class="icon" alt="Course 516 overview" src="../ico/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_best_java.jpg" rel="external">
@@ -46,7 +46,7 @@
             the concepts and provide the framework for a personalized study plan for exam
             success.</p>
           <p><a href="../doc/education/446-en.pdf">Course 446 overview</a>
-            <img class="icon" alt="Course 446 overview" src="../icons/acrobat.gif" /></p>
+            <img class="icon" alt="Course 446 overview" src="../ico/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_security.jpg" rel="external">
@@ -83,11 +83,11 @@
             and legacy applications across an enterprise-wide service network. </p>
           <p><a href="../doc/education/OSB_administration_D56301GC10_38_F.pdf">OSB administration
               overview</a>
-            <img class="icon" alt="OSB administration overview" src="../icons/acrobat.gif" /> - <a
+            <img class="icon" alt="OSB administration overview" src="../ico/acrobat.gif" /> - <a
               href="../doc/education/OSB_design_D56299GC10_28_US.pdf">OSB design overview</a>
-            <img class="icon" alt="OSB design overview" src="../icons/acrobat.gif" /> - <a
+            <img class="icon" alt="OSB design overview" src="../ico/acrobat.gif" /> - <a
               href="../doc/education/OSB_security_D78651_28_US.pdf">OSB security overview</a>
-            <img class="icon" alt="OSB security overview" src="../icons/acrobat.gif" /></p>
+            <img class="icon" alt="OSB security overview" src="../ico/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_osb.jpg" rel="external">
@@ -106,7 +106,7 @@
             to others to gain buy-in, achieve goals by enhancing trust and cooperation, and deal
             effectively with challenging behaviors to overcome resistance and inertia in others.</p>
           <p><a href="../doc/education/294-en.pdf">Course 294 overview</a>
-            <img class="icon" alt="Course 294 overview" src="../icons/acrobat.gif" /></p>
+            <img class="icon" alt="Course 294 overview" src="../ico/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_influencing.jpg" rel="external">
@@ -125,7 +125,7 @@
             in-depth visibility into the Java Cluster (http-sessions, distributed caches, clustering
             POJOs, Spring singleton-beans/context).</p>
           <p><a href="../doc/education/terracotta.pdf">Terracotta Overview</a>
-            <img class="icon" alt="Terracotta overview" src="../icons/acrobat.gif" /></p>
+            <img class="icon" alt="Terracotta overview" src="../ico/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_terracotta.jpg" rel="external">
@@ -143,7 +143,7 @@
             of the concepts needed to have an effective working knowledge of SOA methodologies,
             modeling, design, SOA technologies, orchestration and architectural frameworks.</p>
           <p><a href="../doc/education/424-en.pdf">Course 424 overview</a>
-            <img class="icon" alt="Course 424 overview" src="../icons/acrobat.gif" /></p>
+            <img class="icon" alt="Course 424 overview" src="../ico/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_soa.jpg" rel="external">
@@ -176,7 +176,7 @@
           <p>The <a href="http://www.istqb.org/" rel="external">ISTQB</a> was founded as an
             International Software Testing Qualifications Board in Edinburgh in November 2002. The
             qualifications are based on a <a href="../doc/education/istqb.pdf">syllabus</a>
-            <img class="icon" alt="ISTQB Syllabus" src="../icons/acrobat.gif" />, and there is a
+            <img class="icon" alt="ISTQB Syllabus" src="../ico/acrobat.gif" />, and there is a
             hierarchy of qualifications and guidelines for accreditation and examination.</p>
         </td>
         <td>

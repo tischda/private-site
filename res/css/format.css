@@ -103,37 +103,37 @@ a:hover {
 */
 a[href ^="http://"],
 a[href ^="gopher://"] {
-    background: url(../icons/external.png) center right no-repeat;
+    background: url(../ico/external.png) center right no-repeat;
     padding-right: 13px;
     border-bottom: 1px solid #6699CC;
 }
 
 a[href ^="https://"],
 .link-https {
-    background: url("../icons/lock.gif") center right no-repeat;
+    background: url("../ico/lock.gif") center right no-repeat;
     padding-right: 16px;
 }
 
 a[href ^="mailto:"],
 .link-mailto {
-    background: url("../icons/mail.gif") center right no-repeat;
+    background: url("../ico/mail.gif") center right no-repeat;
     padding-right: 18px;
 }
 
 a[href ^="news://"] {
-    background: url("../icons/news.png") center right no-repeat;
+    background: url("../ico/news.png") center right no-repeat;
     padding-right: 18px;
 }
 
 a[href ^="ftp://"],
 .link-ftp {
-    background: url("../icons/file16x16.gif") center right no-repeat;
+    background: url("../ico/file16x16.gif") center right no-repeat;
     padding-right: 18px;
 }
 
 a[href ^="irc://"],
 .link-irc {
-    background: url("../icons/discussion.gif")  center right no-repeat;
+    background: url("../ico/discussion.gif")  center right no-repeat;
     padding-right: 18px;
 }
 
