@@ -150,6 +150,10 @@ table.preformat div.tableheader {
     margin-right: -1px;
 }
 
+th:first-child div.tableheader {
+    margin-left: 0;
+}
+
 table.preformat td {
     background-color: #FFFFFF;
     border-left: 1px solid #E5E5E7;
