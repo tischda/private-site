@@ -24,13 +24,13 @@
       offering enormous savings in time and increasing efficiency.</p>
     <p>
       <a class="image" href="../download/simap_brochure.pdf">
-        <img alt="SIMAP Brochure" src="../images/site/experience/thumbs/simap_brochure.png" />
+        <img alt="SIMAP Brochure" src="../images/experience/thumbs/simap_brochure.png" />
       </a> &#160;&#160;&#160; <a class="image" href="../download/simap_provedores.pdf">
-        <img alt="SIMAP Leaflet1" src="../images/site/experience/thumbs/simap_provedores.png" />
+        <img alt="SIMAP Leaflet1" src="../images/experience/thumbs/simap_provedores.png" />
       </a> &#160;&#160;&#160; <a class="image" href="../download/simap_adjudicadores.pdf">
-        <img alt="SIMAP Leaflet2" src="../images/site/experience/thumbs/simap_adjudicadores.png" />
+        <img alt="SIMAP Leaflet2" src="../images/experience/thumbs/simap_adjudicadores.png" />
       </a> &#160;&#160;&#160; <a class="image" href="../download/simap_murcia.pdf">
-        <img alt="SIMAP in Murcia" src="../images/site/experience/thumbs/simap_murcia.png" />
+        <img alt="SIMAP in Murcia" src="../images/experience/thumbs/simap_murcia.png" />
       </a>
     </p>
     <h2>Functional overview</h2>
@@ -54,9 +54,9 @@
     </ul>
     <h2>Technical overview</h2>
     <p class="right">
-      <a class="image" href="../images/site/experience/exp_simap.png" rel="external" shape="rect">
+      <a class="image" href="../images/experience/exp_simap.png" rel="external" shape="rect">
         <img alt="SIMAP       Architecture" class="right" height="150"
-          src="../images/site/experience/thumbs/exp_simap.png" width="100" />
+          src="../images/experience/thumbs/exp_simap.png" width="100" />
       </a>
     </p>
     <p>The two parts of the project have been developed separately.</p>

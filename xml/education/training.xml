@@ -24,8 +24,8 @@
           <p><a href="../cached/course.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_best_java.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_best_java.jpg"
+          <a class="image" href="../images/education/edu_best_java.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_best_java.jpg"
               alt="Best Practices in Java" />
           </a>
         </td>
@@ -40,8 +40,8 @@
           <p><a href="../cached/course.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_security.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_security.jpg" alt="First Aid Advanced" />
+          <a class="image" href="../images/education/edu_security.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_security.jpg" alt="First Aid Advanced" />
           </a>
         </td>
       </tr>
@@ -55,8 +55,8 @@
           <p><a href="../cached/course.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_first_aid2.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_first_aid2.jpg" alt="CompTIA Security+" />
+          <a class="image" href="../images/education/edu_first_aid2.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_first_aid2.jpg" alt="CompTIA Security+" />
           </a>
         </td>
       </tr>
@@ -70,8 +70,8 @@
           <p><a href="../cached/course.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_osb.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_osb.jpg" alt="Oracle Service Bus" />
+          <a class="image" href="../images/education/edu_osb.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_osb.jpg" alt="Oracle Service Bus" />
           </a>
         </td>
       </tr>
@@ -85,8 +85,8 @@
           <p><a href="../cached/course.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_influencing.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_influencing.jpg" alt="Influence Skills" />
+          <a class="image" href="../images/education/edu_influencing.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_influencing.jpg" alt="Influence Skills" />
           </a>
         </td>
       </tr>
@@ -100,8 +100,8 @@
           <p><a href="../cached/course.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_terracotta.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_terracotta.jpg" alt="Terracotta" />
+          <a class="image" href="../images/education/edu_terracotta.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_terracotta.jpg" alt="Terracotta" />
           </a>
         </td>
       </tr>
@@ -117,12 +117,12 @@
           <p><a href="../cached/lt_soa_424.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_soa.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_soa.jpg"
+          <a class="image" href="../images/education/edu_soa.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_soa.jpg"
               alt="Service Oriented Architecture" />
           </a>
-          <a class="image" href="../images/site/education/cert_soa.jpg" rel="external">
-            <img src="../images/site/education/thumbs/cert_soa.jpg"
+          <a class="image" href="../images/education/cert_soa.jpg" rel="external">
+            <img src="../images/education/thumbs/cert_soa.jpg"
               alt="Service Oriented Architecture" />
           </a>
         </td>
@@ -137,8 +137,8 @@
             emergency (I took on this responsibility in 2007).</p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_first_aid.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_first_aid.jpg" alt="First Aid" />
+          <a class="image" href="../images/education/edu_first_aid.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_first_aid.jpg" alt="First Aid" />
           </a>
         </td>
       </tr>
@@ -155,8 +155,8 @@
             examination.</p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_istqb_tester.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_istqb_tester.jpg"
+          <a class="image" href="../images/education/edu_istqb_tester.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_istqb_tester.jpg"
               alt="ISTQB Certified Tester" />
           </a>
         </td>
@@ -201,8 +201,8 @@
             departments within individual organizations.</p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_itil.jpg" rel="external">
-            <img style="border: 1px solid #eee;" src="../images/site/education/thumbs/edu_itil.jpg"
+          <a class="image" href="../images/education/edu_itil.jpg" rel="external">
+            <img style="border: 1px solid #eee;" src="../images/education/thumbs/edu_itil.jpg"
               alt="ITIL Training" />
           </a>
         </td>
@@ -219,8 +219,8 @@
             requirements (in Spain). </p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_riesgos.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_riesgos.jpg" alt="Riesgos Laborales" />
+          <a class="image" href="../images/education/edu_riesgos.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_riesgos.jpg" alt="Riesgos Laborales" />
           </a>
         </td>
       </tr>
@@ -243,9 +243,9 @@
             Spring WebMVC</p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_spring.jpg" rel="external">
+          <a class="image" href="../images/education/edu_spring.jpg" rel="external">
             <img style="border: 1px solid #eee;"
-              src="../images/site/education/thumbs/edu_spring.jpg" alt="Spring Training" />
+              src="../images/education/thumbs/edu_spring.jpg" alt="Spring Training" />
           </a>
         </td>
       </tr>
@@ -277,8 +277,8 @@
           </ul>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_pmi.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_pmi.jpg" alt="PMI Training" />
+          <a class="image" href="../images/education/edu_pmi.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_pmi.jpg" alt="PMI Training" />
           </a>
         </td>
       </tr>
@@ -299,8 +299,8 @@
             the BEA WebLogic Platform 8.1</p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/cert_bea.jpg" rel="external">
-            <img src="../images/site/education/thumbs/cert_bea.jpg" alt="BEA Training" />
+          <a class="image" href="../images/education/cert_bea.jpg" rel="external">
+            <img src="../images/education/thumbs/cert_bea.jpg" alt="BEA Training" />
           </a>
         </td>
       </tr>
@@ -320,8 +320,8 @@
             templates. Usage of Infopark NPS tools for automation.</p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_nps.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_nps.jpg" alt="NPS Training" />
+          <a class="image" href="../images/education/edu_nps.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_nps.jpg" alt="NPS Training" />
           </a>
         </td>
       </tr>
@@ -338,8 +338,8 @@
             importing and exporting data, and security.</p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_oracle.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_oracle.jpg" alt="Oracle         Training"
+          <a class="image" href="../images/education/edu_oracle.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_oracle.jpg" alt="Oracle         Training"
              />
           </a>
         </td>
@@ -358,8 +358,8 @@
             technology applications. The course uses the Java 2 Software Development Kit. </p>
         </td>
         <td>
-          <a class="image" href="../images/site/education/edu_java.jpg" rel="external">
-            <img src="../images/site/education/thumbs/edu_java.jpg" alt="Java Training" />
+          <a class="image" href="../images/education/edu_java.jpg" rel="external">
+            <img src="../images/education/thumbs/edu_java.jpg" alt="Java Training" />
           </a>
         </td>
       </tr>
