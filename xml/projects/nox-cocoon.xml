@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
 <nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Projects : Nox Cocoon" type="static">
-    <nox:section>
-        <h1>Nox Cocoon</h1>
-        <p>Nox-Cocoon builds on the Apache Cocoon project to parse the XML on the fly.</p>
-        <h2>Features</h2>
-        <ul>
-            <li>Portable (Java)</li>
-            <li>Browse the site from the actual source code (Jetty+Cocoon)</li>
-            <li>WYSIWYG content editor (XStandard)</li>
-        </ul>
-        <h2>Limitations</h2>
-        <ul>
-            <li>Customization requires expert knowledge of Cocoon</li>            
-            <li>Cocoon Sitemap is hard work to configure correctly</li>
-            <li>Only tested thoroughly on Cocoon 2.1.10</li>
-            <li>You still need NOX-C (libxml) to generate the static site</li>
-        </ul>
-    </nox:section>
+  <nox:section>
+    <h1>Nox Cocoon</h1>
+    <p>Nox-Cocoon builds on the Apache Cocoon project to parse the XML on the fly.</p>
+    <h2>Features</h2>
+    <ul>
+      <li>Portable (Java)</li>
+      <li>Browse the site from the actual source code (Jetty+Cocoon)</li>
+      <li>WYSIWYG content editor (XStandard)</li>
+    </ul>
+    <h2>Limitations</h2>
+    <ul>
+      <li>Customization requires expert knowledge of Cocoon</li>
+      <li>Cocoon Sitemap is hard work to configure correctly</li>
+      <li>Only tested thoroughly on Cocoon 2.1.10</li>
+      <li>You still need NOX-C (libxml) to generate the static site</li>
+    </ul>
+  </nox:section>
 </nox:page>

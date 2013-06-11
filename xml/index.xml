@@ -13,19 +13,16 @@
     </rdf:Description>
   </rdf:RDF>
   <nox:menublock>
-    <p>2, allée de la Tour<br />
-       37300 Joué-lès-Tours<br />
-       FRANCE<br /><br />
-       (+34) 627 016 140</p>
-       <p>daniel.tischer@yahoo.es</p>
-       <p><br /></p>
-       <p>Available: August 2014</p>
+    <p>2, allée de la Tour<br /> 37300 Joué-lès-Tours<br /> FRANCE<br /><br /> (+34) 627 016 140</p>
+    <p>daniel.tischer@yahoo.es</p>
+    <p><br /></p>
+    <p>Available: August 2014</p>
   </nox:menublock>
 
   <nox:section>
     <h1>Daniel TISCHER</h1>
-    <p>Experienced Software Architect specialised in automated deployment of
-       J2EE solutions, DevOps and Project Leadership (PMI and Prince2 certified).</p>
+    <p>Experienced Software Architect specialised in automated deployment of J2EE solutions, DevOps
+      and Project Leadership (PMI and Prince2 certified).</p>
     <p>Here is my contact information and CV:</p>
     <table class="preformat" style="width: 500px" summary="Curriculum Vitae">
       <tr>

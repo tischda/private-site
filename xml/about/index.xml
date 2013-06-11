@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../dtd/page.dtd">
+<!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
 <nox:page xmlns:nox="http://dtischer.free.fr/nox" title="About : This Site" type="static">
 
-    <!--
+  <!--
     <nox:menublock>
         <p>
             <br />
@@ -22,15 +22,12 @@
         </form>
     </nox:menublock>
     -->
-    <nox:section>
-
-        <h1>About this site</h1>
-        <p>
-            <img alt="Daniel TISCHER" class="right" height="208"
-                src="../images/site/private/daniel.jpg" width="309" />This site was launched in
-            January 2002. From a private web page, this became a playground for the NOX framework
-            and a project home for other personal initiatives.</p>
-        <p> </p>
-
-    </nox:section>
+  <nox:section>
+    <h1>About this site</h1>
+    <p>
+      <img alt="Daniel TISCHER" class="right" height="208" src="../images/site/private/daniel.jpg"
+        width="309" />This site was launched in January 2002. From a private web page, this became a
+      playground for the NOX framework and a project home for other personal initiatives.</p>
+    <p> </p>
+  </nox:section>
 </nox:page>

@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
 <nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Projects : Almira" type="static">
-    <nox:section>
-        <h1>Almira</h1>
-        <p>Almira is a Java reference implementation for Java web applications using Spring,
-            Hibernate JPA and Apache Wicket. It started in 2009 as a proof of concept for a
-            Terracotta cluster, but eventually turned out to be a good candidate for other
-            projects.</p>
-        <h2>Features</h2>
-        <ul>
-            <li>Based on open standards</li>
-            <li>Maven site generation</li>
-            <li>Works around many Maven quirks</li>
-            <li>Eclipse WTP support</li>
-        </ul>
-        <h2>Limitations</h2>
-        <ul>
-            <li>Test coverage still limited</li>
-            <li>Not all production aspects are covered (security, monitoring)</li>
-        </ul>
-    </nox:section>
+  <nox:section>
+    <h1>Almira</h1>
+    <p>Almira is a Java reference implementation for Java web applications using Spring, Hibernate
+      JPA and Apache Wicket. It started in 2009 as a proof of concept for a Terracotta cluster, but
+      eventually turned out to be a good candidate for other projects.</p>
+    <h2>Features</h2>
+    <ul>
+      <li>Based on open standards</li>
+      <li>Maven site generation</li>
+      <li>Works around many Maven quirks</li>
+      <li>Eclipse WTP support</li>
+    </ul>
+    <h2>Limitations</h2>
+    <ul>
+      <li>Test coverage still limited</li>
+      <li>Not all production aspects are covered (security, monitoring)</li>
+    </ul>
+  </nox:section>
 </nox:page>

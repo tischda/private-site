@@ -3,7 +3,6 @@
 <nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Education : Diploma">
   <nox:section>
     <h1>Diploma</h1>
-
     <p>Here the list of diploma I have:</p>
     <table class="preformat" summary="Diploma">
       <tr>
@@ -23,8 +22,7 @@
         <td>Strasbourg</td>
         <td>
           <a class="image" href="../images/site/education/dipl_dut_teco.jpg" rel="external">
-            <img src="../images/site/education/thumbs/dipl_dut_teco.jpg"
-              alt="Marketing Diploma" />
+            <img src="../images/site/education/thumbs/dipl_dut_teco.jpg" alt="Marketing Diploma" />
           </a>
         </td>
       </tr>
@@ -35,12 +33,11 @@
         <td>Strasbourg</td>
         <td>
           <a class="image" href="../images/site/education/dipl_dut_info.jpg" rel="external">
-            <img src="../images/site/education/thumbs/dipl_dut_info.jpg" alt="Computer Science Diploma"
-             />
+            <img src="../images/site/education/thumbs/dipl_dut_info.jpg"
+              alt="Computer Science Diploma" />
           </a>
         </td>
       </tr>
     </table>
-
   </nox:section>
 </nox:page>
