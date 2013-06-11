@@ -26,18 +26,18 @@
     <p>Here is my contact information and CV:</p>
     <table class="preformat" style="width: 500px" summary="Curriculum Vitae">
       <tr>
-        <th colspan="1" rowspan="1">File</th>
-        <th colspan="1" rowspan="1">Description</th>
-        <th colspan="1" rowspan="1">Type</th>
-        <th colspan="1" rowspan="1">Last Updated</th>
+        <th>File</th>
+        <th>Description</th>
+        <th>Type</th>
+        <th>Last Updated</th>
       </tr>
       <tr>
-        <td colspan="1" rowspan="1">
+        <td>
           <a href="download/cv-daniel-tischer-en-v2.2.1.doc" shape="rect"
             >cv-daniel-tischer-en-v2.2.1.doc</a>
         </td>
-        <td colspan="1" rowspan="1"> English CV</td>
-        <td colspan="1" rowspan="1">
+        <td> English CV</td>
+        <td>
           <a class="image" href="download/cv-daniel-tischer-en-v2.2.1.doc" shape="rect">
             <img alt="English CV" src="images/icons/word.gif" />
           </a>
@@ -45,15 +45,15 @@
             <img alt="English CV" src="images/icons/acrobat.gif" />
           </a>
         </td>
-        <td colspan="1" rowspan="1"> 26/02/2013 </td>
+        <td> 26/02/2013 </td>
       </tr>
       <tr>
-        <td colspan="1" rowspan="1">
+        <td>
           <a href="download/cv-daniel-tischer-fr-v2.4.4.doc" shape="rect"
             >cv-daniel-tischer-fr-v2.4.4.doc</a>
         </td>
-        <td colspan="1" rowspan="1"> French CV </td>
-        <td colspan="1" rowspan="1">
+        <td> French CV </td>
+        <td>
           <a class="image" href="download/cv-daniel-tischer-fr-v2.4.4.doc" shape="rect">
             <img alt="French CV" src="images/icons/word.gif" />
           </a>
@@ -61,31 +61,31 @@
             <img alt="French CV" src="images/icons/acrobat.gif" />
           </a>
         </td>
-        <td colspan="1" rowspan="1"> 05/04/2013 </td>
+        <td> 05/04/2013 </td>
       </tr>
       <tr>
-        <td colspan="1" rowspan="1">
+        <td>
           <a href="download/daniel-tischer.vcf" shape="rect">daniel-tischer.vcf</a>
         </td>
-        <td colspan="1" rowspan="1"> vCard </td>
-        <td colspan="1" rowspan="1">
+        <td> vCard </td>
+        <td>
           <a class="image" href="download/daniel-tischer.vcf" shape="rect">
             <img alt="vCard" height="24" src="images/icons/vcard.gif" width="24" />
           </a>
         </td>
-        <td colspan="1" rowspan="1"> 08/06/2013 </td>
+        <td> 08/06/2013 </td>
       </tr>
       <tr>
-        <td colspan="1" rowspan="1">
+        <td>
           <a href="download/daniel-public-key.asc" shape="rect">daniel-public-key.asc</a>
         </td>
-        <td colspan="1" rowspan="1"> PGP Key </td>
-        <td colspan="1" rowspan="1">
+        <td> PGP Key </td>
+        <td>
           <a class="image" href="download/daniel-public-key.asc" shape="rect">
             <img alt="PGP key" height="24" src="images/icons/keys.gif" width="24" />
           </a>
         </td>
-        <td colspan="1" rowspan="1"> 30/03/2009 </td>
+        <td> 30/03/2009 </td>
       </tr>
     </table>
   </nox:section>
