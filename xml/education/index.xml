@@ -37,8 +37,12 @@
         <td>
           <b>English C2 Language Competence Certificate</b>
           <p>The C2 level (mastery or proficiency) is the highest level in the Common European
-            Framework <a href="http://www.coe.int/t/DG4/Portfolio/?M=/main_pages/levels.html"
-              >classification</a>.</p>
+            Framework classification:</p>
+          <p>
+            <a class="image" href="../images/education/edu_eu_languages.png" rel="external">
+              <img src="../images/education/thumbs/edu_eu_languages.png" alt="EU Language Framework" />
+            </a>
+          </p>
         </td>
         <td>
           <a class="image" href="../images/education/cert_english_c2.jpg" rel="external">
@@ -74,12 +78,13 @@
           <p> PRINCE®, which stands for <b>Pr</b>ojects <b>in</b>
             <b>C</b>ontrolled <b>E</b>nvironments, is a project management method covering the
             organisation, management and control of projects. <a
-              href="http://www.ogc.gov.uk/methods_prince_2.asp" rel="external">PRINCE</a> was first
+              href="http://www.prince-officialsite.com/" rel="external">PRINCE</a> was first
             developed by the Central Computer and Telecommunications Agency (CCTA), now part of the
             Office of Government Commerce (OGC), in 1989 as a UK Government standard for IT project
             management.</p>
-          <p>Candidate # P2/NLPB048795 and P2/NLPB049603 - <a
-              href="http://www.prince2.org.uk/examquery.asp" rel="external">Check</a></p>
+          <p><a
+            href="http://www.apmg-international.com/SCRQuery.aspx?exam=p2" rel="external">Search Successful Candidate Registers</a>
+            - Candidate # P2/NLPB048795 and P2/NLPB049603</p>
         </td>
         <td>
           <a class="image" href="../images/education/cert_prince2_foundation.jpg"
@@ -100,7 +105,7 @@
         <td>
           <b>ITIL - Foundation</b>
           <p>The Information Technology Infrastructure Library (<a
-              href="http://www.ogc.gov.uk/guidance_itil.asp" rel="external">ITIL</a>) is an
+            href="http://www.itil-officialsite.com/" rel="external">ITIL</a>) is an
             integrated set of best-practice recommendations.</p>
           <p>This framework essentially defines how to organize the system and network management
             departments within individual organizations. The concepts support IT service providers
