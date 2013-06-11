@@ -1,9 +1,5 @@
-/* $Id: preferred.css 14 2004-12-27 11:37:08Z dtischer $ */
-
 /* --- ---------------------------------------------------------------
-
     Body
-
 ------------------------------------------------------------------- */
 
 body {
@@ -13,9 +9,7 @@ body {
 
 
 /* --- ---------------------------------------------------------------
-
     Header
-
 ------------------------------------------------------------------- */
 
 #header {
@@ -88,9 +82,7 @@ body {
 
 
 /* --- ---------------------------------------------------------------
-
     Main Navigation
-
 ------------------------------------------------------------------- */
 
 #topnav {
@@ -150,9 +142,7 @@ body {
 
 
 /* --- ---------------------------------------------------------------
-
     Content
-
 ------------------------------------------------------------------- */
 
 #content {
@@ -180,9 +170,7 @@ body>div#content {
 
 
 /* --- ---------------------------------------------------------------
-
     Sidebar Pod
-
 ------------------------------------------------------------------- */
 
 #sidebar {
@@ -269,9 +257,7 @@ ul.nav li a {
 
 
 /* --- ---------------------------------------------------------------
-
     Footer
-
 ------------------------------------------------------------------- */
 
 #footer {
@@ -318,81 +304,3 @@ body>div#footer {
 #toplink a:hover {
   background: #61829C ;
   }
-
-
-/* --- ---------------------------------------------------------------
-
-    Tables
-
-------------------------------------------------------------------- */
-
-table {
-    margin: 15px 0 10px 0;
-    font-size: 11px;
-}
-
-td {
-    vertical-align: top;
-}
-
-th {
-    text-align: left;
-}
-
-table.preformat {
-    border: 1px solid #AAABB4;
-    border-bottom: 2px solid #00748C;
-    border-collapse: collapse;
-    margin: 2em 0 2em 1px;
-    width: 100%;
-}
-
-table.preformat th {
-    color: #000000;
-    padding: 0px;
-    text-align: left;
-    vertical-align: top;
-    font-weight: normal;
-}
-
-table.preformat div.tableheader {
-    background-color: #EFEBE7;
-    border-bottom: 1px solid #AAABB4;
-    border-left: 1px solid #FFFFFF;
-    border-right: 1px solid #AAABB4;
-    border-top: 1px solid #FFFFFF;
-    padding: 0.5em 1em 0.5em 1em;
-}
-
-table.preformat td {
-    background-color: #FFFFFF;
-    border-left: 1px solid #E5E5E7;
-    border-top: 1px solid #E5E5E7;
-    color: #000000;
-    padding: 0.7em 1em 0.7em 1em;
-    text-align: left;
-    vertical-align: top;
-}
-
-table.preformat td.tablefirstcol {
-    border-left: none;
-}
-
-table.preformat td.tablesubheader1 {
-    background-color: #F0F1F4;
-    border-left: none;
-    padding: 0;
-}
-
-table.preformat td.tablesubheader2 {
-    background-color: #FCFBFD;
-    border-left: none;
-    padding: 0.7em 1em 0.7em 1em;
-}
-
-table.preformat td.tablesubheader3 {
-    background-color: #FEFDFF;
-    border-left: none;
-    font-size: 80%;
-    padding: 2px 0 2px 1em;
-}
