@@ -2,7 +2,7 @@
 
 /* --- ---------------------------------------------------------------
 
-	Body
+    Body
 
 ------------------------------------------------------------------- */
 
@@ -14,7 +14,7 @@ body {
 
 /* --- ---------------------------------------------------------------
 
-	Header
+    Header
 
 ------------------------------------------------------------------- */
 
@@ -72,7 +72,7 @@ body {
     right: 210px ;
     margin: 0 ;
     background: transparent ;
-	}
+    }
 
 
 #message {
@@ -89,7 +89,7 @@ body {
 
 /* --- ---------------------------------------------------------------
 
-	Main Navigation
+    Main Navigation
 
 ------------------------------------------------------------------- */
 
@@ -131,7 +131,7 @@ body {
     border-bottom: none ;
     font-weight: bold ;
     color: black ;
-    background-color: #FEF3C2 ;
+    background-color: #FFFCEA ;
     }
 
 #topnav a.css {
@@ -151,7 +151,7 @@ body {
 
 /* --- ---------------------------------------------------------------
 
-	Content
+    Content
 
 ------------------------------------------------------------------- */
 
@@ -181,7 +181,7 @@ body>div#content {
 
 /* --- ---------------------------------------------------------------
 
-	Sidebar Pod
+    Sidebar Pod
 
 ------------------------------------------------------------------- */
 
@@ -197,7 +197,7 @@ body>div#content {
     }
 
 #sidebar p {
-	font-size: 9px ;
+    font-size: 9px ;
     margin: 0 ;
     padding: 0 ;
     line-height: 1.5em ;
@@ -205,15 +205,15 @@ body>div#content {
     }
 
 #sidebar ul {
-	width: 150px ;
-	border-bottom : 1px solid #eee ;
-	margin-bottom: 1em ;
-	padding-bottom: 1em ;
-	}
+    width: 150px ;
+    border-bottom : 1px solid #eee ;
+    margin-bottom: 1em ;
+    padding-bottom: 1em ;
+    }
 
 #sidebar ul.last {
-	border-bottom : none ;
-	}
+    border-bottom : none ;
+    }
 
 #sidebar td {
     font-size: 9px ;
@@ -239,7 +239,7 @@ body>div#content {
     font-weight: bold ;
     color: black ;
     border-left: 3px solid #42596B ;
-    background-color: #FEF3C2 ;
+    background-color: #FFFCEA ;
     }
 
 #sidebar div.menublock {
@@ -270,7 +270,7 @@ ul.nav li a {
 
 /* --- ---------------------------------------------------------------
 
-	Footer
+    Footer
 
 ------------------------------------------------------------------- */
 
@@ -314,7 +314,7 @@ body>div#footer {
     display: block ;
     border: none ;
     }
-    
+
 #toplink a:hover {
   background: #61829C ;
   }
@@ -322,12 +322,12 @@ body>div#footer {
 
 /* --- ---------------------------------------------------------------
 
-	Tables
+    Tables
 
 ------------------------------------------------------------------- */
 
 div.tablecontainer {
-    width: 85% ;    
+    width: 85% ;
     }
 
 table.preformat {
@@ -382,7 +382,7 @@ table.preformat td.tablesubheader2 {
     }
 
 table.preformat td.tablesubheader3 {
-	font-size: 80% ;
+    font-size: 80% ;
     background-color: #FEFDFF ;
     border-left: none ;
     padding: 2px 0 2px 1em ;
@@ -390,8 +390,8 @@ table.preformat td.tablesubheader3 {
 
 table.preformat td.success {
     background-color: #C6FFC6 ;
-	}
+    }
 
 table.preformat td.failed {
-	background-color: #FACFEE ;
-	}
+    background-color: #FACFEE ;
+    }
