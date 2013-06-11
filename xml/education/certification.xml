@@ -8,7 +8,7 @@
       <tr>
         <th>Date</th>
         <th>Description</th>
-        <th  style="width: 210px">Diploma</th>
+        <th style="width: 210px">Diploma</th>
       </tr>
       <tr>
         <td colspan="5" class="tablesubheader1"> </td>
@@ -40,7 +40,8 @@
             Framework classification:</p>
           <p>
             <a class="image" href="../images/education/edu/edu_eu_languages.png" rel="external">
-              <img src="../images/education/edu/thumbs/edu_eu_languages.png" alt="EU Language Framework" />
+              <img src="../images/education/edu/thumbs/edu_eu_languages.png"
+                alt="EU Language Framework" />
             </a>
           </p>
         </td>
@@ -57,9 +58,9 @@
           <b>ISTQB® Certified Tester - Foundation</b>
           <p>The <a href="http://www.istqb.org/" rel="external">ISTQB</a> was founded as an
             International Software Testing Qualifications Board in Edinburgh in November 2002. The
-            qualifications are based on a <a href="../doc/cached/SyllabusFoundation.pdf">syllabus</a>,
-            and there is a hierarchy of qualifications and guidelines for accreditation and
-            examination.</p>
+            qualifications are based on a <a href="../doc/education/istqb.pdf">syllabus</a>
+            <img class="icon" alt="ISTQB Syllabus" src="../icons/acrobat.gif" />, and there is
+            a hierarchy of qualifications and guidelines for accreditation and examination.</p>
           <p>The exam for the Foundation Level has more theoretical nature and requests for
             knowledge about the software development area - especially in the field of testing.</p>
         </td>
@@ -82,9 +83,8 @@
             developed by the Central Computer and Telecommunications Agency (CCTA), now part of the
             Office of Government Commerce (OGC), in 1989 as a UK Government standard for IT project
             management.</p>
-          <p><a
-            href="http://www.apmg-international.com/SCRQuery.aspx?exam=p2" rel="external">Search Successful Candidate Registers</a>
-            - Candidate # P2/NLPB048795 and P2/NLPB049603</p>
+          <p><a href="http://www.apmg-international.com/SCRQuery.aspx?exam=p2" rel="external">Search
+              Successful Candidate Registers</a> - Candidate # P2/NLPB048795 and P2/NLPB049603</p>
         </td>
         <td>
           <a class="image" href="../images/education/cert/cert_prince2_foundation.jpg"
@@ -105,8 +105,8 @@
         <td>
           <b>ITIL - Foundation</b>
           <p>The Information Technology Infrastructure Library (<a
-            href="http://www.itil-officialsite.com/" rel="external">ITIL</a>) is an
-            integrated set of best-practice recommendations.</p>
+              href="http://www.itil-officialsite.com/" rel="external">ITIL</a>) is an integrated set
+            of best-practice recommendations.</p>
           <p>This framework essentially defines how to organize the system and network management
             departments within individual organizations. The concepts support IT service providers
             in the planning of consistent, documented, and repeatable processes that improve service
@@ -149,16 +149,6 @@
           <a class="image" href="../images/education/cert/cert_pmi_memb.jpg" rel="external">
             <img src="../images/education/cert/thumbs/cert_pmi_memb.jpg" alt="PMI Membership" />
           </a>
-          <!--
-            <br/><br/>
-            <a class="image" href="../images/education/cert/cert_pmi_exa1.jpg" rel="external">
-                <img src="../images/education/cert/thumbs/cert_pmi_exa1.jpg" alt="PMI Certification"/>
-            </a>
-            <br/><br/>
-            <a class="image" href="../images/education/cert/cert_pmi_exa2.jpg" rel="external">
-                <img src="../images/education/cert/thumbs/cert_pmi_exa2.jpg" alt="PMI Certification"/>
-            </a>
-            -->
         </td>
       </tr>
       <tr>
@@ -181,13 +171,6 @@
           <a class="image" href="../images/education/cert/cert_scwcd.jpg" rel="external">
             <img src="../images/education/cert/thumbs/cert_scwcd.jpg" alt="SCWCD Certification" />
           </a>
-          <!--
-            <br/><br/>
-            <a class="image" href="../images/education/cert/cert_scwcd_exa.jpg"
-                rel="external">
-                <img src="../images/education/cert/thumbs/cert_scwcd_exa.jpg" alt="SCWCD Certification"/>
-            </a>
-            -->
         </td>
       </tr>
       <tr>
@@ -210,13 +193,6 @@
           <a class="image" href="../images/education/cert/cert_java.jpg" rel="external">
             <img src="../images/education/cert/thumbs/cert_java.jpg" alt="Java Certification" />
           </a>
-          <!--
-                <br/><br/>
-                <a class="image" href="../images/education/cert/cert_java_exa.jpg"
-                    rel="external">
-                    <img src="../images/education/cert/thumbs/cert_java_exa.jpg" alt="Java Certification"/>
-                </a>
-                -->
         </td>
       </tr>
       <tr>
@@ -240,12 +216,6 @@
           <a class="image" href="../images/education/cert/cert_uml.jpg" rel="external">
             <img src="../images/education/cert/thumbs/cert_uml.jpg" alt="UML Certification" />
           </a>
-          <!--
-                            <br/><br/>
-                            <a class="image" href="../images/education/cert/cert_uml_exa.jpg" rel="external">
-                                <img src="../images/education/cert/thumbs/cert_uml_exa.jpg" alt="UML Certification"/>
-                            </a>
-                            -->
         </td>
       </tr>
       <tr>
@@ -292,12 +262,6 @@
               alt="Microsoft
               Certification" />
           </a>
-          <!--
-            <br/><br/>
-            <a class="image" href="../images/education/cert/cert_mcp_exa.jpg" rel="external">
-                <img src="../images/education/cert/thumbs/cert_mcp_exa.jpg" alt="Microsoft Certification"/>
-            </a>
-            -->
         </td>
       </tr>
     </table>

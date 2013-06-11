@@ -20,13 +20,18 @@
         <td>4 days</td>
         <td>
           <b>516 - Best Practices in Java Programming: Hands-On</b>
-          <p>.</p>
-          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+          <p>In this course, you learn how to solve real-world software development problems and
+            deliver fast, reliable applications. You learn how to take advantage of advanced
+            language features and APIs, perform concurrent programming with threads, produce high
+            quality code using design patterns, write maintainable code using Test Driven
+            Development, and secure and improve the performance of your applications.</p>
+          <p><a href="../doc/education/516-en.pdf">Course 516 overview</a>
+            <img class="icon" alt="Course 516 overview" src="../icons/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_best_java.jpg" rel="external">
-            <img src="../images/education/edu/thumbs/edu_best_java.jpg"
-              alt="Best Practices in Java" />
+            <img src="../images/education/edu/thumbs/edu_best_java.jpg" alt="Best Practices in Java"
+             />
           </a>
         </td>
       </tr>
@@ -36,8 +41,12 @@
         <td>5 days</td>
         <td>
           <b>446 - Preparing for the CompTIA Security+ Exam</b>
-          <p>.</p>
-          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+          <p>This comprehensive course prepares individuals to take and pass the CompTIA Security+
+            Certification Exam. Interactive demonstrations and numerous practice quizzes reinforce
+            the concepts and provide the framework for a personalized study plan for exam
+            success.</p>
+          <p><a href="../doc/education/446-en.pdf">Course 446 overview</a>
+            <img class="icon" alt="Course 446 overview" src="../icons/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_security.jpg" rel="external">
@@ -51,8 +60,8 @@
         <td>5 days</td>
         <td>
           <b>First Aid Advanced</b>
-          <p>.</p>
-          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+          <p>Advanced training given to OHIM personel responsible for evacuation in case of
+            emergency.</p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_first_aid2.jpg" rel="external">
@@ -66,8 +75,19 @@
         <td>5 days</td>
         <td>
           <b>Oracle Service Bus 10g R3: Administration and Development</b>
-          <p>.</p>
-          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+          <p>This training provides an in-depth analysis of Oracle Service Bus and how it can be
+            used to create a message infrastructure for services throughout the enterprise. Students
+            will learn how Oracle Service Bus fits into an SOA Architecture. They will also learn
+            how to use OSB as an integration point for services within the enterprise. Students will
+            learn how to connect, mediate, and manage interactions between heterogeneous services
+            and legacy applications across an enterprise-wide service network. </p>
+          <p><a href="../doc/education/OSB_administration_D56301GC10_38_F.pdf">OSB administration
+              overview</a>
+            <img class="icon" alt="OSB administration overview" src="../icons/acrobat.gif" /> - <a
+              href="../doc/education/OSB_design_D56299GC10_28_US.pdf">OSB design overview</a>
+            <img class="icon" alt="OSB design overview" src="../icons/acrobat.gif" /> - <a
+              href="../doc/education/OSB_security_D78651_28_US.pdf">OSB security overview</a>
+            <img class="icon" alt="OSB security overview" src="../icons/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_osb.jpg" rel="external">
@@ -81,8 +101,12 @@
         <td>4 days</td>
         <td>
           <b>294 - Influence Skills: Getting Results Without Direct Authority</b>
-          <p>.</p>
-          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+          <p>In this course, you learn how to apply influence strategies to gain commitment from
+            others and foster collaboration. You also learn how to dynamically adjust your approach
+            to others to gain buy-in, achieve goals by enhancing trust and cooperation, and deal
+            effectively with challenging behaviors to overcome resistance and inertia in others.</p>
+          <p><a href="../doc/education/294-en.pdf">Course 294 overview</a>
+            <img class="icon" alt="Course 294 overview" src="../icons/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_influencing.jpg" rel="external">
@@ -96,8 +120,12 @@
         <td>2 days</td>
         <td>
           <b>Terracotta’s JVM-level clustering technology</b>
-          <p>.</p>
-          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+          <p>This course highlights real-world use cases where Terracotta is employed to provide
+            better scaling and HA with semantic correctness, whilst providing low time-to-market and
+            in-depth visibility into the Java Cluster (http-sessions, distributed caches, clustering
+            POJOs, Spring singleton-beans/context).</p>
+          <p><a href="../doc/education/terracotta.pdf">Terracotta Overview</a>
+            <img class="icon" alt="Terracotta overview" src="../icons/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_terracotta.jpg" rel="external">
@@ -114,15 +142,12 @@
           <p>This course defines "service" and "architecture" and establishes a strong understanding
             of the concepts needed to have an effective working knowledge of SOA methodologies,
             modeling, design, SOA technologies, orchestration and architectural frameworks.</p>
-          <p><a href="../doc/education/edu/edu-soa.pdf">Course details</a></p>
+          <p><a href="../doc/education/424-en.pdf">Course 424 overview</a>
+            <img class="icon" alt="Course 424 overview" src="../icons/acrobat.gif" /></p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_soa.jpg" rel="external">
             <img src="../images/education/edu/thumbs/edu_soa.jpg"
-              alt="Service Oriented Architecture" />
-          </a>
-          <a class="image" href="../images/education/cert/cert_soa.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_soa.jpg"
               alt="Service Oriented Architecture" />
           </a>
         </td>
@@ -150,9 +175,9 @@
           <b>ISTQB® Certified Tester - Foundation</b>
           <p>The <a href="http://www.istqb.org/" rel="external">ISTQB</a> was founded as an
             International Software Testing Qualifications Board in Edinburgh in November 2002. The
-            qualifications are based on a <a href="../doc/education/edu/edu-istqb.pdf">syllabus</a>,
-            and there is a hierarchy of qualifications and guidelines for accreditation and
-            examination.</p>
+            qualifications are based on a <a href="../doc/education/istqb.pdf">syllabus</a>
+            <img class="icon" alt="ISTQB Syllabus" src="../icons/acrobat.gif" />, and there is a
+            hierarchy of qualifications and guidelines for accreditation and examination.</p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_istqb_tester.jpg" rel="external">
@@ -231,7 +256,7 @@
         <td>
           <b>Spring &amp; Hibernate</b>
           <p>As the leading full-stack Java/J2EE application framework, the <a
-              href="http://www.springframework.org/" rel="external">Spring Framework</a> delivers
+              href="http://www.springsource.org/" rel="external">Spring Framework</a> delivers
             significant benefits for many projects, reducing development effort and costs while
             improving test coverage and quality.</p>
           <p><a href="http://www.hibernate.org/" rel="external">Hibernate</a> is a powerful,
@@ -244,8 +269,8 @@
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_spring.jpg" rel="external">
-            <img style="border: 1px solid #eee;"
-              src="../images/education/edu/thumbs/edu_spring.jpg" alt="Spring Training" />
+            <img style="border: 1px solid #eee;" src="../images/education/edu/thumbs/edu_spring.jpg"
+              alt="Spring Training" />
           </a>
         </td>
       </tr>
@@ -255,26 +280,11 @@
         <td>1+ weeks</td>
         <td>
           <b>PMI Project Management</b>
-          <p>Nine knowledge areas with the following objectives:</p>
-          <ul>
-            <li>Project Integration Management</li>
-            <li>Project Scope Management</li>
-            <li>Project Time Management</li>
-            <li>Project Cost Management</li>
-            <li>Project Quality Management</li>
-            <li>Project Human Resource Management</li>
-            <li>Project Communication Management</li>
-            <li>Project Risk Management</li>
-            <li>Project Procurement Management</li>
-          </ul>
-          <p>Processes have been divided into five groups:</p>
-          <ul>
-            <li>Initiating processes</li>
-            <li>Planning processes</li>
-            <li>Executing processes</li>
-            <li>Monitoring and Controlling processes</li>
-            <li>Closing processes</li>
-          </ul>
+          <p>PMI’s Project Management Professional (PMP)® credential is the most important
+            industry-recognized certification for project managers. Globally recognized and
+            demanded, the PMP® demonstrates that you have the experience, education and competency
+            to lead and direct projects.</p>
+          <p>The course covers the Project Management Body of Knowledge, Third Edition.</p>
         </td>
         <td>
           <a class="image" href="../images/education/edu/edu_pmi.jpg" rel="external">
@@ -289,14 +299,14 @@
         <td>
           <b>BEA Weblogic 7 and 8.1</b>
           <p>Customized training session:</p>
-          <p><a href="../doc/cached/bea_wls_d11_70.html" rel="external">WLS-D11-70</a> Fundamentals of
-            J2EE Web Application Dev.</p>
+          <p><a href="../doc/cached/bea_wls_d11_70.html" rel="external">WLS-D11-70</a> Fundamentals
+            of J2EE Web Application Dev.</p>
           <p><a href="../doc/cached/bea_wls_d21_70.html" rel="external">WLS-D21-70</a> Dev. Business
             Logic Components with EJBs</p>
           <p><a href="../doc/cached/bea_wls_d29_70.html" rel="external">WLS-D29-70</a> Developing
             Enterprise Web Services</p>
-          <p><a href="../doc/cached/bea_wls_plat81.html" rel="external">PLAT-01-81</a> Introduction to
-            the BEA WebLogic Platform 8.1</p>
+          <p><a href="../doc/cached/bea_wls_plat81.html" rel="external">PLAT-01-81</a> Introduction
+            to the BEA WebLogic Platform 8.1</p>
         </td>
         <td>
           <a class="image" href="../images/education/cert/cert_bea.jpg" rel="external">

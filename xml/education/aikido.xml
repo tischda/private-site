@@ -26,21 +26,6 @@
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
       <tr>
-        <td>2006<br /><br />A.E.T. AIKI<br /><br />
-          <i>Zaragoza</i></td>
-        <td>
-          <b>Shodan</b> (1st dan) </td>
-        <td>
-          <a class="image" href="../images/education/dipl/dipl_shodan.jpg" rel="external">
-            <img src="../images/education/dipl/thumbs/dipl_shodan.jpg" alt="Shodan" />
-          </a> &nbsp; <a class="image" href="../images/education/dipl/dipl_shodan_aikikai.jpg"
-            rel="external">
-            <img src="../images/education/dipl/thumbs/dipl_shodan_aikikai.jpg" alt="Shodan Aikikai"
-             />
-          </a>
-        </td>
-      </tr>
-      <tr>
         <td>2009<br /><br />A.E.T. AIKI<br /><br />
           <i>Alicante</i></td>
         <td>
@@ -51,6 +36,21 @@
           </a> &nbsp; <a class="image" href="../images/education/dipl/dipl_nidan_aikikai.jpg"
             rel="external">
             <img src="../images/education/dipl/thumbs/dipl_nidan_aikikai.jpg" alt="Nidan Aikikai" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2006<br /><br />A.E.T. AIKI<br /><br />
+          <i>Zaragoza</i></td>
+        <td>
+          <b>Shodan</b> (1st dan) </td>
+        <td>
+          <a class="image" href="../images/education/dipl/dipl_shodan.jpg" rel="external">
+            <img src="../images/education/dipl/thumbs/dipl_shodan.jpg" alt="Shodan" />
+          </a> &nbsp; <a class="image" href="../images/education/dipl/dipl_shodan_aikikai.jpg"
+            rel="external">
+            <img src="../images/education/dipl/thumbs/dipl_shodan_aikikai.jpg" alt="Shodan Aikikai"
+            />
           </a>
         </td>
       </tr>
