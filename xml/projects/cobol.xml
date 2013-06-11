@@ -11,10 +11,10 @@
     <p>Download here (in French):</p>
     <ul>
       <li><a href="COBOL-Reference-1994.pdf">COBOL Reference (1994)</a>
-        <img class="icon" alt="COBOL Manual 1994" src="../images/icons/acrobat.gif" />
+        <img class="icon" alt="COBOL Manual 1994" src="../icons/acrobat.gif" />
       </li>
       <li><a href="COBOL-Reference-1994.pdf">COBOL Reference (1993)</a>
-        <img class="icon" alt="COBOL Manual 1993" src="../images/icons/acrobat.gif" />
+        <img class="icon" alt="COBOL Manual 1993" src="../icons/acrobat.gif" />
       </li>
     </ul>
   </nox:section>

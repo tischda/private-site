@@ -103,37 +103,37 @@ a:hover {
 */
 a[href ^="http://"],
 a[href ^="gopher://"] {
-    background: url(../images/icons/external.png) center right no-repeat;
+    background: url(../icons/external.png) center right no-repeat;
     padding-right: 13px;
     border-bottom: 1px solid #6699CC;
 }
 
 a[href ^="https://"],
 .link-https {
-    background: url("../images/icons/lock.gif") center right no-repeat;
+    background: url("../icons/lock.gif") center right no-repeat;
     padding-right: 16px;
 }
 
 a[href ^="mailto:"],
 .link-mailto {
-    background: url("../images/icons/mail.gif") center right no-repeat;
+    background: url("../icons/mail.gif") center right no-repeat;
     padding-right: 18px;
 }
 
 a[href ^="news://"] {
-    background: url("../images/icons/news.png") center right no-repeat;
+    background: url("../icons/news.png") center right no-repeat;
     padding-right: 18px;
 }
 
 a[href ^="ftp://"],
 .link-ftp {
-    background: url("../images/icons/file16x16.gif") center right no-repeat;
+    background: url("../icons/file16x16.gif") center right no-repeat;
     padding-right: 18px;
 }
 
 a[href ^="irc://"],
 .link-irc {
-    background: url("../images/icons/discussion.gif")  center right no-repeat;
+    background: url("../icons/discussion.gif")  center right no-repeat;
     padding-right: 18px;
 }
 
