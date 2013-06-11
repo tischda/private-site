@@ -1,9 +1,6 @@
-# exclude from robots
 User-agent: *
-Disallow: /admin/
-Disallow: /download/
+Disallow: /css/
+Disallow: /doc/
 Disallow: /icons/
 Disallow: /images/
-Disallow: /scripts/
-Disallow: /secret/
-Disallow: /styles/
+Disallow: /js/
