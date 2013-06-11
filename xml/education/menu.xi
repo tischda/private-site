@@ -3,11 +3,11 @@
 <menu>
   <menugroup name="Education">
     <menuitem
-      name="Certification"
+      name="Training"
       ref="index.html" />
     <menuitem
-      name="Training"
-      ref="training.html" />
+      name="Certification"
+      ref="certification.html" />
     <menuitem
       name="Diploma"
       ref="diploma.html" />

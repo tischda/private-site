@@ -1,304 +1,378 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
-<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Education : Certification">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Education : Training">
   <nox:section>
-    <h1>Certification</h1>
-    <p>Here the list of my certifications:</p>
-    <table class="preformat" summary="Certification">
+    <h1>Training</h1>
+    <p>Here the list of professional trainings I attended:</p>
+    <table class="preformat" summary="Training">
       <tr>
         <th>Date</th>
+        <th>Duration</th>
         <th>Description</th>
-        <th  style="width: 210px">Diploma</th>
+        <th>View</th>
       </tr>
       <tr>
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
       <tr>
-        <td>2013<br /><br />CompTIA<br /><br />
-          <i>Valencia</i></td>
+        <td>2012<br /><br />Learning Tree<br /><br />
+          <i>London</i></td>
+        <td>4 days</td>
         <td>
-          <b>CompTIA Security+</b>
-          <p>The CompTIA Security+ exam will certify that the successful candidate has the knowledge
-            and skills required to identify risk and participate in risk mitigation activities,
-            provide infrastructure, application, operational and information security, apply
-            security controls to maintain confidentiality, integrity and availability, identify
-            appropriate technologies and products, and operate with an awareness of applicable
-            policies, laws and regulations.</p>
+          <b>516 - Best Practices in Java Programming: Hands-On</b>
+          <p>.</p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/education/cert/cert_security.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_security.jpg" alt="Security" />
+          <a class="image" href="../images/education/edu/edu_best_java.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_best_java.jpg"
+              alt="Best Practices in Java" />
           </a>
         </td>
       </tr>
       <tr>
-        <td>2009<br /><br />Linguarama<br /><br />
-          <i>Alicante</i></td>
+        <td>2012<br /><br />Learning Tree<br /><br />
+          <i>London</i></td>
+        <td>5 days</td>
         <td>
-          <b>English C2 Language Competence Certificate</b>
-          <p>The C2 level (mastery or proficiency) is the highest level in the Common European
-            Framework classification:</p>
-          <p>
-            <a class="image" href="../images/education/edu/edu_eu_languages.png" rel="external">
-              <img src="../images/education/edu/thumbs/edu_eu_languages.png" alt="EU Language Framework" />
-            </a>
-          </p>
+          <b>446 - Preparing for the CompTIA Security+ Exam</b>
+          <p>.</p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
         </td>
         <td>
-          <a class="image" href="../images/education/cert/cert_english_c2.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_english_c2.jpg" alt="English C2" />
+          <a class="image" href="../images/education/edu/edu_security.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_security.jpg" alt="First Aid Advanced" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2012<br /><br />Cruz Roja<br /><br />
+          <i>Alicante</i></td>
+        <td>5 days</td>
+        <td>
+          <b>First Aid Advanced</b>
+          <p>.</p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+        </td>
+        <td>
+          <a class="image" href="../images/education/edu/edu_first_aid2.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_first_aid2.jpg" alt="CompTIA Security+" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2010<br /><br />Oracle University<br /><br />
+          <i>Alicante</i></td>
+        <td>5 days</td>
+        <td>
+          <b>Oracle Service Bus 10g R3: Administration and Development</b>
+          <p>.</p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+        </td>
+        <td>
+          <a class="image" href="../images/education/edu/edu_osb.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_osb.jpg" alt="Oracle Service Bus" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2010<br /><br />Learning Tree<br /><br />
+          <i>London</i></td>
+        <td>4 days</td>
+        <td>
+          <b>294 - Influence Skills: Getting Results Without Direct Authority</b>
+          <p>.</p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+        </td>
+        <td>
+          <a class="image" href="../images/education/edu/edu_influencing.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_influencing.jpg" alt="Influence Skills" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2009<br /><br />Skillsmatter<br /><br />
+          <i>London</i></td>
+        <td>2 days</td>
+        <td>
+          <b>Terracotta’s JVM-level clustering technology</b>
+          <p>.</p>
+          <p><a href="../doc/cached/course.pdf">Course details</a></p>
+        </td>
+        <td>
+          <a class="image" href="../images/education/edu/edu_terracotta.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_terracotta.jpg" alt="Terracotta" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2008<br /><br />Learning Tree<br /><br />
+          <i>London</i></td>
+        <td>3 days</td>
+        <td>
+          <b>424 - Service Oriented Architecture (SOA)</b>
+          <p>This course defines "service" and "architecture" and establishes a strong understanding
+            of the concepts needed to have an effective working knowledge of SOA methodologies,
+            modeling, design, SOA technologies, orchestration and architectural frameworks.</p>
+          <p><a href="../doc/education/edu/edu-soa.pdf">Course details</a></p>
+        </td>
+        <td>
+          <a class="image" href="../images/education/edu/edu_soa.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_soa.jpg"
+              alt="Service Oriented Architecture" />
+          </a>
+          <a class="image" href="../images/education/cert/cert_soa.jpg" rel="external">
+            <img src="../images/education/cert/thumbs/cert_soa.jpg"
+              alt="Service Oriented Architecture" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2008<br /><br />Cruz Roja<br /><br />
+          <i>Alicante</i></td>
+        <td>3 days</td>
+        <td>
+          <b>First Aid Training</b>
+          <p>This training was given at OHIM to personel responsible for evacuation in case of
+            emergency (I took on this responsibility in 2007).</p>
+        </td>
+        <td>
+          <a class="image" href="../images/education/edu/edu_first_aid.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_first_aid.jpg" alt="First Aid" />
           </a>
         </td>
       </tr>
       <tr>
         <td>2007<br /><br />Bogdan Bereza-Jarociński<br /><br />
           <i>Alicante</i></td>
+        <td>2 days</td>
         <td>
           <b>ISTQB® Certified Tester - Foundation</b>
           <p>The <a href="http://www.istqb.org/" rel="external">ISTQB</a> was founded as an
             International Software Testing Qualifications Board in Edinburgh in November 2002. The
-            qualifications are based on a <a href="../doc/cached/SyllabusFoundation.pdf">syllabus</a>,
+            qualifications are based on a <a href="../doc/education/edu/edu-istqb.pdf">syllabus</a>,
             and there is a hierarchy of qualifications and guidelines for accreditation and
             examination.</p>
-          <p>The exam for the Foundation Level has more theoretical nature and requests for
-            knowledge about the software development area - especially in the field of testing.</p>
         </td>
         <td>
-          <a class="image" href="../images/education/cert/cert_istqb_tester.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_istqb_tester.jpg"
+          <a class="image" href="../images/education/edu/edu_istqb_tester.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_istqb_tester.jpg"
               alt="ISTQB Certified Tester" />
           </a>
         </td>
       </tr>
       <tr>
-        <td>2007<br /><br />QRP<br /><br />
+        <td>2007<br /><br />OHIM <br />(QRP)<br /><br />
           <i>Alicante</i></td>
+        <td>5 days</td>
         <td>
-          <b>PRINCE2 - Foundation &amp; Practitioner</b>
+          <b>PRINCE2 Foundation &amp; Practitioner</b>
           <p> PRINCE®, which stands for <b>Pr</b>ojects <b>in</b>
             <b>C</b>ontrolled <b>E</b>nvironments, is a project management method covering the
-            organisation, management and control of projects. <a
-              href="http://www.prince-officialsite.com/" rel="external">PRINCE</a> was first
-            developed by the Central Computer and Telecommunications Agency (CCTA), now part of the
-            Office of Government Commerce (OGC), in 1989 as a UK Government standard for IT project
+            organisation, management and control of projects. PRINCE® was first developed by the
+            Central Computer and Telecommunications Agency (CCTA), now part of the Office of
+            Government Commerce (OGC), in 1989 as a UK Government standard for IT project
             management.</p>
-          <p><a
-            href="http://www.apmg-international.com/SCRQuery.aspx?exam=p2" rel="external">Search Successful Candidate Registers</a>
-            - Candidate # P2/NLPB048795 and P2/NLPB049603</p>
         </td>
-        <td>
-          <a class="image" href="../images/education/cert/cert_prince2_foundation.jpg"
-            rel="external">
-            <img src="../images/education/cert/thumbs/cert_prince2_foundation.jpg"
-              alt="PRINCE2 Certification" />
-          </a>
-          <a class="image" href="../images/education/cert/cert_prince2_practitioner.jpg"
-            rel="external">
-            <img src="../images/education/cert/thumbs/cert_prince2_practitioner.jpg"
-              alt="PRINCE2 Certification" />
-          </a>
-        </td>
+        <td> Internal Training </td>
       </tr>
       <tr>
-        <td>2006<br /><br />EXIN<br /><br />
+        <td>2006<br /><br />OHIM<br /> (EPO-team)<br /><br />
           <i>Alicante</i></td>
+        <td>2 days</td>
         <td>
-          <b>ITIL - Foundation</b>
-          <p>The Information Technology Infrastructure Library (<a
-            href="http://www.itil-officialsite.com/" rel="external">ITIL</a>) is an
-            integrated set of best-practice recommendations.</p>
+          <b>Business Process Modelling (BPMN)</b>
+          <p>A standard <a href="http://www.bpmn.org/" rel="external">Business Process Modeling
+              Notation</a> (BPMN) will provide businesses with the capability of understanding their
+            internal business procedures in a graphical notation and will give organizations the
+            ability to communicate these procedures in a standard manner.</p>
+        </td>
+        <td>Internal Training</td>
+      </tr>
+      <tr>
+        <td>2006<br /><br />OHIM<br /> (Exagon)<br /><br />
+          <i>Alicante</i></td>
+        <td>2 days</td>
+        <td>
+          <b>ITIL Foundation</b>
+          <p>The Information Technology Infrastructure Library (ITIL) is an integrated set of
+            best-practice recommendations.</p>
           <p>This framework essentially defines how to organize the system and network management
-            departments within individual organizations. The concepts support IT service providers
-            in the planning of consistent, documented, and repeatable processes that improve service
-            delivery to the business. </p>
-          <p>ITIL addresses the organizational structure and skill requirements for an IT
-            organization by presenting a comprehensive set of management procedures with which an
-            organization can manage its IT operations.</p>
+            departments within individual organizations.</p>
         </td>
         <td>
-          <a class="image" href="../images/education/cert/cert_itil.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_itil.jpg" alt="ITIL Certification" />
+          <a class="image" href="../images/education/edu/edu_itil.jpg" rel="external">
+            <img style="border: 1px solid #eee;" src="../images/education/edu/thumbs/edu_itil.jpg"
+              alt="ITIL Training" />
           </a>
         </td>
       </tr>
       <tr>
-        <td>2005<br /><br />Institute of<br />North American<br />Studies<br /><br />
-          <i>Barcelona</i></td>
-        <td>
-          <b>Project Management Professional (PMP)</b>
-          <p>Established in 1969, the <a href="http://www.pmi.org/" rel="external">Project
-              Management Institute (PMI)</a> represents the world's largest professional community
-            engaged in the promotion, maintenance, and advancement of project management practices
-            worldwide. PMI is actively involved in the pursuit of Education and Knowledge
-            Acquisition, Professional Development and Networking, Career Advancement and
-            Professional Standards, Products and Services in the field of project management.</p>
-          <p>PMI's Project Management Professional (PMP ®) Certification is the topmost professional
-            credential for project management professionals. PMI became the world's first
-            organization to achieve International Organization for Standardization (ISO) 9001
-            recognition for its Certification Program in 1999.</p>
-          <p>With over 75,000 PMPs operating in nearly 120 countries, more and more organizations
-            are recognizing the PMP certification as the industry standard for excellence in project
-            management.</p>
-        </td>
-        <td>
-          <a class="image" href="../images/education/cert/cert_pmi.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_pmi.jpg" alt="PMI Certification" />
-          </a>
-          <br />
-          <br />
-          <a class="image" href="../images/education/cert/cert_pmi_memb.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_pmi_memb.jpg" alt="PMI Membership" />
-          </a>
-          <!--
-            <br/><br/>
-            <a class="image" href="../images/education/cert/cert_pmi_exa1.jpg" rel="external">
-                <img src="../images/education/cert/thumbs/cert_pmi_exa1.jpg" alt="PMI Certification"/>
-            </a>
-            <br/><br/>
-            <a class="image" href="../images/education/cert/cert_pmi_exa2.jpg" rel="external">
-                <img src="../images/education/cert/thumbs/cert_pmi_exa2.jpg" alt="PMI Certification"/>
-            </a>
-            -->
-        </td>
-      </tr>
-      <tr>
-        <td>2005<br /><br />INTE S.L.<br /><br />
+        <td>2006<br /><br />Adecco<br /><br />
           <i>Alicante</i></td>
+        <td>2 days</td>
         <td>
-          <b>Sun Certified Web Component Developer for the Java 2 Platform, Enterprise Edition
-            1.4</b>
-          <p>Launched in August 2001 by <a href="http://www.sun.com/" rel="external">Sun
-              Microsystems</a>, the Sun Certified Web Component Developer (SCWCD) Certification Exam
-            has become one of the most popular certification in the J2EE domain.</p>
-          <p>This certification tests the knowledge of web components used to develop J2EE
-            applications. This certification is not specific to any J2EE application server
-            vendor.</p>
-          <p>The content of SCWCD 1.4 exam covers new technologies such as Expression Language,
-            JSTL, the new tag methodologies (Tag files and SimpleTag). Besides this it also revamps
-            the existing objectives according to the JSP 2.0 and Servlets 2.4 specifications.</p>
+          <b>Health And Safety Training</b>
+          <p>Through effective occupational health and safety (OHS) management, a business can
+            safeguard and enhance its greatest assets, its people.</p>
+          <p>This training meets legislative, regulatory and other workplace health and safety
+            requirements (in Spain). </p>
         </td>
         <td>
-          <a class="image" href="../images/education/cert/cert_scwcd.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_scwcd.jpg" alt="SCWCD Certification" />
+          <a class="image" href="../images/education/edu/edu_riesgos.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_riesgos.jpg" alt="Riesgos Laborales" />
           </a>
-          <!--
-            <br/><br/>
-            <a class="image" href="../images/education/cert/cert_scwcd_exa.jpg"
-                rel="external">
-                <img src="../images/education/cert/thumbs/cert_scwcd_exa.jpg" alt="SCWCD Certification"/>
-            </a>
-            -->
         </td>
       </tr>
       <tr>
-        <td>2004<br /><br />Computacenter<br /><br />
+        <td>2005<br /><br />infeurope S.A.<br /> (Jürgen Höller)<br /><br />
           <i>Luxembourg</i></td>
+        <td>1 week</td>
         <td>
-          <b>Sun Java Certified Programmer (SCJP 1.4)</b>
-          <p>Since its inception in 1995, Java technology has grown in popularity and usage because
-            of its true portability, and so has the esteemed Sun Java Certification.</p>
-          <p><a href="http://www.sun.com/" rel="external">Sun Microsystems</a> has a range of
-            certifications starting from the entry-level Sun Certified Java Programmer (SCJP) to
-            high-level certifications such as Sun Certified Enterprise Architect (SCEA).</p>
-          <p>The Sun Certified Developer for Java 2 Platform is for developers experienced in Java
-            programming language. This certification validates a developer's understanding and
-            familiarity with the basic syntax and structure of the Java programming language. It
-            also proves a developer's ability to create Java technology applications that run on
-            server and desktop systems using Java 2 Platform Standard Edition.</p>
+          <b>Spring &amp; Hibernate</b>
+          <p>As the leading full-stack Java/J2EE application framework, the <a
+              href="http://www.springframework.org/" rel="external">Spring Framework</a> delivers
+            significant benefits for many projects, reducing development effort and costs while
+            improving test coverage and quality.</p>
+          <p><a href="http://www.hibernate.org/" rel="external">Hibernate</a> is a powerful,
+            ultra-high performance object/relational persistence and query service for Java.
+            Hibernate lets you develop persistent classes following common Java idiom including
+            association, inheritance, polymorphism, composition, and the Java collections
+            framework.</p>
+          <p>Contents: J2EE Review, Spring Framework, Hibernate, EJB3, Servlet/JSP Review, Struts,
+            Spring WebMVC</p>
         </td>
         <td>
-          <a class="image" href="../images/education/cert/cert_java.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_java.jpg" alt="Java Certification" />
+          <a class="image" href="../images/education/edu/edu_spring.jpg" rel="external">
+            <img style="border: 1px solid #eee;"
+              src="../images/education/edu/thumbs/edu_spring.jpg" alt="Spring Training" />
           </a>
-          <!--
-                <br/><br/>
-                <a class="image" href="../images/education/cert/cert_java_exa.jpg"
-                    rel="external">
-                    <img src="../images/education/cert/thumbs/cert_java_exa.jpg" alt="Java Certification"/>
-                </a>
-                -->
         </td>
       </tr>
       <tr>
-        <td>2004<br /><br />Computacenter<br /><br />
-          <i>Luxembourg</i></td>
+        <td>2005<br /><br />OHIM<br />(IIL Training)<br /><br />
+          <i>Alicante</i></td>
+        <td>1+ weeks</td>
         <td>
-          <b>OMG UML 2.0 Professional (OCUP)</b>
-          <p>The <a href="http://www.omg.org/" rel="external">Object Management Group</a> is an open
-            membership, not-for-profit consortium that produces and maintains computer industry
-            specifications for interoperable enterprise applications. OMG membership includes
-            virtually every large company in the computer industry, and hundreds of smaller ones.
-            Most of the companies that shape enterprise and Internet computing today are represented
-            on the Board of Directors.</p>
-          <p>OMG created OCUP to provide a certification, an objective indication, of your knowledge
-            of UML ®, OMG's Unified Modeling Language<sup>TM</sup>.</p>
-          <p>This will benefit you by giving you an important credential to present to employers and
-            clients. It also benefits companies looking for skilled UML practitioners, by giving
-            them a basis for making hiring and promotion decisions.</p>
+          <b>PMI Project Management</b>
+          <p>Nine knowledge areas with the following objectives:</p>
+          <ul>
+            <li>Project Integration Management</li>
+            <li>Project Scope Management</li>
+            <li>Project Time Management</li>
+            <li>Project Cost Management</li>
+            <li>Project Quality Management</li>
+            <li>Project Human Resource Management</li>
+            <li>Project Communication Management</li>
+            <li>Project Risk Management</li>
+            <li>Project Procurement Management</li>
+          </ul>
+          <p>Processes have been divided into five groups:</p>
+          <ul>
+            <li>Initiating processes</li>
+            <li>Planning processes</li>
+            <li>Executing processes</li>
+            <li>Monitoring and Controlling processes</li>
+            <li>Closing processes</li>
+          </ul>
         </td>
         <td>
-          <a class="image" href="../images/education/cert/cert_uml.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_uml.jpg" alt="UML Certification" />
+          <a class="image" href="../images/education/edu/edu_pmi.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_pmi.jpg" alt="PMI Training" />
           </a>
-          <!--
-                            <br/><br/>
-                            <a class="image" href="../images/education/cert/cert_uml_exa.jpg" rel="external">
-                                <img src="../images/education/cert/thumbs/cert_uml_exa.jpg" alt="UML Certification"/>
-                            </a>
-                            -->
         </td>
       </tr>
       <tr>
-        <td>2004<br /><br />On Site<br /><br />
+        <td>2003<br /><br />infeurope S.A.<br /> (BEA Training)<br /><br />
           <i>Luxembourg</i></td>
+        <td>3 weeks</td>
         <td>
-          <b>BEA Weblogic 7 Product Specialist</b>
-          <p><a href="http://www.bea.com/education/" rel="external">BEA Education Services</a>
-            offers a number of certification paths focused on BEA product technology, as well as
-            BEA's approach to Service-Oriented Architecture (SOA). The BEA Certification Program
-            provides valuable, measurable rewards to IT professionals, their managers, and the BEA
-            technology-based organizations that employ them.</p>
-          <p>This certification is for developers who can build custom solutions using the BEA
-            WebLogic Platform to implement scalable Web applications that interact with databases,
-            legacy systems and packaged applications.</p>
-          <p>Solution developers are expected to have sophisticated knowledge of application servers
-            with J2EE programming, object-relational concepts, application infrastructure clustering
-            and deployment, Web design theories including MVC, creating and consuming reusable
-            logic, and designing and implementing complex Web interfaces.</p>
+          <b>BEA Weblogic 7 and 8.1</b>
+          <p>Customized training session:</p>
+          <p><a href="../doc/cached/bea_wls_d11_70.html" rel="external">WLS-D11-70</a> Fundamentals of
+            J2EE Web Application Dev.</p>
+          <p><a href="../doc/cached/bea_wls_d21_70.html" rel="external">WLS-D21-70</a> Dev. Business
+            Logic Components with EJBs</p>
+          <p><a href="../doc/cached/bea_wls_d29_70.html" rel="external">WLS-D29-70</a> Developing
+            Enterprise Web Services</p>
+          <p><a href="../doc/cached/bea_wls_plat81.html" rel="external">PLAT-01-81</a> Introduction to
+            the BEA WebLogic Platform 8.1</p>
         </td>
         <td>
           <a class="image" href="../images/education/cert/cert_bea.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_bea.jpg" alt="BEA Certification" />
+            <img src="../images/education/cert/thumbs/cert_bea.jpg" alt="BEA Training" />
           </a>
         </td>
       </tr>
       <tr>
-        <td>1996<br /><br />Expertease<br /><br />
-          <i>Strasbourg</i></td>
+        <td>2002<br /><br />Infopark Academy<br /><br />
+          <i>Luxembourg</i></td>
+        <td>3 days</td>
         <td>
-          <b>Microsoft Certified Professional (MCP)</b>
-          <p><a href="http://www.microsoft.com/" rel="external">Microsoft</a> certifications
-            represent a rich and varied spectrum of job roles and responsibilities. Embraced by
-            industry professionals worldwide, Microsoft certification provides objective validation
-            of the ability to successfully perform critical IT functions.</p>
-          <p>This certification exam measures the ability to implement, administer, and troubleshoot
-            information systems with Microsoft Windows NT Server 3.51.</p>
-          <p>The exam goes beyond testing knowledge, it requires a comprehensive understanding of
-            Microsoft Windows NT Server concepts and procedures.</p>
+          <b>NPS Training</b>
+          <p>Infopark NPS combines targeted information editing with the perfect integration of
+            portal- and CMS functions.</p>
+          <p><i>Editor's Training</i> - Insert and maintain contents in Infopark NPS. Accomplish an
+            editor's daily tasks.</p>
+          <p><i>Administrator's Training</i> Advanced Infopark NPS usage to provide the knowledge
+            required for handling NPS administrative issues.</p>
+          <p><i>Webmaster training</i> - Individual design and unification of design elements with
+            templates. Usage of Infopark NPS tools for automation.</p>
         </td>
         <td>
-          <a class="image" href="../images/education/cert/cert_mcp.jpg" rel="external">
-            <img src="../images/education/cert/thumbs/cert_mcp.jpg"
-              alt="Microsoft
-              Certification" />
+          <a class="image" href="../images/education/edu/edu_nps.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_nps.jpg" alt="NPS Training" />
           </a>
-          <!--
-            <br/><br/>
-            <a class="image" href="../images/education/cert/cert_mcp_exa.jpg" rel="external">
-                <img src="../images/education/cert/thumbs/cert_mcp_exa.jpg" alt="Microsoft Certification"/>
-            </a>
-            -->
         </td>
+      </tr>
+      <tr>
+        <td>2000<br /><br />Sun Microsystems<br /><br />
+          <i>Luxembourg</i></td>
+        <td>1 week</td>
+        <td>
+          <b>Oracle 8 - Database Administration</b>
+          <p>This course provides the necessary knowledge and skills to become a successful Oracle
+            Database Administrator. Participants learn the basic administrative tasks and tools
+            needed to set up, maintain, and troubleshoot an Oracle database.</p>
+          <p>Topics include installation and configuration, creation and management of a database,
+            importing and exporting data, and security.</p>
+        </td>
+        <td>
+          <a class="image" href="../images/education/edu/edu_oracle.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_oracle.jpg" alt="Oracle         Training"
+             />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>1998<br /><br />Sun Belgium<br /><br />
+          <i>Brussels</i></td>
+        <td>1 week</td>
+        <td>
+          <b>Sun Java-Programming (SL-275)</b>
+          <p> The Java<sup>TM</sup> Programming Language course provides students with information
+            about the syntax of the Java programming language, object-oriented programming with the
+            Java programming language, creating graphical user interfaces (GUIs), exceptions, file
+            input/output (I/O), and threads and networking.</p>
+          <p>Programmers familiar with object-oriented concepts can learn how to develop Java
+            technology applications. The course uses the Java 2 Software Development Kit. </p>
+        </td>
+        <td>
+          <a class="image" href="../images/education/edu/edu_java.jpg" rel="external">
+            <img src="../images/education/edu/thumbs/edu_java.jpg" alt="Java Training" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>1995<br /><br />Navision Software<br /><br />
+          <i>Vedbaek</i></td>
+        <td>1 week</td>
+        <td>
+          <b>Navision Financials 1.0</b>
+          <p> Technical training about Navision Financial's internals, the proprietary 4GL
+            development tools and best practices to use them efficiently. </p>
+        </td>
+        <td>Internal Training</td>
       </tr>
     </table>
   </nox:section>
