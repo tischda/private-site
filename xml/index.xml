@@ -39,10 +39,10 @@
         <td> English CV</td>
         <td>
           <a class="image" href="doc/cv-daniel-tischer-en-v2.2.1.doc" shape="rect">
-            <img alt="English CV" src="icons/word.gif" />
+            <img alt="English CV" src="/icons/word.gif" />
           </a>
           <a class="image" href="doc/cv-daniel-tischer-en-v2.2.1.pdf" shape="rect">
-            <img alt="English CV" src="icons/acrobat.gif" />
+            <img alt="English CV" src="/icons/acrobat.gif" />
           </a>
         </td>
         <td> 26/02/2013 </td>
