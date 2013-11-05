@@ -14,6 +14,25 @@
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
       <tr>
+        <td>2013<br /><br />ETS<br /><br />
+          <i>Tours</i></td>
+        <td>
+          <b>TOEIC - Test of English for International Communication</b>
+          <p>For more than 30 years, the TOEIC® Listening and Reading test has set the standard for
+            assessing English-language listening and reading skills needed in the workplace. </p><ul>
+            <li>Listening skills are important for face-to-face communication, meetings,
+              videoconferencing, podcasts and telephone conversations.</li>
+            <li>Reading skills are necessary for email, reports, newsletters and other forms of
+              business correspondence.</li>
+          </ul>
+        </td>
+        <td>
+          <a class="image" href="../img/education/cert/cert_toeic.jpg" rel="external">
+            <img src="../img/education/cert/thumbs/cert_toeic.jpg" alt="Security" />
+          </a>
+        </td>
+      </tr>
+      <tr>
         <td>2013<br /><br />CompTIA<br /><br />
           <i>Valencia</i></td>
         <td>
@@ -59,8 +78,8 @@
           <p>The <a href="http://www.istqb.org/" rel="external">ISTQB</a> was founded as an
             International Software Testing Qualifications Board in Edinburgh in November 2002. The
             qualifications are based on a <a href="../doc/education/istqb.pdf">syllabus</a>
-            <img class="icon" alt="ISTQB Syllabus" src="../ico/acrobat.gif" />, and there is
-            a hierarchy of qualifications and guidelines for accreditation and examination.</p>
+            <img class="icon" alt="ISTQB Syllabus" src="../ico/acrobat.gif" />, and there is a
+            hierarchy of qualifications and guidelines for accreditation and examination.</p>
           <p>The exam for the Foundation Level has more theoretical nature and requests for
             knowledge about the software development area - especially in the field of testing.</p>
         </td>
@@ -87,13 +106,11 @@
               Successful Candidate Registers</a> - Candidate # P2/NLPB048795 and P2/NLPB049603</p>
         </td>
         <td>
-          <a class="image" href="../img/education/cert/cert_prince2_foundation.jpg"
-            rel="external">
+          <a class="image" href="../img/education/cert/cert_prince2_foundation.jpg" rel="external">
             <img src="../img/education/cert/thumbs/cert_prince2_foundation.jpg"
               alt="PRINCE2 Certification" />
           </a>
-          <a class="image" href="../img/education/cert/cert_prince2_practitioner.jpg"
-            rel="external">
+          <a class="image" href="../img/education/cert/cert_prince2_practitioner.jpg" rel="external">
             <img src="../img/education/cert/thumbs/cert_prince2_practitioner.jpg"
               alt="PRINCE2 Certification" />
           </a>
