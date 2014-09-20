@@ -13,17 +13,16 @@
     </rdf:Description>
   </rdf:RDF>
   <nox:menublock>
-    <p>2, allée de la Tour<br /> 37300 Joué-lès-Tours<br /> FRANCE<br /><br />+33 6 77 55 24 48</p>
-    <p>daniel.tischer@yahoo.es</p>
+    <p>5 bis, rue Georges Méliès<br /> 37520 La Riche<br /> FRANCE<br /><br />+33 6 77 55 24 48</p>
+    <p>daniel.tischer@gmail.com</p>
     <p><br /></p>
-    <p>Available: August 2014</p>
+    <p>Available: Immediately, area of Tours (France)</p>
   </nox:menublock>
 
   <nox:section>
     <h1>Daniel TISCHER</h1>
-    <p>Experienced Software Architect specialised in automated deployment of JEE solutions, DevOps
+    <p>Experienced Software Engineer specialised in automated deployment of JEE solutions, DevOps
       and Project Leadership (PMI and Prince2 certified).</p>
-    <p>Here is my contact information and CV:</p>
     <table class="preformat" style="width: 500px" summary="Curriculum Vitae">
       <tr>
         <th>File</th>
@@ -33,47 +32,19 @@
       </tr>
       <tr>
         <td>
-          <a href="doc/cv-daniel-tischer-en-v2.2.1.doc" shape="rect"
-            >cv-daniel-tischer-en-v2.2.1.doc</a>
-        </td>
-        <td> English CV</td>
-        <td>
-          <a class="image" href="doc/cv-daniel-tischer-en-v2.2.1.doc" shape="rect">
-            <img alt="English CV" src="ico/word.gif" />
-          </a>
-          <a class="image" href="doc/cv-daniel-tischer-en-v2.2.1.pdf" shape="rect">
-            <img alt="English CV" src="ico/acrobat.gif" />
-          </a>
-        </td>
-        <td> 26/02/2013 </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="doc/cv-daniel-tischer-fr-v2.5.doc" shape="rect"
-            >cv-daniel-tischer-fr-v2.5.doc</a>
+          <a href="doc/cv-daniel-tischer-fr-v2.5.1.doc" shape="rect"
+            >cv-daniel-tischer-fr-v2.5.1.doc</a>
         </td>
         <td> French CV </td>
         <td>
-          <a class="image" href="doc/cv-daniel-tischer-fr-v2.5.doc" shape="rect">
+          <a class="image" href="doc/cv-daniel-tischer-fr-v2.5.1.doc" shape="rect">
             <img alt="French CV" src="ico/word.gif" />
           </a>
-          <a class="image" href="doc/cv-daniel-tischer-fr-v2.5.pdf" shape="rect">
+          <a class="image" href="doc/cv-daniel-tischer-fr-v2.5.1.pdf" shape="rect">
             <img alt="French CV" src="ico/acrobat.gif" />
           </a>
         </td>
-        <td> 05/11/2013 </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="doc/daniel-tischer.vcf" shape="rect">daniel-tischer.vcf</a>
-        </td>
-        <td> vCard </td>
-        <td>
-          <a class="image" href="doc/daniel-tischer.vcf" shape="rect">
-            <img alt="vCard" height="24" src="ico/vcard.png" width="24" />
-          </a>
-        </td>
-        <td> 05/11/2013 </td>
+        <td> 17/09/2014 </td>
       </tr>
       <tr>
         <td>
