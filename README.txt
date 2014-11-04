@@ -17,7 +17,7 @@ Generates a static web site from XML via XSLT transformation.
 
 Sources
 -------
-git clone git://github.com/tischda/properties-maven-plugin.git
+git clone git://github.com/tischda/private-site.git
 
 
 Quickstart
@@ -28,8 +28,15 @@ bin\dist-local.cmd  --> generates the site for local browsing (file system)
 
 Examples:
 
-  bin\dist.cmd -f     --> force re-generation
+  bin\dist.cmd -f   --> force re-generation
   bin\dist.cmd -p prefix http://somesite/url/prefix     --> change prefix
+
+
+Web Server
+----------
+bin\start.cmd       --> starts nginx web server (check http://localhost/)
+bin\stop.cmd        --> stops nginx
+bin\reload.cmd      --> reloads nginx.conf
 
 
 Documentation

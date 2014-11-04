@@ -13,13 +13,5 @@
       name="Education"
       dir="education"
       ref="index.html" />
-    <menuitem
-      name="Personal Projects"
-      dir="projects"
-      ref="index.html" />
-    <menuitem
-      name="About"
-      dir="about"
-      ref="index.html" />
   </menugroup>
 </menu>

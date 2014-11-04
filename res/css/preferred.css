@@ -101,7 +101,7 @@ body {
 
 #topnav a.nav, #topnav a.nav:visited {
     float: left ;
-    width: 19% ;
+    width: 235px ;
     display: block ;
     text-align: center ;
     border-right: 1px solid #aaa ;
@@ -148,7 +148,7 @@ body {
 #content {
     background-color : white ;
     border: 1px solid #ddd ;
-    min-height: 450px ;
+    min-height: 480px ;
     height: 450px ;
 }
 
@@ -160,7 +160,7 @@ body>div#content {
 }
 
 #content div.section {
-    margin: 20px 0px 40px 185px ;
+    margin: 20px 0px 40px 235px ;
     padding: 0px 20px 1px 20px ;
     background-color: transparent ;
     border: none ;
@@ -170,15 +170,15 @@ body>div#content {
 
 
 /* --- ---------------------------------------------------------------
-    Sidebar Pod
+    Sidebar
 ------------------------------------------------------------------- */
 
 #sidebar {
     position: absolute ;
     top: 110px ;
-    width: 160px ;
-    margin: 20px 0px 0px 5px ;
-    padding: 10px 0px 0px 5px ;
+    width: 210px ;
+    margin: 0px 0px 0px 5px ;
+    padding: 25px 0px 0px 5px ;
     color: black ;
     background-color: transparent ;
     overflow: hidden ;
@@ -195,6 +195,7 @@ body>div#content {
 #sidebar ul {
     width: 150px ;
     border-bottom : 1px solid #eee ;
+    margin-top: 1em ;
     margin-bottom: 1em ;
     padding-bottom: 1em ;
     }
@@ -231,7 +232,7 @@ body>div#content {
     }
 
 #sidebar div.menublock {
-    margin: 0 ;
+    margin: 20px 0px 0px 0px ;
     padding-left: 8px ;
     color: #42596B ;
     background: transparent ;

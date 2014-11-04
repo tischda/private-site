@@ -4,7 +4,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <rdf:Description rdf:about="/index.xml">
-      <dc:title>dtischer.free.fr</dc:title>
+      <dc:title>danieltischer.com</dc:title>
       <dc:creator>Daniel Tischer</dc:creator>
       <dc:subject>Java, J2EE, Certified, XML, Architect, Project Leader</dc:subject>
       <dc:description>This is the home page of Daniel TISCHER </dc:description>
@@ -13,16 +13,19 @@
     </rdf:Description>
   </rdf:RDF>
   <nox:menublock>
-    <p>5 bis, rue Georges Méliès<br /> 37520 La Riche<br /> FRANCE<br /><br />+33 6 77 55 24 48</p>
-    <p>daniel.tischer@gmail.com</p>
-    <p><br /></p>
-    <p>Available: Immediately, area of Tours (France)</p>
+    <img src="img/tischer-20s.jpg" alt="Daniel TISCHER"/>
   </nox:menublock>
 
   <nox:section>
-    <h1>Daniel TISCHER</h1>
-    <p>Experienced Software Engineer specialised in automated deployment of JEE solutions, DevOps
+    <h1>Experienced Software Engineer</h1>
+    <p>Specialised in automated deployment of JEE solutions, DevOps
       and Project Leadership (PMI and Prince2 certified).</p>
+    <p>&nbsp;</p>
+    <p>Contact: +33 6 77 55 24 48</p>
+    <p>daniel.tischer@gmail.com</p>
+    <p><br /></p>
+    <p>Available: Immediately, area of Tours (France)</p>
+
     <table class="preformat" style="width: 500px" summary="Curriculum Vitae">
       <tr>
         <th>File</th>

@@ -9,12 +9,14 @@
     <h2>Position</h2>
     <p>Enterprise Software Architect - Architecture, Processes and Quality Service.</p>
     <h2>Description</h2>
-    <p>Reorganised quality standards according to high-level architectural principles.</p>
-    <p>Developed and promoted a new Continuous Integration process, industrializing the release
-      procedure across services (DEVEL->QC->PROD).</p>
-    <p>Designed a common data access framework based on Spring+Hibernate JPA.</p>
-    <p>Managed the software catalogue (CMDB), reduced the library chaos (Maven, Nexus) and defined
-      roadmaps for critical appliances.</p>
-    <p>Proposed several improvements validated by the Enterprise Architecture Board.</p>
+    <ul>
+        <li>Reorganised quality standards according to high-level architectural principles.</li>
+        <li>Developed and promoted a new Continuous Integration process, industrializing the release
+          procedure across services (DEVEL->QC->PROD).</li>
+        <li>Designed a common data access framework based on Spring+Hibernate JPA.</li>
+        <li>Managed the software catalogue (CMDB), reduced the library chaos (Maven, Nexus) and defined
+          roadmaps for critical appliances.</li>
+        <li>Proposed several improvements validated by the Enterprise Architecture Board.</li>
+    </ul>
   </nox:section>
 </nox:page>
