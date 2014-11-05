@@ -6,5 +6,6 @@ setlocal
 
 set NOX_BIN=%~dp0
 pushd %NOX_BIN%\nginx*
+md logs > nul
 start nginx
 popd
