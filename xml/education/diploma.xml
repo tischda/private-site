@@ -17,11 +17,13 @@
       </tr>
       <tr>
         <td>2014</td>
-        <td>Diploma of Software Engineering</td>
+        <td>Master's degree in Software Engineering</td>
         <td>Polytech Tours</td>
         <td>Tours</td>
         <td>
-            Being printed
+          <a class="image" href="../img/education/dipl/dipl_vae_polytech.jpg" rel="external">
+            <img src="../img/education/dipl/thumbs/dipl_vae_polytech.jpg" alt="Software Engineering Diploma" />
+          </a>
         </td>
       </tr>
       <tr>

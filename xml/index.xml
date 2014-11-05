@@ -29,31 +29,31 @@
     <table class="preformat" style="width: 500px" summary="Curriculum Vitae">
       <tr>
         <th>File</th>
-        <th>Description</th>
+        <th>Download</th>
         <th>Type</th>
         <th>Last Updated</th>
       </tr>
       <tr>
+        <td> Resume </td>
         <td>
-          <a href="doc/cv-daniel-tischer-fr-v2.5.1.doc" shape="rect"
-            >cv-daniel-tischer-fr-v2.5.1.doc</a>
+          <a href="doc/cv-daniel-tischer-fr-v2.5.1.pdf" shape="rect"
+            >cv-daniel-tischer-fr-v2.5.1.pdf</a>
         </td>
-        <td> French CV </td>
         <td>
           <a class="image" href="doc/cv-daniel-tischer-fr-v2.5.1.doc" shape="rect">
-            <img alt="French CV" src="ico/word.gif" />
+            <img alt="Curriculum Vitae" src="ico/word.gif" />
           </a>
           <a class="image" href="doc/cv-daniel-tischer-fr-v2.5.1.pdf" shape="rect">
-            <img alt="French CV" src="ico/acrobat.gif" />
+            <img alt="Curriculum Vitae" src="ico/acrobat.gif" />
           </a>
         </td>
         <td> 17/09/2014 </td>
       </tr>
       <tr>
+        <td> PGP Key </td>
         <td>
           <a href="doc/daniel-public-key.asc" shape="rect">daniel-public-key.asc</a>
         </td>
-        <td> PGP Key </td>
         <td>
           <a class="image" href="doc/daniel-public-key.asc" shape="rect">
             <img alt="PGP key" height="24" src="ico/keys.gif" width="24" />
