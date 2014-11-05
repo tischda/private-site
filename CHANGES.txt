@@ -2,9 +2,12 @@
 private-site - change history
 ===============================================================================
 
-Version 1.0.35 (04 November 2014)
+Version 1.0.37 (05 November 2014)
 ---------------------------------
 * Added nginx web server and scripts into \bin
+* Removed 'projects' and 'about'
+* Updated personal data
+* Added social media links
 
 
 Version 1.0.7 (09 June 2013)

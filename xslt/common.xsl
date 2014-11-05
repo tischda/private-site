@@ -59,7 +59,6 @@
         </title>
         <link rel="icon" href="{$prefix}/favicon.ico" type="image/x-icon"/>
         <link rel="shortcut icon" href="{$prefix}/favicon.ico" type="image/x-icon"/>
-        <script src="{$prefix}/js/date.js" type="text/javascript"> </script>
         <xsl:for-each select="/nox:page/nox:javascript">
             <xsl:call-template name="head_javascript"/>
         </xsl:for-each>
