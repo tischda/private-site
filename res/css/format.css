@@ -82,7 +82,7 @@ a {
     text-decoration: none;
 }
 
-  
+
 a:visited {
     color: #6699CC;
 }
@@ -138,6 +138,7 @@ a[href ^="irc://"],
 a.image, a.css {
     background: transparent;
     border-bottom: none;
+    padding: 2px;
 }
 
 a.image:hover {

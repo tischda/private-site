@@ -7,10 +7,18 @@
         <div id="breadcrumb">
             <p><xsl:value-of select="/nox:page/@title"/></p>
         </div>
-        <div id="date">
+        <div id="social" class="right" >
             <p>&#160;</p>
             <p>
-                <script type="text/javascript">document.write(dateString());</script>
+                <a class="image" rel="external" href="http://www.viadeo.com/profile/002v1ytidqbxx8o" title="Viadeo">
+                    <img src="{$prefix}/ico/viadeo.png" alt="Viadeo" align="top" height="30px" />
+                </a>
+                <img src="{$prefix}/ico/social.png" alt="social media links" height="35px" usemap="#socialmap" />
+                <map name="socialmap" id="socialmap">
+                    <area title="Facebook" shape="rect" coords="0,0,35,31" href="https://www.facebook.com/tischer.daniel" />
+                    <area title="LinkedIn" shape="rect" coords="36,0,69,31" href="https://fr.linkedin.com/in/danieltischer" />
+                    <area title="Twitter"  shape="rect" coords="70,0,104,31" href="https://twitter.com/danieltischer" />
+                </map>
             </p>
         </div>
         <xsl:if test="/nox:page/@lang">
