@@ -20,9 +20,6 @@
     <h1>Experienced Software Engineer</h1>
     <p>Specialised in automated deployment of JEE solutions, DevOps
       and Project Leadership (PMI and Prince2 certified).</p>
-    <p>&nbsp;</p>
-    <p>Contact: +33 6 77 55 24 48</p>
-    <p>daniel.tischer@gmail.com</p>
     <p><br /></p>
     <p>Available: Immediately, area of Tours (France)</p>
 
@@ -30,36 +27,33 @@
       <tr>
         <th>File</th>
         <th>Download</th>
-        <th>Type</th>
         <th>Last Updated</th>
       </tr>
       <tr>
         <td> Resume </td>
         <td>
-          <a href="doc/cv-daniel-tischer-fr-v2.6.pdf" shape="rect">cv-daniel-tischer-fr-v2.6.pdf</a>
+          <a href="doc/cv-daniel-tischer-fr-v3.3.docx" shape="rect">cv-daniel-tischer-fr-v3.3.docx</a>
         </td>
+        <td> 01/03/2015 </td>
+      </tr>
+      <tr>
+        <td> Missions </td>
         <td>
-          <a class="image" href="doc/cv-daniel-tischer-fr-v2.6.doc" shape="rect">
-            <img alt="Curriculum Vitae" src="ico/word.gif" />
-          </a>
-          <a class="image" href="doc/cv-daniel-tischer-fr-v2.6.pdf" shape="rect">
-            <img alt="Curriculum Vitae" src="ico/acrobat.gif" />
-          </a>
+          <a href="doc/cv-daniel-tischer-fr-v3.3-detail-missions.docx" shape="rect">cv-daniel-tischer-fr-v3.3-detail-missions.docx</a>
         </td>
-        <td> 12/11/2014 </td>
+        <td> 01/03/2015 </td>
       </tr>
       <tr>
         <td> PGP Key </td>
         <td>
           <a href="doc/daniel-public-key.asc" shape="rect">daniel-public-key.asc</a>
         </td>
-        <td>
-          <a class="image" href="doc/daniel-public-key.asc" shape="rect">
-            <img alt="PGP key" height="24" src="ico/keys.gif" width="24" />
-          </a>
-        </td>
         <td> 30/03/2009 </td>
       </tr>
     </table>
+
+    <p>Contact: +33 6 77 55 24 48</p>
+    <p>daniel.tischer@gmail.com</p>
+    
   </nox:section>
 </nox:page>
