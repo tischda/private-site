@@ -23,7 +23,7 @@
     <p><br /></p>
     <p>Available: Immediately, area of Tours (France)</p>
 
-    <table class="preformat" style="width: 500px" summary="Curriculum Vitae">
+    <table class="preformat" style="width: 550px" summary="Curriculum Vitae">
       <tr>
         <th>File</th>
         <th>Download</th>
@@ -46,9 +46,10 @@
       <tr>
         <td> PGP Key </td>
         <td>
-          <a href="doc/daniel-public-key.asc" shape="rect">daniel-public-key.asc</a>
+          <a href="doc/daniel-tischer-public-key.asc" shape="rect">daniel-tischer-public-key.asc</a>
+          <p>CBFB B044 41FA 5B16 6155 C751 8D1B D4B0 440B BCEB</p>
         </td>
-        <td> 30/03/2009 </td>
+        <td> 13/03/2015 </td>
       </tr>
     </table>
 
