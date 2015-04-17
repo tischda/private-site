@@ -3,15 +3,19 @@
 <menu type="main">
   <menugroup name="Main Menu">
     <menuitem
-      name="Home"
+      name="Welcome"
       ref="index.html" />
     <menuitem
-      name="Career"
-      dir="career"
+      name="Certifications"
+      dir="certification"
       ref="index.html" />
     <menuitem
-      name="Education"
-      dir="education"
+      name="Formations"
+      dir="training"
+      ref="index.html" />
+    <menuitem
+      name="Diplômes"
+      dir="diploma"
       ref="index.html" />
   </menugroup>
 </menu>

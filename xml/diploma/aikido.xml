@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
-<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Activities : What is Aikido">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Diplômes : Aikido">
   <nox:section>
     <h1>Aikido</h1>
-    <p><img class="right" src="../img/private/bokkento.jpg" alt="Aikido" width="144"
-        height="198" /> Aikido is a Japanese martial art developed by Morihei Ueshiba (often
-      referred to by his title 'O Sensei' or 'Great Teacher'). On a purely physical level it is an
-      art involving some throws and joint locks that are derived from Jujitsu and some throws and
-      other techniques derived from Kenjutsu. Aikido focuses not on punching or kicking opponents,
-      but rather on using their own energy to gain control of them or to throw them away from you.
-      It is not a static art, but places great emphasis on motion and the dynamics of movement.</p>
-    <p>I started Aikido in 1991 and since then trained with many masters in many different
-      countries. It is a martial art that you can enjoy at any level, there is no competition.
-      Actually, the philosophy of Aikido goes far beyond learning fighting techniques.</p>
-  </nox:section>
-  <nox:section>
-    <p>The following table lists the belts I have.</p>
+    <p>Aikido is a Japanese martial art developed by Morihei Ueshiba.</p>
     <table class="preformat" summary="Certification">
       <tr>
         <th>Date</th>

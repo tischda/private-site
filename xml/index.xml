@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../dtd/page.dtd">
-<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Home : Welcome" type="static">
+<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Welcome : Bienvenue" type="static">
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <rdf:Description rdf:about="/index.xml">
       <dc:title>danieltischer.com</dc:title>
       <dc:creator>Daniel Tischer</dc:creator>
-      <dc:subject>Java, J2EE, Certified, XML, Architect, Project Leader</dc:subject>
+      <dc:subject>Architect, Project Manager, DevOps, Java, J2EE, XML</dc:subject>
       <dc:description>This is the home page of Daniel TISCHER </dc:description>
       <dc:type>Text</dc:type>
       <dc:language>en</dc:language>
@@ -17,34 +17,36 @@
   </nox:menublock>
 
   <nox:section>
-    <h1>Experienced Software Engineer</h1>
-    <p>Specialised in automated deployment of JEE solutions, DevOps
-      and Project Leadership (PMI and Prince2 certified).</p>
-    <p><br /></p>
-    <p>Available: Immediately, area of Tours (France)</p>
-
+    <h1>Architecte des systèmes d’information</h1>
+    <p>20 ans d’expérience, la maîtrise des bonnes pratiques et de fortes capacités d’apprentissage me permettent
+      d’être l’interface technique privilégiée pour la mise en œuvre des dispositifs de gouvernance de l'entreprise.
+    </p>
+    
+    <p><br/></p>
+    
+    <p>Disponibilité : Immediate, région de Tours</p>
+    
+    <p>+33 6 77 55 24 48
+    <br/>daniel.tischer@gmail.com</p>
+        
     <table class="preformat" style="width: 550px" summary="Curriculum Vitae">
       <tr>
-        <th>File</th>
-        <th>Download</th>
-        <th>Last Updated</th>
+        <th>Fichier</th>
+        <th>Date</th>
       </tr>
       <tr>
-        <td> Resume </td>
         <td>
-          <a href="doc/cv-daniel-tischer-fr-v3.3.docx" shape="rect">cv-daniel-tischer-fr-v3.3.docx</a>
+          <a href="doc/cv-daniel-tischer-fr-v3.5.1.docx" shape="rect">cv-daniel-tischer-fr-v3.5.1.docx</a>
         </td>
-        <td> 01/03/2015 </td>
+        <td> 17/04/2015 </td>
       </tr>
       <tr>
-        <td> Missions </td>
         <td>
-          <a href="doc/cv-daniel-tischer-fr-v3.3-detail-missions.docx" shape="rect">cv-daniel-tischer-fr-v3.3-detail-missions.docx</a>
+          <a href="doc/cv-daniel-tischer-fr-v3.5.1-detail-missions.docx" shape="rect">cv-daniel-tischer-fr-v3.5.1-detail-missions.docx</a>
         </td>
-        <td> 01/03/2015 </td>
+        <td> 17/04/2015 </td>
       </tr>
       <tr>
-        <td> PGP Key </td>
         <td>
           <a href="doc/daniel-tischer-public-key.asc" shape="rect">daniel-tischer-public-key.asc</a>
           <p>CBFB B044 41FA 5B16 6155 C751 8D1B D4B0 440B BCEB</p>
@@ -53,8 +55,5 @@
       </tr>
     </table>
 
-    <p>Contact: +33 6 77 55 24 48</p>
-    <p>daniel.tischer@gmail.com</p>
-    
   </nox:section>
 </nox:page>
