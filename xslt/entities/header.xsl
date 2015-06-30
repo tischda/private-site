@@ -1,8 +1,6 @@
 <xsl:template name="header" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <div id="header">
-        <!-- todo: insert avatar from robohash in prefrerred.css
         <div id="logo">&#160;</div>
-        -->
         <div id="title">
             <p>Daniel TISCHER</p>
         </div>
