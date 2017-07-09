@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../dtd/page.dtd">
-<nox:page xmlns:nox="http://danieltischer.com/nox" title="Daniel TISCHER - Homepage" type="static">
+<nox:page xmlns:nox="http://danieltischer.com/nox" title="Home" type="static">
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <rdf:Description rdf:about="/index.xml">
