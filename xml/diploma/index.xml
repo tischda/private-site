@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
-<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Diplômes">
+<nox:page xmlns:nox="http://danieltischer.com/nox" title="Diploma">
   <nox:section>
     <h1>Diploma</h1>
     <p>Here the list of diploma I have:</p>
@@ -21,8 +21,8 @@
         <td>Polytech Tours</td>
         <td>Tours</td>
         <td>
-          <a class="image" href="../img/education/dipl/dipl_vae_polytech.jpg" rel="external">
-            <img src="../img/education/dipl/thumbs/dipl_vae_polytech.jpg" alt="Software Engineering Diploma" />
+          <a class="image" href="../img/education/dipl/dipl_master.jpg" rel="external">
+            <img src="../img/education/dipl/thumbs/dipl_master.jpg" alt="Software Engineering Diploma" />
           </a>
         </td>
       </tr>

@@ -10,11 +10,11 @@
       dir="certification"
       ref="index.html" />
     <menuitem
-      name="Formations"
+      name="Trainings"
       dir="training"
       ref="index.html" />
     <menuitem
-      name="Diplômes"
+      name="Diploma"
       dir="diploma"
       ref="index.html" />
   </menugroup>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
-<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Formations">
+<nox:page xmlns:nox="http://danieltischer.com/nox" title="Trainings">
   <nox:section>
-    <h1>Training</h1>
+    <h1>Trainings</h1>
     <p>Here the list of professional trainings I attended:</p>
     <table class="preformat" summary="Training">
       <tr>
@@ -13,6 +13,75 @@
       </tr>
       <tr>
         <td colspan="5" class="tablesubheader1"> </td>
+      </tr>
+      <tr>
+        <td>2017<br /><br />FCT Solutions<br /><br />
+          <i>Lyon</i></td>
+        <td>3 days</td>
+        <td>
+          <b>ITIL Intermediate Module - Service Operation</b>
+          <p>The course covers management and control of activities and techniques that are
+                documented in the ITIL Service Operation publication.</p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/edu/edu_itil_so.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil_so.jpg" alt="ITIL Service Operations" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2016<br /><br />FCT Solutions<br /><br />
+          <i>Lyon</i></td>
+        <td>3 days</td>
+        <td>
+          <b>ITIL Foundation v3</b>
+          <p>Candidates gain knowledge and understanding in the following:
+                Service management as a practice,
+                The ITIL service lifecycle,
+                Generic concepts and definitions,
+                Key principles and models,
+                Selected processes, functions and roles,
+                Technology and architecture.</p>
+           <p>
+             <a href="../doc/education/The_ITIL_Foundation_Certificate_Syllabus_v5-5.pdf">ITIL Foundation Certificate Syllabus</a>
+             <img class="icon" alt="ITIL Foundation Syllabus" src="../ico/acrobat.gif" />
+           </p>
+        </td>
+        <td>Internal Training</td>
+      </tr>
+      <tr>
+        <td>2016<br /><br />Xerox<br /><br />
+          <i>Seclin</i></td>
+        <td>3 days</td>
+        <td>
+          <b>Shell Scripting - Advanced</b>
+          <p>Variables, expressions, tests, loops, multiple choice, functions, debugging, job scheduling, event-driven programming,
+                alerts, command history, init scripts, ksh specifics, data processing: awk, sed, grep.</p>
+        </td>
+        <td>Internal Training</td>
+      </tr>
+      <tr>
+        <td>2016<br /><br />Pythagore FD<br /><br />
+          <i>Seclin</i></td>
+        <td>5 days</td>
+        <td>
+          <b>Linux Administration - Advanced</b>
+          <p>RPM, RAID, LVM, Performance analysis, Journaling file systems, ACL, Quotas, PAM, LDAP.</p>
+        </td>
+        <td>Internal Training</td>
+      </tr>
+      <tr>
+        <td>2015+<br /><br />Atos Training<br /><br />
+          <i>Tours</i></td>
+        <td>3 days</td>
+        <td>
+          <b>Yearly mandatory PCI-DSS training and certification</b>
+          <p>Maintaining payment security is required for all entities that store, process or transmit cardholder data. Guidance for maintaining payment security is provided in Payment Card Industry (PCI) Data <a href="https://www.pcisecuritystandards.org/" rel="external">Security Standards (DSS)</a>. These set the technical and operational requirements for organizations accepting or processing payment transactions, and for software developers and manufacturers of applications and devices used in those transactions.</p>
+
+          <p>Atos Data protection, PCI-DSS, Secure Coding, Security and Safety awareness, Security rules for mobile workers, Electronic payment means
+                (monétique), Customer experience.</p>
+        </td>
+        <td>Internal Training</td>
       </tr>
       <tr>
         <td>2012<br /><br />Learning Tree<br /><br />

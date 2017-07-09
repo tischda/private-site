@@ -10,7 +10,7 @@
 <!ENTITY template_copyit SYSTEM "entities/copy.xsl">
 ]>
 <!-- $Id: common.xsl 171 2006-09-13 21:01:08Z dtischer $ -->
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:nox="http://dtischer.free.fr/nox" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.0" exclude-result-prefixes="nox rdf dc">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:nox="http://danieltischer.com/nox" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.0" exclude-result-prefixes="nox rdf dc">
 
   <!-- stylesheet parameters -->
   <xsl:param name="title"/>

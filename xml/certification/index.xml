@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
-<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Certifications">
+<nox:page xmlns:nox="http://danieltischer.com/nox" title="Certifications">
   <nox:section>
-    <h1>Certification</h1>
+    <h1>Certifications</h1>
     <p>Here the list of my certifications:</p>
     <table class="preformat" summary="Certification">
       <tr>
@@ -12,6 +12,43 @@
       </tr>
       <tr>
         <td colspan="5" class="tablesubheader1"> </td>
+      </tr>
+      <tr>
+        <td>2017<br /><br />Axelos<br /><br />
+          <i>Lyon</i></td>
+        <td>
+          <b>ITIL - Service Operations (Lifecycle module)</b>
+          <p>The SO module focuses on the coordination and execution of activities that enable the ongoing
+                management and operation of the products or services developed or implemented during the
+                service strategy, design and transition phases of the IT Service Lifecycle as well as any
+                technology and support resources that are used to deliver them. </p>
+           <p>Understanding of Service Operation best practice enables organizations and IT teams to
+                effectively sustain and maintain the products and services they develop and ensure that they
+                provide efficient resources for their users.</p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/cert/cert_itil3_so.jpg" rel="external">
+            <img src="../img/education/cert/thumbs/cert_itil3_so.jpg" alt="ITIL-SO Certification" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2016<br /><br />Axelos<br /><br />
+          <i>Lyon</i></td>
+        <td>
+          <b>ITIL - Foundation v3</b>
+          <p>The Information Technology Infrastructure Library (<a
+              href="https://www.axelos.com/best-practice-solutions/itil" rel="external">ITIL</a>) is an integrated set
+            of best-practice recommendations.</p>
+          <p>The Foundation exam is the entry level certification and offers a general awareness of the key elements,
+             concepts and terminology used in the ITIL service lifecycle, including the links between lifecycle stages,
+             the processes used and their contribution to service management practices. </p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/cert/cert_itil3_foundation.jpg" rel="external">
+            <img src="../img/education/cert/thumbs/cert_itil3_foundation.jpg" alt="ITIL-Foundation Certification" />
+          </a>
+        </td>
       </tr>
       <tr>
         <td>2013<br /><br />ETS<br /><br />
@@ -120,9 +157,9 @@
         <td>2006<br /><br />EXIN<br /><br />
           <i>Alicante</i></td>
         <td>
-          <b>ITIL - Foundation</b>
+          <b>ITIL - Foundation v2</b>
           <p>The Information Technology Infrastructure Library (<a
-              href="http://www.itil-officialsite.com/" rel="external">ITIL</a>) is an integrated set
+              href="https://www.axelos.com/best-practice-solutions/itil" rel="external">ITIL</a>) is an integrated set
             of best-practice recommendations.</p>
           <p>This framework essentially defines how to organize the system and network management
             departments within individual organizations. The concepts support IT service providers

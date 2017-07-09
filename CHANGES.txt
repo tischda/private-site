@@ -2,6 +2,12 @@
 private-site - change history
 ===============================================================================
 
+Version 1.0.xx (09 July 2017)
+-----------------------------
+* Updated training and certification
+* Minor CSS changes
+
+
 Version 1.0.37 (05 November 2014)
 ---------------------------------
 * Added nginx web server and scripts into \bin

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../dtd/page.dtd">
-<nox:page xmlns:nox="http://dtischer.free.fr/nox" title="Daniel TISCHER - Homepage" type="static">
+<nox:page xmlns:nox="http://danieltischer.com/nox" title="Daniel TISCHER - Homepage" type="static">
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <rdf:Description rdf:about="/index.xml">
@@ -34,9 +34,9 @@
       </tr>
       <tr>
         <td>
-          <a href="doc/cv-daniel-tischer-fr-v3.5.1.docx" shape="rect">cv-daniel-tischer-fr-v3.5.1.docx</a>
+          <a href="doc/cv-daniel-tischer-fr-v3.6.0.pdf" shape="rect">cv-daniel-tischer-fr-v3.6.0.pdf</a>
         </td>
-        <td> 17/04/2015 </td>
+        <td> 09/07/2017 </td>
       </tr>
       <tr>
         <td>
@@ -49,7 +49,7 @@
           <a href="doc/daniel-tischer-public-key.asc" shape="rect">daniel-tischer-public-key.asc</a>
           <p>CBFB B044 41FA 5B16 6155 C751 8D1B D4B0 440B BCEB</p>
         </td>
-        <td> 13/03/2015 </td>
+        <td> 09/07/2017 </td>
       </tr>
     </table>
 
