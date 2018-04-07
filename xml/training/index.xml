@@ -15,13 +15,55 @@
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
       <tr>
+        <td>2018<br /><br />Orsys<br /><br />
+          <i>Paris</i></td>
+        <td>5 days</td>
+        <td>
+          <b>ITIL Capability Module - Release Control and Validation</b>
+          <p>The course covers management and control of activities and techniques that are
+                documented in the ITIL RCV publication.</p>
+           <p>
+             <a href="../doc/education/The_ITIL_Intermediate_Qualification_Release_Control_and_Validation_Certificate_Syllabus_v5-4.pdf">ITIL Release Control and Validation Certificate Syllabus</a>
+             <img class="icon" alt="ITIL Release Control and Validation Syllabus" src="../ico/acrobat.gif" />
+           </p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/edu/edu_itil_rcv.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil_rcv.jpg" alt="ITIL Release Control and Validation" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2017<br /><br />Orsys<br /><br />
+          <i>Paris</i></td>
+        <td>5 days</td>
+        <td>
+          <b>ITIL Capability Module - Operational Support and Analysis</b>
+          <p>The course covers management and control of activities and techniques that are
+                documented in the ITIL OSA publication.</p>
+           <p>
+             <a href="../doc/education/The_ITIL_Intermediate_Qualification_Operational_Support_and_Analysis_Certificate_Syllabus_v5-4.pdf">ITIL Operational Support and Analysis Certificate Syllabus</a>
+             <img class="icon" alt="ITIL Operational Support and Analysis Syllabus" src="../ico/acrobat.gif" />
+           </p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/edu/edu_itil_osa.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil_osa.jpg" alt="ITIL Operational Support and Analysis" />
+          </a>
+        </td>
+      </tr>
+      <tr>
         <td>2017<br /><br />FCT Solutions<br /><br />
           <i>Lyon</i></td>
         <td>3 days</td>
         <td>
-          <b>ITIL Intermediate Module - Service Operation</b>
+          <b>ITIL Lifecycle Module - Service Operation</b>
           <p>The course covers management and control of activities and techniques that are
                 documented in the ITIL Service Operation publication.</p>
+           <p>
+             <a href="../doc/education/The_ITIL_Intermediate_Qualification_Service_Operation_Certificate_Syllabus_v5-4.pdf">ITIL Service Operations Certificate Syllabus</a>
+             <img class="icon" alt="ITIL Service Operations Syllabus" src="../ico/acrobat.gif" />
+           </p>
         </td>
         <td>
           <a class="image" href="../img/education/edu/edu_itil_so.jpg" rel="external">

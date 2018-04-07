@@ -3,12 +3,12 @@
 <menu>
   <menugroup name="Diploma">
     <menuitem
-      name="Diplômes"
+      name="Diploma"
       ref="index.html" />
   </menugroup>
   <menugroup name="Aikido">
     <menuitem
-      name="Arts Martiaux"
+      name="Martial Arts"
       ref="aikido.html" />
   </menugroup>
 </menu>
