@@ -3,7 +3,7 @@
 <menu>
   <menugroup name="Certification">
     <menuitem
-      name="Certifications"
+      name="Certification"
       ref="index.html" />
   </menugroup>
 </menu>

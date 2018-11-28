@@ -6,11 +6,11 @@
       name="Welcome"
       ref="index.html" />
     <menuitem
-      name="Certifications"
+      name="Certification"
       dir="certification"
       ref="index.html" />
     <menuitem
-      name="Trainings"
+      name="Training"
       dir="training"
       ref="index.html" />
     <menuitem

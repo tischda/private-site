@@ -3,7 +3,7 @@
 <menu>
   <menugroup name="Training">
     <menuitem
-      name="Trainings"
+      name="Training"
       ref="index.html" />
   </menugroup>
 </menu>

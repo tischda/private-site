@@ -6,9 +6,4 @@
       name="Diploma"
       ref="index.html" />
   </menugroup>
-  <menugroup name="Aikido">
-    <menuitem
-      name="Martial Arts"
-      ref="aikido.html" />
-  </menugroup>
 </menu>

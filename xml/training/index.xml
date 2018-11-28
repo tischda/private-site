@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
-<nox:page xmlns:nox="http://danieltischer.com/nox" title="Trainings">
+<nox:page xmlns:nox="http://danieltischer.com/nox" title="Training">
   <nox:section>
     <h1>Trainings</h1>
     <p>Here the list of professional trainings I attended:</p>
@@ -19,17 +19,54 @@
           <i>Paris</i></td>
         <td>5 days</td>
         <td>
-          <b>ITIL Capability Module - Release Control and Validation</b>
+          <b>ITIL MALC - Managing Across the Lifecycle</b>
+          <p>The course is aimed at those who wish to demonstrate knowledge of the ITIL scheme in its entirety and the certificate is awarded to candidates who have already attained a range of ITIL certifications and have a well-rounded knowledge and skills base in ITIL best practices.</p>
+           <p>
+             <a href="../doc/education/ITIL-Managing-Across-the-Lifecycle-Syllabus.pdf">ITIL Managing Across the Lifecycle Certificate Syllabus</a>
+             <img class="icon" alt="ITIL Managing Across the Lifecycle Syllabus" src="../ico/acrobat.gif" />
+           </p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/edu/edu_itil3_malc.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil3_malc.jpg" alt="ITIL Managing Across the Lifecycle" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2018<br /><br />Orsys<br /><br />
+          <i>Paris</i></td>
+        <td>5 days</td>
+        <td>
+          <b>ITIL PPO - Planning, Protection and Optimization</b>
           <p>The course covers management and control of activities and techniques that are
-                documented in the ITIL RCV publication.</p>
+                documented in the ITIL Design publication.</p>
+           <p>
+             <a href="../doc/education/The_ITIL_Intermediate_Qualification_Planning_Protection_and_Optimization_Certificate_Syllabus_v5-5.pdf">ITIL Planning, Protection and Optimization Certificate Syllabus</a>
+             <img class="icon" alt="ITIL Planning, Protection and Optimization Syllabus" src="../ico/acrobat.gif" />
+           </p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/edu/edu_itil3_ppo.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil3_ppo.jpg" alt="ITIL Planning, Protection and Optimization" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2018<br /><br />Orsys<br /><br />
+          <i>Paris</i></td>
+        <td>5 days</td>
+        <td>
+          <b>ITIL RCV - Release Control and Validation</b>
+          <p>The course covers management and control of activities and techniques that are
+                documented in the ITIL Transition publication.</p>
            <p>
              <a href="../doc/education/The_ITIL_Intermediate_Qualification_Release_Control_and_Validation_Certificate_Syllabus_v5-4.pdf">ITIL Release Control and Validation Certificate Syllabus</a>
              <img class="icon" alt="ITIL Release Control and Validation Syllabus" src="../ico/acrobat.gif" />
            </p>
         </td>
         <td>
-          <a class="image" href="../img/education/edu/edu_itil_rcv.jpg" rel="external">
-            <img src="../img/education/edu/thumbs/edu_itil_rcv.jpg" alt="ITIL Release Control and Validation" />
+          <a class="image" href="../img/education/edu/edu_itil3_rcv.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil3_rcv.jpg" alt="ITIL Release Control and Validation" />
           </a>
         </td>
       </tr>
@@ -38,17 +75,17 @@
           <i>Paris</i></td>
         <td>5 days</td>
         <td>
-          <b>ITIL Capability Module - Operational Support and Analysis</b>
+          <b>ITIL OSA - Operational Support and Analysis</b>
           <p>The course covers management and control of activities and techniques that are
-                documented in the ITIL OSA publication.</p>
+                documented in the ITIL Service Operation publication.</p>
            <p>
              <a href="../doc/education/The_ITIL_Intermediate_Qualification_Operational_Support_and_Analysis_Certificate_Syllabus_v5-4.pdf">ITIL Operational Support and Analysis Certificate Syllabus</a>
              <img class="icon" alt="ITIL Operational Support and Analysis Syllabus" src="../ico/acrobat.gif" />
            </p>
         </td>
         <td>
-          <a class="image" href="../img/education/edu/edu_itil_osa.jpg" rel="external">
-            <img src="../img/education/edu/thumbs/edu_itil_osa.jpg" alt="ITIL Operational Support and Analysis" />
+          <a class="image" href="../img/education/edu/edu_itil3_osa.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil3_osa.jpg" alt="ITIL Operational Support and Analysis" />
           </a>
         </td>
       </tr>
@@ -66,8 +103,8 @@
            </p>
         </td>
         <td>
-          <a class="image" href="../img/education/edu/edu_itil_so.jpg" rel="external">
-            <img src="../img/education/edu/thumbs/edu_itil_so.jpg" alt="ITIL Service Operations" />
+          <a class="image" href="../img/education/edu/edu_itil3_so.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil3_so.jpg" alt="ITIL Service Operations" />
           </a>
         </td>
       </tr>

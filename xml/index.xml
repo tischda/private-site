@@ -6,7 +6,7 @@
     <rdf:Description rdf:about="/index.xml">
       <dc:title>danieltischer.com</dc:title>
       <dc:creator>Daniel Tischer</dc:creator>
-      <dc:subject>Architect, Project Manager, DevOps, Java, J2EE, XML</dc:subject>
+      <dc:subject>Senir, Architect, Project Manager, Problem Manager, ITIL, Process, Governance, Strategy</dc:subject>
       <dc:description>This is the home page of Daniel TISCHER </dc:description>
       <dc:type>Text</dc:type>
       <dc:language>en</dc:language>
@@ -17,14 +17,13 @@
   </nox:menublock>
 
   <nox:section>
-    <h1>Responsable des systèmes d’information</h1>
-    <p>Avec 25 ans d’expérience, la maîtrise des bonnes pratiques et de fortes capacités d’apprentissage,
-	je suis l’interface privilégiée pour la mise en œuvre des dispositifs de gouvernance de l'entreprise.
-    </p>
+    <h1>Ingénieur en informatique - Senior</h1>
+    <p>Avec 25 ans d’expérience, quadrilingue, je suis l’interface privilégiée pour optimiser le
+       cycle de vie des services de l'entreprise.</p>
+    <p>Pour cela je me base sur mon expertise des bonnes pratiques ITIL.</p>
     <p>Actuellement en poste chez <a href="https://worldline.com/">Atos Worldline</a> sur le site de Tours.</p>
     
     <p><br/></p>
-   
         
     <table class="preformat" style="width: 550px" summary="Curriculum Vitae">
       <tr>
@@ -33,9 +32,9 @@
       </tr>
       <tr>
         <td>
-          <a href="doc/cv-daniel-tischer-fr-v3.6.1.pdf" shape="rect">cv-daniel-tischer-fr-v3.6.1.pdf</a>
+          <a href="doc/cv-daniel-tischer-fr-v3.7.pdf" shape="rect">cv-daniel-tischer-fr-v3.7.pdf</a>
         </td>
-        <td> 07/04/2018 </td>
+        <td> 27/11/2018 </td>
       </tr>
       <tr>
         <td>

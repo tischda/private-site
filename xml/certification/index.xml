@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE nox:page PUBLIC "-//dtischer//DTD page 1.0//EN" "../../dtd/page.dtd">
-<nox:page xmlns:nox="http://danieltischer.com/nox" title="Certifications">
+<nox:page xmlns:nox="http://danieltischer.com/nox" title="Certification">
   <nox:section>
     <h1>Certifications</h1>
     <p>Here the list of my certifications:</p>
@@ -17,13 +17,31 @@
         <td>2018<br /><br />Axelos<br /><br />
           <i>Paris</i></td>
         <td>
-          <b>ITIL - Release Control and Validation (Capability module)</b>
+          <b>ITIL 2011 PPO - Planning, Protection and Optimization (Capability module)</b>
+          <p>The PPO course is designed to develop organizations' and individuals'
+             understanding of the ITIL Service Design processes. It can help ensure that
+             new and updated services, service management systems and tools, technology
+             architecture, processes and measurement systems, methods and metrics are
+             designed to meet user needs and will require little further change once
+             introduced.</p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/cert/cert_itil3_ppo.jpg" rel="external">
+            <img src="../img/education/cert/thumbs/cert_itil3_ppo.jpg" alt="ITIL-RCV Certification" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>2018<br /><br />Axelos<br /><br />
+          <i>Paris</i></td>
+        <td>
+          <b>ITIL 2011 RCV - Release Control and Validation (Capability module)</b>
           <p>The RCV module focuses on the practical application of RCV practices in order to enable the successful planning, testing and implementation of new services that meet the organization’s or users’ needs.</p>
            <p>The RCV course is designed to develop organizations’ or individuals’ understanding of the ITIL Service Transition processes. It can ensure transitional changes are effectively managed, new services are validated and tested and that release and deployment fulfil organizational requirements. RCV also provides guidance on evaluating change and managing knowledge to improve decision-making processes.</p>
         </td>
         <td>
-          <a class="image" href="../img/education/cert/cert_itil_rcv.jpg" rel="external">
-            <img src="../img/education/cert/thumbs/cert_itil_rcv.jpg" alt="ITIL-RCV Certification" />
+          <a class="image" href="../img/education/cert/cert_itil3_rcv.jpg" rel="external">
+            <img src="../img/education/cert/thumbs/cert_itil3_rcv.jpg" alt="ITIL-RCV Certification" />
           </a>
         </td>
       </tr>
@@ -31,13 +49,13 @@
         <td>2017<br /><br />Axelos<br /><br />
           <i>Paris</i></td>
         <td>
-          <b>ITIL - Operational Support and Analysis (Capability module)</b>
+          <b>ITIL 2011 OSA - Operational Support and Analysis (Capability module)</b>
           <p>The OSA module The module focuses on the practical application of OSA practices in order to enable event, incident, request, problem, access, technical, IT operations and application management.</p>
            <p>The OSA course can teach organizations and individuals how to manage the everyday operation of IT services and gain a better understanding of how to implement the ITIL processes that will enable them to deliver and support services to customers.</p>
         </td>
         <td>
-          <a class="image" href="../img/education/cert/cert_itil_osa.jpg" rel="external">
-            <img src="../img/education/cert/thumbs/cert_itil_osa.jpg" alt="ITIL-OSA Certification" />
+          <a class="image" href="../img/education/cert/cert_itil3_osa.jpg" rel="external">
+            <img src="../img/education/cert/thumbs/cert_itil3_osa.jpg" alt="ITIL-OSA Certification" />
           </a>
         </td>
       </tr>
@@ -45,7 +63,7 @@
         <td>2017<br /><br />Axelos<br /><br />
           <i>Lyon</i></td>
         <td>
-          <b>ITIL - Service Operations (Lifecycle module)</b>
+          <b>ITIL 2011 SO - Service Operations (Lifecycle module)</b>
           <p>The SO module focuses on the coordination and execution of activities that enable the ongoing
                 management and operation of the products or services developed or implemented during the
                 service strategy, design and transition phases of the IT Service Lifecycle as well as any
@@ -64,7 +82,7 @@
         <td>2016<br /><br />Axelos<br /><br />
           <i>Lyon</i></td>
         <td>
-          <b>ITIL - Foundation v3</b>
+          <b>ITIL v3 Foundation</b>
           <p>The Information Technology Infrastructure Library (<a
               href="https://www.axelos.com/best-practice-solutions/itil" rel="external">ITIL</a>) is an integrated set
             of best-practice recommendations.</p>

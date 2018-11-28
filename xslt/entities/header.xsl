@@ -13,12 +13,12 @@
                 <a class="image" rel="external" href="http://www.viadeo.com/profile/002v1ytidqbxx8o" title="Viadeo">
                     <img src="{$prefix}/ico/viadeo.png" alt="Viadeo" align="top" height="30px" />
                 </a>
-                <img src="{$prefix}/ico/social.png" alt="social media links" height="35px" usemap="#socialmap" />
-                <map name="socialmap" id="socialmap">
-                    <area title="Facebook" shape="rect" coords="0,0,35,31" href="https://www.facebook.com/tischer.daniel" />
-                    <area title="LinkedIn" shape="rect" coords="36,0,69,31" href="https://fr.linkedin.com/in/danieltischer" />
-                    <area title="Twitter"  shape="rect" coords="70,0,104,31" href="https://twitter.com/danieltischer" />
-                </map>
+                <a class="image" rel="external" href="https://fr.linkedin.com/in/danieltischer" title="LinkedIn">
+                    <img src="{$prefix}/ico/linkedin.png" alt="LinkedIn" align="top" height="32px" />
+                </a>
+                <a class="image" rel="external" href="https://www.xing.com/profile/Daniel_Tischer2" title="Xing">
+                    <img src="{$prefix}/ico/xing.png" alt="Xing" align="top" height="30px" />
+                </a>
             </p>
         </div>
         <xsl:if test="/nox:page/@lang">
