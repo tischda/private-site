@@ -15,6 +15,21 @@
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
       <tr>
+        <td>2019<br /><br />Orsys<br /><br />
+          <i>Seclin</i></td>
+        <td>3 days</td>
+        <td>
+          <b>ITIL CSI - Continual Service Improvement</b>
+          <p>CSI continually improves the effectiveness and efficiency of services and processes.
+             The course covers management and control of activities and techniques within the Continual Service Improvement phase of the ITIL Lifecycle.</p>
+           <p>
+             <a href="../doc/education/ITIL_Intermediate_Qualification_Continual_Service_Improvement_Certificate_Syllabus_v5-5.pdf">ITIL Continual Service Improvement Certificate Syllabus</a>
+             <img class="icon" alt="ITIL Continual Service Improvement Syllabus" src="../ico/acrobat.gif" />
+           </p>
+        </td>
+        <td>Internal Training</td>
+      </tr>
+      <tr>
         <td>2018<br /><br />Orsys<br /><br />
           <i>Paris</i></td>
         <td>5 days</td>
@@ -41,7 +56,7 @@
           <p>The course covers management and control of activities and techniques that are
                 documented in the ITIL Design publication.</p>
            <p>
-             <a href="../doc/education/The_ITIL_Intermediate_Qualification_Planning_Protection_and_Optimization_Certificate_Syllabus_v5-5.pdf">ITIL Planning, Protection and Optimization Certificate Syllabus</a>
+             <a href="../doc/education/ITIL_Intermediate_Qualification_Planning_Protection_and_Optimization_Certificate_Syllabus_v5-5.pdf">ITIL Planning, Protection and Optimization Certificate Syllabus</a>
              <img class="icon" alt="ITIL Planning, Protection and Optimization Syllabus" src="../ico/acrobat.gif" />
            </p>
         </td>
@@ -60,7 +75,7 @@
           <p>The course covers management and control of activities and techniques that are
                 documented in the ITIL Transition publication.</p>
            <p>
-             <a href="../doc/education/The_ITIL_Intermediate_Qualification_Release_Control_and_Validation_Certificate_Syllabus_v5-4.pdf">ITIL Release Control and Validation Certificate Syllabus</a>
+             <a href="../doc/education/ITIL_Intermediate_Qualification_Release_Control_and_Validation_Certificate_Syllabus_v5-4.pdf">ITIL Release Control and Validation Certificate Syllabus</a>
              <img class="icon" alt="ITIL Release Control and Validation Syllabus" src="../ico/acrobat.gif" />
            </p>
         </td>
@@ -79,7 +94,7 @@
           <p>The course covers management and control of activities and techniques that are
                 documented in the ITIL Service Operation publication.</p>
            <p>
-             <a href="../doc/education/The_ITIL_Intermediate_Qualification_Operational_Support_and_Analysis_Certificate_Syllabus_v5-4.pdf">ITIL Operational Support and Analysis Certificate Syllabus</a>
+             <a href="../doc/education/ITIL_Intermediate_Qualification_Operational_Support_and_Analysis_Certificate_Syllabus_v5-4.pdf">ITIL Operational Support and Analysis Certificate Syllabus</a>
              <img class="icon" alt="ITIL Operational Support and Analysis Syllabus" src="../ico/acrobat.gif" />
            </p>
         </td>
@@ -98,7 +113,7 @@
           <p>The course covers management and control of activities and techniques that are
                 documented in the ITIL Service Operation publication.</p>
            <p>
-             <a href="../doc/education/The_ITIL_Intermediate_Qualification_Service_Operation_Certificate_Syllabus_v5-4.pdf">ITIL Service Operations Certificate Syllabus</a>
+             <a href="../doc/education/ITIL_Intermediate_Qualification_Service_Operation_Certificate_Syllabus_v5-4.pdf">ITIL Service Operations Certificate Syllabus</a>
              <img class="icon" alt="ITIL Service Operations Syllabus" src="../ico/acrobat.gif" />
            </p>
         </td>
@@ -122,7 +137,7 @@
                 Selected processes, functions and roles,
                 Technology and architecture.</p>
            <p>
-             <a href="../doc/education/The_ITIL_Foundation_Certificate_Syllabus_v5-5.pdf">ITIL Foundation Certificate Syllabus</a>
+             <a href="../doc/education/ITIL_Foundation_Certificate_Syllabus_v5-5.pdf">ITIL Foundation Certificate Syllabus</a>
              <img class="icon" alt="ITIL Foundation Syllabus" src="../ico/acrobat.gif" />
            </p>
         </td>
