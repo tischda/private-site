@@ -2,6 +2,11 @@
 private-site - change history
 ===============================================================================
 
+Version 1.0.72 (04 August 2019)
+-------------------------------
+* Updated public GPG key
+
+
 Version 1.0.71 (12 July 2019)
 -----------------------------
 * Updated training and certification
