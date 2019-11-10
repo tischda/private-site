@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xsl:stylesheet [
 <!ENTITY template_header SYSTEM "entities/header.xsl">
 <!ENTITY template_footer SYSTEM "entities/footer.xsl">
@@ -55,10 +55,8 @@
           <meta name="keywords" content="{/nox:page/rdf:RDF/rdf:Description/dc:subject}"/>
         </xsl:if>
         <title>
-          <xsl:value-of select="/nox:page/@title"/>
+          <xsl:value-of select="/nox:page/@title"/> - Daniel TISCHER
         </title>
-        <link rel="icon" href="{$prefix}/favicon.ico" type="image/x-icon"/>
-        <link rel="shortcut icon" href="{$prefix}/favicon.ico" type="image/x-icon"/>
         <xsl:for-each select="/nox:page/nox:javascript">
             <xsl:call-template name="head_javascript"/>
         </xsl:for-each>
