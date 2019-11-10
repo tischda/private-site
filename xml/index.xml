@@ -6,8 +6,8 @@
     <rdf:Description rdf:about="/index.xml">
       <dc:title>danieltischer.com</dc:title>
       <dc:creator>Daniel Tischer</dc:creator>
-      <dc:subject>Senir, Architect, Project Manager, Problem Manager, ITIL, Process, Governance, Strategy</dc:subject>
-      <dc:description>This is the home page of Daniel TISCHER </dc:description>
+      <dc:subject>Senior, Architect, Project Manager, Problem Manager, ITIL, Process, Governance, Strategy</dc:subject>
+      <dc:description>This is Daniel TISCHER's home page</dc:description>
       <dc:type>Text</dc:type>
       <dc:language>en</dc:language>
     </rdf:Description>
@@ -32,15 +32,9 @@
       </tr>
       <tr>
         <td>
-          <a href="doc/cv-daniel-tischer-fr-v3.7.pdf" shape="rect">cv-daniel-tischer-fr-v3.7.pdf</a>
+          <a href="doc/cv-daniel-tischer-fr-v3.8.pdf" shape="rect">cv-daniel-tischer-fr-v3.8.pdf</a>
         </td>
-        <td> 27/11/2018 </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="doc/cv-daniel-tischer-fr-v3.5.1-detail-missions.docx" shape="rect">cv-daniel-tischer-fr-v3.5.1-detail-missions.docx</a>
-        </td>
-        <td> 17/04/2015 </td>
+        <td> 10/11/2019 </td>
       </tr>
       <tr>
         <td>
