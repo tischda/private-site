@@ -2,6 +2,16 @@
 private-site - change history
 ===============================================================================
 
+Version 1.0.73 (10 November 2019)
+---------------------------------
+* Updated CV to v3.8
+* Removed outdated missions and files
+* Removed funny favicon
+* Add name to HTML title in common.xsl
+* Updated nginx to 1.16.1
+* Changed variable names in scripts
+
+
 Version 1.0.72 (04 August 2019)
 -------------------------------
 * Updated public GPG key

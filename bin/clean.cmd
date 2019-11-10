@@ -3,12 +3,13 @@
 :: clean.cmd - deletes the target build folder
 :: ---------------------------------------------------------------------------
 setlocal
-set NOX_BIN=%~dp0
-pushd %NOX_BIN%\..
-set NOX_HOME=%cd%
+set SCRIPT_DIR=%~dp0
+
+pushd %SCRIPT_DIR%\..
+set PROJECT_HOME=%cd%
 popd
 
-echo Removing: "%NOX_HOME%\dist"
-if exist "%NOX_HOME%\dist" rd /Q /S "%NOX_HOME%\dist"
+echo Removing: "%PROJECT_HOME%\dist"
+if exist "%PROJECT_HOME%\dist" rd /Q /S "%PROJECT_HOME%\dist"
 
 endlocal

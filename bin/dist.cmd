@@ -5,29 +5,31 @@
 setlocal
 
 :: set environment
-set NOX_BIN=%~dp0
-pushd %NOX_BIN%\..
-set NOX_HOME=%cd%
+set SCRIPT_DIR=%~dp0
+
+pushd %SCRIPT_DIR%\..
+set PROJECT_HOME=%cd%
 popd
-set NOX_DIST=%NOX_HOME%\dist
-set SGML_CATALOG_FILES=%NOX_HOME%\catalog.xml
+
+set DIST_DIR=%PROJECT_HOME%\dist
+set SGML_CATALOG_FILES=%PROJECT_HOME%\catalog.xml
 
 :: start clean
-call %NOX_BIN%\clean.cmd
+call %SCRIPT_DIR%\clean.cmd
 
 :: compile files
-echo Entering %NOX_HOME%\xml
-cd %NOX_HOME%\xml
+echo Entering %PROJECT_HOME%\xml
+cd %PROJECT_HOME%\xml
 echo Generating files...
 
-if not exist %NOX_DIST% mkdir %NOX_DIST%
+if not exist %DIST_DIR% mkdir %DIST_DIR%
 
-xcopy /T . %NOX_DIST%
+xcopy /T . %DIST_DIR%
 
-%NOX_BIN%\xbuild.exe .xml "%NOX_BIN%\nox.exe --catalogs --nodtdattr -t %NOX_DIST% -d menu.xi %* %NOX_HOME%/xslt/common.xsl"
+%SCRIPT_DIR%\xbuild.exe .xml "%SCRIPT_DIR%\nox.exe --catalogs --nodtdattr -t %DIST_DIR% -d menu.xi %* %PROJECT_HOME%/xslt/common.xsl"
 
 echo.
-echo Copying resources to %NOX_DIST%
-xcopy %NOX_HOME%\res\*.* %NOX_DIST% /E/Q/Y/D
+echo Copying resources to %DIST_DIR%
+xcopy %PROJECT_HOME%\res\*.* %DIST_DIR% /E/Q/Y/D
 
 endlocal

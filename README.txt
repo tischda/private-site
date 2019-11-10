@@ -23,10 +23,10 @@ git clone git://github.com/tischda/private-site.git
 Quickstart
 ----------
 bin\clean.cmd       --> deletes 'dist' output directory
-bin\dist.cmd        --> generates the site for apache
+bin\dist.cmd        --> generates the site for web server
 bin\dist-local.cmd  --> generates the site for local browsing (file system)
 
-Examples:
+Options:
 
   bin\dist.cmd -f   --> force re-generation
   bin\dist.cmd -p prefix http://somesite/url/prefix     --> change prefix
@@ -34,9 +34,9 @@ Examples:
 
 Web Server
 ----------
-bin\start.cmd       --> starts nginx web server (check http://localhost/)
-bin\stop.cmd        --> stops nginx
-bin\reload.cmd      --> reloads nginx.conf
+bin\web-start.cmd       --> starts nginx web server (check http://localhost/)
+bin\web-stop.cmd        --> stops nginx
+bin\web-reload.cmd      --> reloads nginx.conf
 
 
 Documentation

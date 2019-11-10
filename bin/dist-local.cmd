@@ -2,10 +2,16 @@
 :: ---------------------------------------------------------------------------
 :: dist-local.cmd - build web site from source with prefix to local directory
 :: ---------------------------------------------------------------------------
+setlocal 
 
-set NOX_BIN=%~dp0
-pushd %NOX_BIN%\..
-set NOX_DIST=file://%cd%/dist
+set SCRIPT_DIR=%~dp0
+
+:: set build target directory
+pushd %SCRIPT_DIR%\..
+set DIST_DIR=file://%cd%/dist
 popd
 
-call %NOX_BIN%\dist.cmd -p prefix %NOX_DIST% %*
+:: build site
+call %SCRIPT_DIR%\dist.cmd -p prefix %DIST_DIR% %*
+
+endlocal
