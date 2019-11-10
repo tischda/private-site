@@ -13,7 +13,7 @@
                 <a class="image" rel="external" href="http://www.viadeo.com/profile/002v1ytidqbxx8o" title="Viadeo">
                     <img src="{$prefix}/ico/viadeo.png" alt="Viadeo" align="top" height="30px" />
                 </a>
-                <a class="image" rel="external" href="https://fr.linkedin.com/in/danieltischer" title="LinkedIn">
+                <a class="image" rel="external" href="https://www.linkedin.com/in/danieltischer/?originalSubdomain=fr" title="LinkedIn">
                     <img src="{$prefix}/ico/linkedin.png" alt="LinkedIn" align="top" height="32px" />
                 </a>
                 <a class="image" rel="external" href="https://www.xing.com/profile/Daniel_Tischer2" title="Xing">

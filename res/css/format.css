@@ -114,23 +114,6 @@ a[href ^="mailto:"],
     padding-right: 18px;
 }
 
-a[href ^="news://"] {
-    background: url("../ico/news.png") center right no-repeat;
-    padding-right: 18px;
-}
-
-a[href ^="ftp://"],
-.link-ftp {
-    background: url("../ico/file16x16.gif") center right no-repeat;
-    padding-right: 18px;
-}
-
-a[href ^="irc://"],
-.link-irc {
-    background: url("../ico/discussion.gif")  center right no-repeat;
-    padding-right: 18px;
-}
-
 a.image, a.css {
     background: transparent;
     border-bottom: none;
