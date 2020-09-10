@@ -27,15 +27,33 @@
         
     <table class="preformat" style="width: 550px" summary="Curriculum Vitae">
       <tr>
-        <th>Fichier</th>
+        <th>File</th>
         <th>Date</th>
       </tr>
       <tr>
         <td>
           <a href="doc/cv-daniel-tischer-fr-v3.9.pdf" shape="rect">cv-daniel-tischer-fr-v3.9.pdf</a>
         </td>
-        <td> 08/04/2020 </td>
+        <td> 10/09/2020 </td>
       </tr>
+      <tr>
+        <td>
+          <a href="doc/cv-daniel-tischer-en-v3.9.pdf" shape="rect">cv-daniel-tischer-en-v3.9.pdf</a>
+        </td>
+        <td> 10/09/2020 </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="doc/20200910-diploma-daniel-tischer.pdf" shape="rect">20200910-diploma-daniel-tischer.pdf</a>
+        </td>
+        <td> 10/09/2020 </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="doc/20200910-training-daniel-tischer.pdf" shape="rect">20200910-training-daniel-tischer.pdf</a>
+        </td>
+        <td> 10/09/2020 </td>
+      </tr>      
       <tr>
         <td>
           <a href="doc/daniel-tischer-public-key.asc" shape="rect">daniel-tischer-public-key.asc</a>
