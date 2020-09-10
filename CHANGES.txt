@@ -2,6 +2,12 @@
 private-site - change history
 ===============================================================================
 
+Version 1.0.74 (10 September 2020)
+----------------------------------
+* Updated CV to 3.9 + EN
+* Add PDF with all certificates
+
+
 Version 1.0.73 (10 November 2019)
 ---------------------------------
 * Updated CV to v3.8
