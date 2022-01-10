@@ -27,7 +27,11 @@
              <img class="icon" alt="ITIL v4 Managing Professional Transition Syllabus" src="../ico/acrobat.gif" />
            </p>
         </td>
-        <td>Online Training</td>
+        <td>
+          <a class="image" href="../img/education/edu/edu_itil4.png" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil4.png" alt="ITIL v4 Managing Professional Transition" />
+          </a>
+        </td>
       </tr>
       <tr>
         <td>2019<br /><br />Orsys<br /><br />
