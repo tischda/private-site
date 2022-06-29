@@ -2,9 +2,15 @@
 private-site - change history
 ===============================================================================
 
+Version 1.0.76 (29 June 2022)
+-----------------------------
+* Added ITIL v4 DITS certification
+* Updated nginx to v1.22
+
+
 Version 1.0.75 (22 December 2021)
 ---------------------------------
-* Add Itil v4
+* Added ITIL v4
 * Updated CV to 3.10
 * Updated PDF with all certificates
 
@@ -12,7 +18,7 @@ Version 1.0.75 (22 December 2021)
 Version 1.0.74 (10 September 2020)
 ----------------------------------
 * Updated CV to 3.9 + EN
-* Add PDF with all certificates
+* Added PDF with all certificates
 
 
 Version 1.0.73 (10 November 2019)
