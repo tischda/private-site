@@ -2,6 +2,12 @@
 private-site - change history
 ===============================================================================
 
+Version 1.0.77 (30 June 2022)
+-----------------------------
+* Updated CV to 3.11
+* Updated trainings and documents
+
+
 Version 1.0.76 (29 June 2022)
 -----------------------------
 * Added ITIL v4 DITS certification

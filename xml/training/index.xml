@@ -15,6 +15,24 @@
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
       <tr>
+        <td>2022<br /><br />FCT Solutions<br /><br />
+          <i>Online</i></td>
+        <td>3 days</td>
+        <td>
+          <b>ITIL 4 Leader: Digital and IT Strategy</b>
+		<p>This module adds a new perspective to the ITIL 4 guidance and helps senior IT and business executives and leaders, heads of department and aspiring C-Suite professionals across the organization to define and lead the strategy for the design and/or management of IT-enabled products and services.</p>
+           <p>
+             <a href="../doc/education/ITIL-4-Leader-Digital-and-IT-Strategy-Candidate-Syllabus-English.pdf">ITIL 4 Leader: Digital and IT Strategy Syllabus</a>
+             <img class="icon" alt="ITIL 4 Leader: Digital and IT Strategy Syllabus" src="../ico/acrobat.gif" />
+           </p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/edu/edu_itil4_dits.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil4_dits.jpg" alt="ITIL 4 Leader: Digital and IT Strategy" />
+          </a>
+        </td>
+      </tr>
+      <tr>
         <td>2021<br /><br />FCT Solutions<br /><br />
           <i>Online</i></td>
         <td>5 days</td>
@@ -28,8 +46,8 @@
            </p>
         </td>
         <td>
-          <a class="image" href="../img/education/edu/edu_itil4.png" rel="external">
-            <img src="../img/education/edu/thumbs/edu_itil4.png" alt="ITIL v4 Managing Professional Transition" />
+          <a class="image" href="../img/education/edu/edu_itil4.jpg" rel="external">
+            <img src="../img/education/edu/thumbs/edu_itil4.jpg" alt="ITIL v4 Managing Professional Transition" />
           </a>
         </td>
       </tr>
@@ -305,7 +323,7 @@
             better scaling and HA with semantic correctness, whilst providing low time-to-market and
             in-depth visibility into the Java Cluster (http-sessions, distributed caches, clustering
             POJOs, Spring singleton-beans/context).</p>
-          <p><a href="../doc/education/terracotta.pdf">Terracotta Overview</a>
+          <p><a href="../doc/education/terracotta.pdf">Terracotta overview</a>
             <img class="icon" alt="Terracotta overview" src="../ico/acrobat.gif" /></p>
         </td>
         <td>
@@ -437,7 +455,7 @@
         <td>
           <b>Spring &amp; Hibernate</b>
           <p>As the leading full-stack Java/J2EE application framework, the <a
-              href="http://www.springsource.org/" rel="external">Spring Framework</a> delivers
+              href="https://spring.io/" rel="external">Spring Framework</a> delivers
             significant benefits for many projects, reducing development effort and costs while
             improving test coverage and quality.</p>
           <p><a href="http://www.hibernate.org/" rel="external">Hibernate</a> is a powerful,
@@ -458,7 +476,7 @@
       <tr>
         <td>2005<br /><br />OHIM<br />(IIL Training)<br /><br />
           <i>Alicante</i></td>
-        <td>1+ weeks</td>
+        <td>3 weeks</td>
         <td>
           <b>PMI Project Management</b>
           <p>PMI’s Project Management Professional (PMP)® credential is the most important
@@ -480,14 +498,12 @@
         <td>
           <b>BEA Weblogic 7 and 8.1</b>
           <p>Customized training session:</p>
-          <p><a href="../doc/cached/bea_wls_d11_70.html" rel="external">WLS-D11-70</a> Fundamentals
-            of J2EE Web Application Dev.</p>
-          <p><a href="../doc/cached/bea_wls_d21_70.html" rel="external">WLS-D21-70</a> Dev. Business
-            Logic Components with EJBs</p>
-          <p><a href="../doc/cached/bea_wls_d29_70.html" rel="external">WLS-D29-70</a> Developing
-            Enterprise Web Services</p>
-          <p><a href="../doc/cached/bea_wls_plat81.html" rel="external">PLAT-01-81</a> Introduction
-            to the BEA WebLogic Platform 8.1</p>
+          <ul>
+          <li><a href="../doc/cached/bea_wls_d11_70.html" rel="external">WLS-D11-70</a> : Fundamentals of J2EE Web Application Development</li>
+          <li><a href="../doc/cached/bea_wls_d21_70.html" rel="external">WLS-D21-70</a> : Developing Business Logic Components with EJBs</li>
+          <li><a href="../doc/cached/bea_wls_d29_70.html" rel="external">WLS-D29-70</a> : Developing Enterprise Web Services</li>
+          <li><a href="../doc/cached/bea_wls_plat81.html" rel="external">PLAT-01-81</a> : Introduction to the BEA WebLogic Platform 8.1</li>
+  	  </ul>
         </td>
         <td>
           <a class="image" href="../img/education/cert/cert_bea.jpg" rel="external">
@@ -500,15 +516,17 @@
           <i>Luxembourg</i></td>
         <td>3 days</td>
         <td>
-          <b>NPS Training</b>
+          <b>NPS Training</b>          
           <p>Infopark NPS combines targeted information editing with the perfect integration of
             portal- and CMS functions.</p>
-          <p><i>Editor's Training</i> - Insert and maintain contents in Infopark NPS. Accomplish an
-            editor's daily tasks.</p>
-          <p><i>Administrator's Training</i> Advanced Infopark NPS usage to provide the knowledge
-            required for handling NPS administrative issues.</p>
-          <p><i>Webmaster training</i> - Individual design and unification of design elements with
-            templates. Usage of Infopark NPS tools for automation.</p>
+          <ul>
+          <li><i>Editor's Training</i> : Insert and maintain contents in Infopark NPS. Accomplish an
+            editor's daily tasks.</li>
+          <li><i>Administrator's Training</i> : Advanced Infopark NPS usage to provide the knowledge
+            required for handling NPS administrative issues.</li>
+          <li><i>Webmaster training</i> : Individual design and unification of design elements with
+            templates. Usage of Infopark NPS tools for automation.</li>
+    	</ul>
         </td>
         <td>
           <a class="image" href="../img/education/edu/edu_nps.jpg" rel="external">
