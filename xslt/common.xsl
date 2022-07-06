@@ -64,6 +64,7 @@
         <link rel="stylesheet" type="text/css" media="all" href="{$prefix}/css/layout.css"/>
         <link rel="stylesheet" type="text/css" media="print" href="{$prefix}/css/print.css"/>
         <link rel="stylesheet" title="preferred" type="text/css" media="screen" href="{$prefix}/css/preferred.css"/>
+        <link rel="shortcut icon" href="#" />
         <xsl:for-each select="/nox:page/nox:stylesheet">
             <xsl:call-template name="stylesheet"/>
         </xsl:for-each>
