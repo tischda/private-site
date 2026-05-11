@@ -6,7 +6,7 @@
     <rdf:Description rdf:about="/index.xml">
       <dc:title>danieltischer.com</dc:title>
       <dc:creator>Daniel Tischer</dc:creator>
-      <dc:subject>Senior, Architect, Project Manager, Problem Manager, ITIL, Process, Governance, Strategy</dc:subject>
+      <dc:subject>Senior, Architect, Project Manager, ITIL, Process, DevOps, Cloud</dc:subject>
       <dc:description>This is Daniel TISCHER's home page</dc:description>
       <dc:type>Text</dc:type>
       <dc:language>en</dc:language>
@@ -17,12 +17,9 @@
   </nox:menublock>
 
   <nox:section>
-    <h1>Architecte IT / Ingénieur Senior - Expert ITIL</h1>
-    <p>Avec 28 ans d’expérience, quadrilingue, je suis l’interface privilégiée pour optimiser le
-       cycle de vie des services de l'entreprise.</p>
-    <p>Pour cela je me base sur mon expertise des bonnes pratiques ITIL.</p>
-    <p>Actuellement en poste chez <a href="https://worldline.com/">Worldline</a> sur le site de Tours.</p>
-    
+    <h1>Architecte Solutions Cloud</h1>
+    <p>Ingénieur en informatique avec plus de 30 ans d’expérience, Expert ITIL et certifié Google Professional Cloud Architect,
+      je suis l'interface privilégiée pour optimiser les processus l'entreprise.</p>
     <p><br/></p>
         
     <table class="preformat" style="width: 550px" summary="Curriculum Vitae">
@@ -59,7 +56,7 @@
           <a href="doc/daniel-tischer-public-key.asc" shape="rect">daniel-tischer-public-key.asc</a>
           <p>6C24 85A3 0C16 CD1A D193  8140 126E 5959 76C2 50CB</p>
         </td>
-        <td> 04/08/2019  - 30/12/2023 </td>
+        <td> 04/08/2019  - 31/12/2026 </td>
       </tr>
     </table>
 

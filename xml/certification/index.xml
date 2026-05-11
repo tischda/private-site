@@ -14,6 +14,25 @@
         <td colspan="5" class="tablesubheader1"> </td>
       </tr>
       <tr>
+        <td>2025<br /><br />Google<br /><br />
+          <i>Tours</i></td>
+        <td>
+          <b>Google Professional Cloud Architect</b>
+          <p>A <a href="https://cloud.google.com/learn/certification/cloud-architect" rel="external" title="Google Professional Cloud Architect">Google Professional Cloud Architect</a>
+            is able to leverage Google Cloud technologies to design, develop, and manage
+            robust, secure, scalable, efficient, cost-effective, highly available, and flexible solutions that drive business
+            objectives. The Professional Cloud Architect should be proficient in enterprise cloud strategy, solution design,
+            workload migration approaches, deployment and orchestration, optimization, and architectural best practices.
+            This individual is also experienced with common open-source technologies and software development methodologies
+            for designing multitiered distributed applications across legacy, multicloud, or hybrid environments.</p>
+        </td>
+        <td>
+          <a class="image" href="../img/education/cert/cert_cloud_architect.png" rel="external">
+            <img src="../img/education/cert/thumbs/cert_cloud_architect.png" alt="Google Cloud Architect Certification" />
+          </a>
+        </td>
+      </tr>
+      <tr>
         <td>2022<br /><br />Axelos<br /><br />
           <i>Tours</i></td>
         <td>

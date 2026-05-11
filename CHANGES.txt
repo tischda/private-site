@@ -2,6 +2,9 @@
 private-site - change history
 ===============================================================================
 
+Version 1.0.78 (11 May 2026)
+----------------------------
+* Added Google Cloud Architect certification
 * Fixed 404 on favicon.ico
 
 
