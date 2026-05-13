@@ -23,7 +23,7 @@ MAKEFLAGS += --no-print-directory
 all: clean dist-local
 
 ## dist: build the distribution (for the web)
-dist:
+dist: clean
 	@cmd /c bin\dist.cmd
 
 ## dist-local: build a local distribution (local files, no web server)
