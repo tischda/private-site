@@ -13,13 +13,17 @@
     </rdf:Description>
   </rdf:RDF>
   <nox:menublock>
-    <img src="img/tischer-20s.jpg" alt="Daniel TISCHER"/>
+    <img src="img/photo.jpg" alt="Daniel TISCHER" width="200px"/>
   </nox:menublock>
 
   <nox:section>
     <h1>Architecte Solutions Cloud</h1>
-    <p>Ingénieur en informatique avec plus de 30 ans d’expérience, Expert ITIL et certifié Google Professional Cloud Architect,
-      je suis l'interface privilégiée pour optimiser les processus l'entreprise.</p>
+    <p>Ingénieur en informatique avec plus de 30 ans d’expérience</p>
+    <ul>
+      <li>Expert ITIL v4</li>
+      <li>Google Professional Cloud Architect</li>
+    </ul>
+    <p>Je suis l'interface privilégiée pour optimiser les processus l'entreprise.</p>
     <p><br/></p>
         
     <table class="preformat" style="width: 550px" summary="Curriculum Vitae">
@@ -29,21 +33,21 @@
       </tr>
       <tr>
         <td>
-          <a href="doc/cv-daniel-tischer-fr-v3.11.pdf" shape="rect">cv-daniel-tischer-fr-v3.11.pdf</a>
+          <a href="doc/cv-daniel-tischer-fr-v3.20.pdf" shape="rect">cv-daniel-tischer-fr-v3.20.pdf</a>
         </td>
-        <td> 30/06/2022 </td>
+        <td> 13/05/2026 </td>
       </tr>
       <tr>
         <td>
-          <a href="doc/cv-daniel-tischer-en-v3.11.pdf" shape="rect">cv-daniel-tischer-en-v3.11.pdf</a>
+          <a href="doc/cv-daniel-tischer-en-v3.20.pdf" shape="rect">cv-daniel-tischer-en-v3.20.pdf</a>
         </td>
-        <td> 30/06/2022 </td>
+        <td> 13/05/2026 </td>
       </tr>
       <tr>
         <td>
-          <a href="doc/20220629-diploma-daniel-tischer.pdf" shape="rect">20220629-diploma-daniel-tischer.pdf</a>
+          <a href="doc/20260513-diploma-daniel-tischer.pdf" shape="rect">20260513-diploma-daniel-tischer.pdf</a>
         </td>
-        <td> 29/06/2022 </td>
+        <td> 13/05/2026 </td>
       </tr>
       <tr>
         <td>
